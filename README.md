@@ -14,7 +14,7 @@ coverY: -63.50194552529183
 If you have any questions, concerns, or would like to see something added, please don't hesitate to reach out to a member of our staff team, or even contribute your own content/edits! :)
 {% endhint %}
 
-### About the server
+### About the server!
 
 We're a close-knit community of folk who love to sit back, enjoy each others company and have a good time. Play comfortably in our no-grief survival world featuring economy, exciting quests and challenges, player markets, personal & community waypoints, keep-inventory, mob head drops, /fly for builds, and a ton more awesome stuff (see the [tweaks ](survival/tweak-list/)list)
 
