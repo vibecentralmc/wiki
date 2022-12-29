@@ -46,7 +46,7 @@
 * Left click on ageable mobs with a milk bucket to turn them into a baby
 * [Armor stand editor](armor-stand-editor.md)
 * Teleporting in a boat takes the passenger mob with you
-* Teleporting while riding a house takes it with you
+* Teleporting while riding a horse takes it with you
 * [The moon](the-moon.md)****
 * Totem of undying works in any inventory slot
 * [Enchantment upgrade tables](enchantment-upgrade-tables.md)

@@ -49,3 +49,15 @@ Use the cycling master tool in your hotbar to set up your course
 ![](<../.gitbook/assets/image (1).png>)![](<../.gitbook/assets/image (18).png>)
 
 Once all course requirements are met (start & end location and difficulty set), you can publish the course. In order to ensure it's possible, you will be asked to play test the course. Once successfully completed, the course will be published and playable by everybody! You can optionally set the block/item that appears for the course icon in the menu. At any time, you can unpublish the course to edit it again, but do note that this will clear any leaderboard times for the course and will require another playtest.
+
+### Difficulty
+
+There are 5 difficulties you can select to display on your courses. It's important to set which you feel most accurately reflects your course to allow players to participate in course difficulties they're most comfortable with.
+
+Available difficulties:
+
+* Beginner
+* Intermediate
+* Advanced
+* Expert
+* Varying difficulties&#x20;
