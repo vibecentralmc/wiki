@@ -63,6 +63,7 @@
   * [Angry cows](survival/tweak-list/angry-cows.md)
   * [Toggleable PvP](survival/tweak-list/toggleable-pvp.md)
   * [Starter kit](survival/tweak-list/starter-kit.md)
+  * [Axolotl variant display](survival/tweak-list/axolotl-variant-display.md)
 * [Economy](survival/economy.md)
 * [Questing](survival/questing.md)
 * [Land Claiming](survival/land-claiming.md)

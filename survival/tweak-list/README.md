@@ -53,3 +53,4 @@
 * Fully grown crops drop a small amount of xp when harvested
 * [Unlocked head slot](unlocked-head-slot.md)
 * [Toggleable PvP](toggleable-pvp.md)
+* [Axolotl variant display on buckets](axolotl-variant-display.md)
