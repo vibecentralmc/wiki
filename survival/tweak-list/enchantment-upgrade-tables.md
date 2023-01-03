@@ -21,7 +21,7 @@ Enchantments which have had their vanilla max levels raised are shown on the tab
 | Punch                 |     8     |           175           |
 | Knockback             |     6     |           215           |
 | Sweeping Edge         |     6     |           175           |
-| Lure                  |     8     |           125           |
+| Lure                  |     8     |           150           |
 | Respiration           |     10    |           155           |
 | Feather Falling       |     8     |           155           |
 | Depth Strider         |     8     |           155           |
