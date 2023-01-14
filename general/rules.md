@@ -72,7 +72,7 @@ Living in the market is not allowed. Any personal builds should be at least 400 
 
 ##
 
-## 10. Idling beyond 8 hours is not allowed
+## 10. AFK rules
 
 AFK farming for items in moderation is okay, but should never require any form of auto clicking or auto movement, including fish farms.
 
