@@ -74,9 +74,9 @@ Living in the market is not allowed. Any personal builds should be at least 400 
 
 ## 10. Idling beyond 8 hours is not allowed
 
-There is an automatic kick in place to prevent players afking beyond 8 hours.\
-\
-Idling for physical items via automatic farms is allowed, so long as it does not require any form of client automation, like auto clickers or auto movement. Idling to farm non-physical assets, such as claim blocks or vibe exp, or playtime is not allowed. Idle/AFK pools or other methods to circumvent the idle kick system are prohibited
+AFK farming for items in moderation is okay, but should never require any form of auto clicking or auto movement, including fish farms.
+
+Excessive AFK durations / overnight afking is only allowed if not afk farming (excluding monthly jumps at survival spawn)
 
 ##
 
