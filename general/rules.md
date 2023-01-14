@@ -78,6 +78,8 @@ AFK farming for items in moderation is okay, but should never require any form o
 
 Excessive AFK durations / overnight afking is only allowed if not afk farming (excluding monthly jumps at survival spawn)
 
+**Note that the server restarts daily at 3:55am EST**
+
 ##
 
 ## 11. Cheating of any form, abusing exploits, or using any client modifications that give you an advantage over users playing on vanilla is not allowed
