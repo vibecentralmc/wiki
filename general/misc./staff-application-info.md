@@ -11,6 +11,8 @@ Apart from owners, the Helper role is vibe central's sole staff position. Those 
 * Highly knowledgeable about the server, its features, rules, etc.
 * Generally well known by the community with good standing
 * Have no punishments, rule violations, or other infractions on your server record
+* Server level 50 or higher
+* VIP tier 3 or higher
 
 ## Core responsibilities
 
