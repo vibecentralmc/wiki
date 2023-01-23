@@ -25,6 +25,7 @@
   * [Tablist](general/misc./tablist.md)
   * [WorldEdit](general/misc./worldedit.md)
   * [PvP arena](general/misc./pvp-arena.md)
+  * [Staff application info](general/misc./staff-application-info.md)
 
 ## 🌴 survival
 

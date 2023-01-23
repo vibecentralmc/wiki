@@ -140,6 +140,8 @@ Alternatively view the [**VIP Perk Chart**](vip.md)****
 
 Apart from owners, the helper role is vibe central's sole staff position. Those in the helper position do all the same things as members, but have additional responsibilities designated in surface-level community management to ensure the server stays fun and enjoyable for all.
 
+Interested in joining our team? See the [staff application info page](../misc./staff-application-info.md)
+
 ![](../../.gitbook/assets/helper.png)
 
 ## Owner
