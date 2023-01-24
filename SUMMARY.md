@@ -29,7 +29,8 @@
 
 ## 🌴 survival
 
-* [SMP Survival - S5](survival/smp-survival-s5.md)
+* [SMP Survival - S5](survival/smp-survival-s5/README.md)
+  * [Season information](survival/smp-survival-s5/season-information.md)
 * [Tweak list](survival/tweak-list/README.md)
   * [Tree feller](survival/tweak-list/tree-feller.md)
   * [Vein miner](survival/tweak-list/vein-miner.md)
