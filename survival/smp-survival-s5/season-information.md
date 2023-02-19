@@ -6,7 +6,7 @@ We are happy to provide answers to any questions or concerns you have, no matter
 
 ## What's a season?
 
-The SMP operates on a season based rotation. Based on community retention (roughly every 12 months) we completely refresh the smp, including the overworld, nether, end, economy, inventories, community warps, etc. Our goal is to give sufficient time for everybody to reach end game and feel satisfied with their work, while also ensuring new content is always available for everyone in the future.
+The SMP operates on a season based rotation. Based on community retention (roughly every 6-12 months) we completely refresh the smp, including the overworld, nether, end, economy, inventories, community warps, etc. Our goal is to give sufficient time for everybody to reach end game and feel satisfied with their work, while also ensuring new content is always available for everyone in the future.
 
 New seasons only affect the smp itself. Players member or vip ranks, server level, and content in creative plots & parkour are never reset in new seasons. **Play time is season based, so it will be reset!**
 
