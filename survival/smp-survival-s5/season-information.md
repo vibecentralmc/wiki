@@ -8,7 +8,7 @@ We are happy to provide answers to any questions or concerns you have, no matter
 
 The SMP operates on a season based rotation. Based on community retention (roughly every 12 months) we completely refresh the smp, including the overworld, nether, end, economy, inventories, community warps, etc. Our goal is to give sufficient time for everybody to reach end game and feel satisfied with their work, while also ensuring new content is always available for everyone in the future.
 
-New seasons only affect the smp itself. Players member or vip ranks, server level, and content in creative plots & parkour are never reset in new seasons.
+New seasons only affect the smp itself. Players member or vip ranks, server level, and content in creative plots & parkour are never reset in new seasons. **Play time is season based, so it will be reset!**
 
 {% hint style="info" %}
 The smp is currently in its 5th season, which began July 30, 2022
@@ -52,7 +52,7 @@ We do provide options to save your work and continue your survival in a single p
 
 ## **How will I know when the next season is coming?**
 
-We always give ample notice before a new season begins (2 or more months prior). We will make frequent announcements on our[ Discord ](../../general/discord.md)and in-game to ensure everybody is updated and aware when a new season is on its way. We will never suddenly implement a new season without giving 2 months or more notice.
+We always give ample notice before a new season begins (At least a month prior). We will make frequent announcements on our[ Discord ](../../general/discord.md)and in-game to ensure everybody is updated and aware when a new season is on its way. We will never suddenly implement a new season without ample notice.
 
 ## D**oes the world seed change?**
 
