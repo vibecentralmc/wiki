@@ -6,38 +6,82 @@ Interactable blocks and entities have special visualizers that add an extra leve
 
 ### Damage indicators & health bars
 
-![](../../.gitbook/assets/damage0.gif)
+<div align="left">
 
-![](../../.gitbook/assets/damage1.gif)
+<img src="../../.gitbook/assets/damage0.gif" alt="">
+
+</div>
+
+<div align="left">
+
+<img src="../../.gitbook/assets/damage1.gif" alt="">
+
+</div>
 
 ### Crafting table
 
-![](<../../.gitbook/assets/Screenshot 2022-08-12 005418.png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/Screenshot 2022-08-12 005418.png" alt="">
+
+</div>
 
 ### Chests
 
-![](../../.gitbook/assets/chest.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/chest.png" alt="">
+
+</div>
 
 ### Furnaces
 
-![](../../.gitbook/assets/furnace.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/furnace.png" alt="">
+
+</div>
 
 ### Enchantment tables
 
-![](<../../.gitbook/assets/table (1).png>) ![](../../.gitbook/assets/table2.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/table (1).png" alt="">
+
+ 
+
+<img src="../../.gitbook/assets/table2.png" alt="">
+
+</div>
 
 ### Jukeboxes
 
-![](<../../.gitbook/assets/Screenshot 2022-08-12 010907.png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/Screenshot 2022-08-12 010907.png" alt="">
+
+</div>
 
 ### Anvils
 
-![](<../../.gitbook/assets/Screenshot 2022-08-12 011324.png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/Screenshot 2022-08-12 011324.png" alt="">
+
+</div>
 
 ### Lecterns
 
-![](<../../.gitbook/assets/Screenshot 2022-08-12 011521.png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/Screenshot 2022-08-12 011521.png" alt="">
+
+</div>
 
 ### Spawners
 
-![](../../.gitbook/assets/spawner.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/spawner.png" alt="">
+
+</div>

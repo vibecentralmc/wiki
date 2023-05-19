@@ -8,9 +8,9 @@ All server bound traffic is first proxied and examined before being passed to th
 
 
 **Movement analysis**\
-****We use a machine learning anticheat equip with a full replication of player's possible movements and the ability to take into account how players interact in their unique environment, preventing virtually any illegitimate action while maintaining extremely low false positive rates.
+We use a machine learning anticheat equip with a full replication of player's possible movements and the ability to take into account how players interact in their unique environment, preventing virtually any illegitimate action while maintaining extremely low false positive rates.
 
-****\
+\
 **Block data obfuscation based anti x-ray**\
 This system sends a mixture of air and fake ore block data in replacement of all solid blocks underground. As players mine, the fake ore data is replaced by the real block data within a radius of the player. With decent latency, this system is invisible to legitimate players, however high latency connections may see the fake ores for a moment before the the real block data arrives and updates on the client.\
 
@@ -18,7 +18,7 @@ This system sends a mixture of air and fake ore block data in replacement of all
 **Mining pattern examination anti x-ray**\
 While block data obfuscation is typically enough to prevent most cheaters, in some circumstances the obfuscation can be bypassed by sophisticated means. To combat this, we use intelligent algorithms to examine mining patterns and punish players if they're found to be behaving illegitimately.
 
-****\
+\
 **Exploit prevention**\
 Game breaking exploits are patched on the server to ensure everybody plays fair.\
 \
@@ -70,4 +70,4 @@ Additionally, smaller selective player data is backed up on session start & end,
 \
 \
 **Account linking**\
-****To access our Discord and view any channels, users must first verify their Discord account through the mc server via a simple automated process to ensure only server members can access the Discord. Not only does this cultivate a more exclusive, close-knit community space because everybody is able to recognize people by the same usernames, but this also provides the server the ability to automatically synchronize display name/nickname changes, ranks, mutes & bans, and more across the MC server and Discord server. &#x20;
+To access our Discord and view any channels, users must first verify their Discord account through the mc server via a simple automated process to ensure only server members can access the Discord. Not only does this cultivate a more exclusive, close-knit community space because everybody is able to recognize people by the same usernames, but this also provides the server the ability to automatically synchronize display name/nickname changes, ranks, mutes & bans, and more across the MC server and Discord server. &#x20;

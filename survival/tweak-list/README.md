@@ -47,7 +47,7 @@
 * [Armor stand editor](armor-stand-editor.md)
 * Teleporting in a boat takes the passenger mob with you
 * Teleporting while riding a horse takes it with you
-* [The moon](the-moon.md)****
+* [The moon](the-moon.md)
 * Totem of undying works in any inventory slot
 * [Enchantment upgrade tables](enchantment-upgrade-tables.md)
 * Fully grown crops drop a small amount of xp when harvested

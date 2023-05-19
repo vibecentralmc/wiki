@@ -5,16 +5,16 @@ Players can create public waypoints to notable locations like towns, shops, comm
 ### Commands
 
 * **`/warps`**\
-  **``**Open the community made waypoints menu\
+  Open the community made waypoints menu\
 
 * **`/warp <name>`**\
-  **``**Teleport to a community waypoint without using the menu\
+  Teleport to a community waypoint without using the menu\
 
 * **`/setwarp <name>`**\
-  **``**Set a new community waypoint at your location\
+  Set a new community waypoint at your location\
 
 * **`/delwarp <name>`**\
-  **``**Delete one of your community waypoints\
+  Delete one of your community waypoints\
 
 * **`/setwarpdesc <warp> <warp description>`**\
-  **``**Set the description of a community waypoint
+  Set the description of a community waypoint

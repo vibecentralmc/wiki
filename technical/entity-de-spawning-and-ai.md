@@ -47,22 +47,22 @@ Entities are primarily despawned based on their distance from players or their l
 ### **Range-based despawning**
 
 **Hostiles**\
-****Chance to despawn when: >28 blocks\
+Chance to despawn when: >28 blocks\
 Immediately despawned when: >48 blocks
 
 **Axolotls**\
-****Chance to despawn when: >32 blocks\
+Chance to despawn when: >32 blocks\
 Immediately despawned when: >128 blocks\
 \
 **Sea creatures**\
-****Chance to despawn when: >28 blocks\
+Chance to despawn when: >28 blocks\
 Immediately despawned when: >48 blocks
 
 ### **Radius-based (mob cap) despawning**
 
 {% hint style="info" %}
 **Good to know**\
-****
+
 
 * Nametagged and tamed mobs are exempt from despawning\
 
@@ -72,25 +72,25 @@ Immediately despawned when: >48 blocks
 {% endhint %}
 
 **Exclusive**\
-****These entities are exclusively despawned by radius-based despawning
+These entities are exclusively despawned by radius-based despawning
 
 <details>
 
 <summary>Expand</summary>
 
 **Animals (pig, cow, sheep, chicken)**\
-****Main cap: 22\
+Main cap: 22\
 Within: 14x14 blocks\
 \
 Secondary cap: 10\
 Within 2x2 blocks\
 \
 **Rabbits**\
-****Cap: 12\
+Cap: 12\
 Within: 15x15 blocks\
 \
 **Bees**\
-****Cap: 12\
+Cap: 12\
 Within: 8x8 blocks\
 \
 **Villagers**\

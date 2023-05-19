@@ -4,7 +4,7 @@ The plot world is a communal build space where everybody can get dedicated plots
 
 Use **`/creative`** to travel to the plot world
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Plot manage menu
 
@@ -34,15 +34,19 @@ WorldEdit is offered in the plot world. For in-depth information and commands, s
 
 Using the F key while holding an item will show blocks of similar type for you to easily grab them.
 
+<div align="left">
+
 <figure><img src="../.gitbook/assets/belt1.png" alt=""><figcaption><p>A belt produced by pressing F while holding oak planks</p></figcaption></figure>
+
+</div>
 
 ### Commands
 
 * **`/plot auto`**\
-  **``**Automatically claim and teleport to an available plot\
+  Automatically claim and teleport to an available plot\
 
 * **`/plot claim`**\
-  **``**Claim the plot you're currently standing in if not taken\
+  Claim the plot you're currently standing in if not taken\
 
 * **`/plot visit [player] [plot number]`**\
-  **``**Teleport to somebody's plot
+  Teleport to somebody's plot

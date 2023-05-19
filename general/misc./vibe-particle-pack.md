@@ -7,4 +7,12 @@ There are **90+** particle effects, **35+** particle styles, and you can mix & m
 Access the intuitive menu in-game using **/pp**\
 Requires particles to be enabled in your mc video settings
 
-![](<../../.gitbook/assets/Screenshot 2022-08-11 234525.png>) ![](../../.gitbook/assets/home.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/Screenshot 2022-08-11 234525.png" alt="">
+
+ 
+
+<img src="../../.gitbook/assets/home.png" alt="">
+
+</div>

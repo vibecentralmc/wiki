@@ -6,7 +6,7 @@ Upon joining, if you're mid air (logged off flying) xp flight or free fly will b
 
 {% hint style="info" %}
 **XP & free fly only works in the main world**\
-****Nobody can fly in the nether or end, even VIPs
+Nobody can fly in the nether or end, even VIPs
 {% endhint %}
 
 ### Flight range

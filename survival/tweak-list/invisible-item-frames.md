@@ -4,4 +4,12 @@ Invisible item frames allow you to place items with no frame for a neat item eff
 
 ![](../../.gitbook/assets/invis.png)
 
-![](../../.gitbook/assets/item.png) ![A great way of elegantly sorting chests too, this works because of the container passthrough tweak!](<../../.gitbook/assets/Screenshot 2022-08-13 000452 (1).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/item.png" alt="">
+
+ 
+
+<img src="../../.gitbook/assets/Screenshot 2022-08-13 000452 (1).png" alt="A great way of elegantly sorting chests too, this works because of the container passthrough tweak!">
+
+</div>

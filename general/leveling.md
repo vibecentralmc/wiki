@@ -10,4 +10,8 @@ Your server level is a measure of how experienced & well-known you are around vi
 
 Level colors smoothly transition on a gradient. Each line in the image below represents 5 levels, and 2 levels after 100. Before the yellow, level color is gray 0-9. The level color becomes bolded at and after level 50.
 
+<div align="center">
+
 <figure><img src="../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>

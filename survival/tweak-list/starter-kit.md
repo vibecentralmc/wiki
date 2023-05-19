@@ -2,7 +2,11 @@
 
 When you join a season for the first time, you'll get the below starter items.
 
-![](../../.gitbook/assets/starter.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/starter.png" alt="">
+
+</div>
 
 ### Golden shovel & stick
 

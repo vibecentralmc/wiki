@@ -39,12 +39,12 @@ Permission management is done through the trust gui, opened after running the tr
 * **`/kit claim`**\
   Get a new claim shovel and claim checker \
   _Cooldown: 30 minutes_\
-  __
+
 
 <!---->
 
 * **`/abandonclaim`**\
-  **``**Remove the claim you're currently standing in\
+  Remove the claim you're currently standing in\
 
 
 <!---->
@@ -80,7 +80,7 @@ Permission management is done through the trust gui, opened after running the tr
 <!---->
 
 * **`/trapped`**\
-  **``**Teleport out of the land claim you're currently in if you're stuck
+  Teleport out of the land claim you're currently in if you're stuck
 
 </details>
 

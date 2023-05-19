@@ -15,7 +15,7 @@ Unlike vanilla WorldEdit, operations on vibe are performed asynchronously and th
 ### Commands
 
 * **`//wand`**\
-  **``**Allows you to select two positions to create a cuboid selection. Use //set or another WorldEdit command to modify the space in between the two positions. The cuboid is visualized with purple particles, and other players' cuboids are visualized with orange flame particles.\
+  Allows you to select two positions to create a cuboid selection. Use //set or another WorldEdit command to modify the space in between the two positions. The cuboid is visualized with purple particles, and other players' cuboids are visualized with orange flame particles.\
 
 * **`//set <block,block,block,etc>`**\
   Sets your WorldEdit selection to a target block or mix of blocks\

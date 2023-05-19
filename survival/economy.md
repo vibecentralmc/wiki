@@ -15,10 +15,10 @@ When you die, you will have to pay a **35%** respawn & keep inventory fee. High 
 ### Commands
 
 * **`/bal [name]`**\
-  **``**See your or another players vibecoin balance\
+  See your or another players vibecoin balance\
 
 * **`/pay <name> <amount>`**\
-  **``**Send vibecoin\
+  Send vibecoin\
 
 * **`/sales`**\
   View your recent chest shop (market) sale history

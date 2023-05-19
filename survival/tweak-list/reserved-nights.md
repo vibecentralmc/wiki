@@ -5,7 +5,11 @@ Nights can be reserved using 100 [vibecoin ](../economy.md)for when you need a n
 You may still choose to cut your reserved night short by sleeping
 
 {% hint style="info" %}
-Open the resnight menu using the **`/resnight` ** command
+Open the resnight menu using the **`/resnight`** command
 {% endhint %}
 
-![](../../.gitbook/assets/resnight1.png)
+<div align="center">
+
+<img src="../../.gitbook/assets/resnight1.png" alt="">
+
+</div>

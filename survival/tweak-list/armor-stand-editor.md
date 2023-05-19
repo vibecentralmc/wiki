@@ -2,7 +2,11 @@
 
 Right click with flint on armor stands to adjust its settings in-depth for full control over its appearance
 
-![](../../.gitbook/assets/editor.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/editor.png" alt="">
+
+</div>
 
 ![](<../../.gitbook/assets/image (7).png>)
 

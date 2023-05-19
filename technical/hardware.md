@@ -9,4 +9,4 @@ AMD Ryzen 9 7950X\
 Allocated 12GB DDR4 2666 MHz\
 \
 **Storage**\
-****1TB NVMe SSD
+1TB NVMe SSD

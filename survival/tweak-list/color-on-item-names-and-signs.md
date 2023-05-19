@@ -6,4 +6,8 @@ Signs & item frames can utilize colorcodes and hex colors directly while typing.
 You can get this book in-game for quick reference using **`/kit colors`**
 {% endhint %}
 
-![](../../.gitbook/assets/colors1.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/colors1.png" alt="">
+
+</div>
