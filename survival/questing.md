@@ -1,6 +1,6 @@
 # Questing
 
-We have tons of **** custom-made quests in various categories you can do for fun or a challenge. If you ever don't know what to do, quests are a great way to keep occupied!
+We have tons of custom-made quests in various categories you can do for fun or a challenge. If you ever don't know what to do, quests are a great way to keep occupied!
 
 Each quest can be completely once every 7 days. Additionally, accessible every 24 hours, a new random daily quest will be available via the main menu.
 
@@ -10,9 +10,19 @@ Each quest can be completely once every 7 days. Additionally, accessible every 2
 **`/quest`**\
 **`/quests`**
 
-![](../.gitbook/assets/quest.png)
+<div align="left">
+
+<img src="../.gitbook/assets/quest.png" alt="">
+
+</div>
 
 ## Available quests
+
+{% hint style="info" %}
+**Outdated content**
+
+Some of the content on this page may not be fully accurate. Updates are pending!
+{% endhint %}
 
 <details>
 
@@ -755,7 +765,7 @@ Collect olivifrog's favorite flowers!\
 ## Is it hot in here?
 
 **Objectives**\
-****- Cumulatively burn for 2 minutes
+\- Cumulatively burn for 2 minutes
 
 ## Master Bargainer
 
@@ -765,7 +775,7 @@ Collect olivifrog's favorite flowers!\
 ## Enchanter
 
 **Objectives**\
-****- Enchant 15 books
+\- Enchant 15 books
 
 ## Explore by foot
 
@@ -811,7 +821,7 @@ _This was initially a typo in the quest description, but we decided to keep it_
 ## Stone Miner
 
 **Objectives**\
-****- **** Mine 450 stone
+\- Mine 450 stone
 
 ## A Good Nights Sleep
 
