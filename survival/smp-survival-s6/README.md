@@ -8,7 +8,7 @@ Vibe's main attraction; open world, [no-grief](../land-claiming.md) survival wit
 
 ### World generation
 
-This season we're excited to offer a world generated with [Terralith](https://www.stardustlabs.net/datapacks#Terralith), adding over 85 new biomes and world generation so you can find the exact perfect place to live. Using all vanilla blocks, the project takes advantage of the games ability to set custom biome colors, adding all new kinds of creative biomes. IIt's based off vanilla generation and meant to compliment it, adding bigger and better caves, more diversity to generation, and more.
+This season we're excited to offer a world generated with [Terralith](https://www.stardustlabs.net/datapacks#Terralith), adding new world generation throughout over 85 new biomes so you can find the exact perfect place to live. Using all vanilla blocks, the project takes advantage of the games ability to set custom biome colors, adding all new kinds of creative biomes. It's based off vanilla generation and meant to compliment it, adding bigger and better caves, more diversity to generation, and more.
 
 <div>
 
