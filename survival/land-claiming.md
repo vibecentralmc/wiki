@@ -1,6 +1,10 @@
 # Land Claiming
 
-Claiming is an extra precaution that protects your land from griefing & theft. It ensures only those you allow can build and interact within it. While it's not necessarily required, it's most definitely recommended to protect your work! Every hour of play time, your claimable block limit will increase by 350 blocks
+Claiming is an extra precaution that protects your land from griefing & theft. It ensures only those you allow can build and interact within it. While it's not necessarily required, it's most definitely recommended to protect your work!
+
+{% hint style="info" %}
+Every hour of play time, your claimable block limit will increase by **350** blocks
+{% endhint %}
 
 {% hint style="success" %}
 ### No-grief guarantee
@@ -18,13 +22,7 @@ Per the [rules](../general/rules.md), griefing & stealing is not allowed even on
 
 **There are 3 tiers of permission you can choose to grant others:**
 
-|                                                           | Complete access | Containers & mobs | Buttons, levers, etc. |
-| --------------------------------------------------------- | --------------- | ----------------- | --------------------- |
-| Build & break                                             |        ✅        |        ❌          |        ❌              |
-| Access & modify container contents (ex. chests, furnaces) |        ✅        |       ✅           |        ❌              |
-| Open doors & gates                                        |        ✅        |        ❌          |        ❌              |
-| Interact with & damage passive mobs                       |        ✅        |        ✅          |        ❌              |
-| Trigger buttons, levers, pressure plates, etc.            |        ✅        |        ❌          |        ✅              |
+<table><thead><tr><th width="287"> </th><th width="120">Complete access</th><th width="121">Containers &#x26; mobs</th><th width="123">Buttons, levers, etc.</th></tr></thead><tbody><tr><td>Build &#x26; break</td><td>       ✅</td><td>       ❌</td><td>       ❌</td></tr><tr><td>Access &#x26; modify container contents (ex. chests, furnaces)</td><td>       ✅</td><td>      ✅</td><td>       ❌</td></tr><tr><td>Open doors &#x26; gates</td><td>       ✅</td><td>       ❌</td><td>       ❌</td></tr><tr><td>Interact with &#x26; damage passive mobs</td><td>       ✅</td><td>       ✅</td><td>       ❌</td></tr><tr><td>Trigger buttons, levers, pressure plates, etc.</td><td>       ✅</td><td>       ❌</td><td>       ✅</td></tr></tbody></table>
 
 Permission management is done through the trust gui, opened after running the trust command.
 

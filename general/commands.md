@@ -107,7 +107,7 @@
 * **`/bonktoggle`**\
   Toggle whether you can be bonked by others
 
-## [Survival](../survival/smp-survival-s5/) commands
+## [Survival](../survival/smp-survival-s6/) commands
 
 ### General
 
