@@ -41,6 +41,7 @@
   * [Enchantment upgrade tables](survival/tweak-list/enchantment-upgrade-tables.md)
   * [Color on item names & signs](survival/tweak-list/color-on-item-names-and-signs.md)
   * [Mob head drops](survival/tweak-list/mob-head-drops.md)
+  * [Tool and armor statistics](survival/tweak-list/tool-and-armor-statistics.md)
   * [Extra game sounds](survival/tweak-list/extra-game-sounds.md)
   * [Beehive GUI](survival/tweak-list/beehive-gui.md)
   * [Mob health adjustments](survival/tweak-list/mob-health-adjustments.md)

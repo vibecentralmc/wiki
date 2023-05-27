@@ -26,7 +26,7 @@ Per the [rules](../general/rules.md), griefing & stealing is not allowed even on
 
 Permission management is done through the trust gui, opened after running the trust command.
 
-![](<../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (12) (1).png>)
 
 ## All commands
 

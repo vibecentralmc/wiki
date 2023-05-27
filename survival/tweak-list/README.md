@@ -54,3 +54,4 @@
 * [Unlocked head slot](unlocked-head-slot.md)
 * [Toggleable PvP](toggleable-pvp.md)
 * [Axolotl variant display on buckets](axolotl-variant-display.md)
+* [Tool and armor statistics](tool-and-armor-statistics.md)

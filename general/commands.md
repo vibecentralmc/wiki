@@ -132,7 +132,10 @@
   Open the community tasks menu\
 
 * **`/givepet`**\
-  Transfer [pet ownership](../survival/tweak-list/pet-ownership-transferring.md) to another player
+  Transfer [pet ownership](../survival/tweak-list/pet-ownership-transferring.md) to another player\
+
+* **`/mobdex`**\
+  Open the [mobdex](../survival/mob-rarities-and-mobdex.md)
 
 ### Teleporting commands
 
