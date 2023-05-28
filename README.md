@@ -2,8 +2,8 @@
 description: >-
   Welcome to vibe central's official wiki! Use the left navigation bar or search
   bar on the right to learn about the server
-cover: .gitbook/assets/2021-05-16_02.40.26.png
-coverY: -63.50194552529183
+cover: .gitbook/assets/2023-05-27_21.33.32.png
+coverY: -277
 ---
 
 # Welcome
