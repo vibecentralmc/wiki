@@ -2,6 +2,14 @@
 
 The server has a bunch of chat based games to engage the chat and have fun! To participate, just type in chat! To view the leaderboard of most wins, see **`/cglb`**
 
+### Rewards
+
+Each win of a chat game excluding coin flip, will win one of the following:
+
+* Lucky double, 25 vibecoin, 50 vibe exp
+* Vibe exp 15, 25, 35, 50, lucky 200
+* Vibecoin 5, 10, 15, 35, lucky 100
+
 <figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 ## Current games
@@ -9,6 +17,16 @@ The server has a bunch of chat based games to engage the chat and have fun! To p
 ### Coin flip
 
 On a random interval, a coin flip game will appear in chat with a value between 8 and 64 vibecoin. Place your bet on what it will land on by typing "heads" or "tails" in chat. If you bet correctly, you earn the coins value of vibecoin in your balance. If you bet incorrectly, you lose the coins value of vibecoin from your balance. You must have at least the coins value to place a bet on the coin. The coin "lands" after 25 seconds.
+
+<details>
+
+<summary>A long word on randomness and computers</summary>
+
+Creating true randomness with computers is a challenging task. Unlike humans, who can rely on inherent uncertainties and external factors for randomness, computers are deterministic machines that follow specific algorithms. Achieving absolute randomness is difficult because the underlying processes in a computer are ultimately predictable.
+
+With that said, we have made code based enhancements to ensure a more random flip. We have implemented a more reliable source of randomness called `SecureRandom` instead of the default java supplied `Random`. By using `SecureRandom`, additional sources of randomness are incorporated to enhance the unpredictability of the generated outcomes, making the chances of getting "heads" or "tails" closer to an equal 50/50 distribution.
+
+</details>
 
 ### Unscramble
 
