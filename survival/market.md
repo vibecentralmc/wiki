@@ -8,4 +8,4 @@ The space is is divided into zones that expand with demand, always with terrafor
 The market is also home to the [server sell shop](server-sell-shop.md), right by **`/warp market1`**&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-05-29 014532.png" alt=""><figcaption><p>Season 6 market as of 5/28/23, 2 days after release</p></figcaption></figure>

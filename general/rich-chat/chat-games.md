@@ -20,7 +20,7 @@ On a random interval, a coin flip game will appear in chat with a value between 
 
 <details>
 
-<summary>A long word on randomness and computers</summary>
+<summary>A word on randomness and computers</summary>
 
 Creating true randomness with computers is a challenging task. Unlike humans, who can rely on inherent uncertainties and external factors for randomness, computers are deterministic machines that follow specific algorithms. Achieving absolute randomness is difficult because the underlying processes in a computer are ultimately predictable.
 

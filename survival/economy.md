@@ -6,7 +6,7 @@ The main servers currency that is exchangeable between players. Use it for items
 
 ### Making money
 
-The best way to make vibecoin is by selling items to the [auction house](auction-house.md), the [server sell shop](server-sell-shop.md), [completing quests](questing.md), selling items to player's shops at the [market](market.md), winning [chat games](../general/rich-chat/chat-games.md), [voting](../general/misc./voting.md), and by making your own shop and selling items.
+The best way to make vibecoin is by selling tapping all sources; the [auction house](auction-house.md), the [server sell shop](server-sell-shop.md), [completing quests](questing.md), selling items to player's shops at the [market](market.md), winning [chat games](../general/rich-chat/chat-games.md), [voting](../general/misc./voting.md), and by making your own shop and selling items.
 
 ### Vibecoin loss on death
 

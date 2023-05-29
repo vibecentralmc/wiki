@@ -2,6 +2,34 @@
 
 Vibe's main attraction; open world, [no-grief](../land-claiming.md) survival with various vanilla-like [tweaks](../tweak-list/) and[ economy](../economy.md).
 
+<figure><img src="../../.gitbook/assets/2023-05-29_01.29.29_2.png" alt=""><figcaption><p>Season 6 survival spawn</p></figcaption></figure>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/2023-05-29_01.22.45.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/2023-05-29_01.24.36.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/2023-05-29_01.26.01 (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/2023-05-29_01.27.41.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+### Tweaks
+
+Enjoy more fun gameplay & progression with the countless tweaks we've made to the normal Minecraft experience, from extra game sounds, skills, quests, mob rarities & mobdex, tree feller, vein miner, rideable enderpearls, realistic explosions, chest & inventory item sorting, raised enchantment level limits, and tons more.
+
+Through years of development, we've meticulously fine tuned with immersive enhancements that just feel right. All tweaks expand on the game in a way that stay true to Minecraft's core to create a much more enjoyable, fun, and engaging experience.
+
+Thanks to server & plugin magic, you can join without any special requirements and experience every tweak, no mods or resource packs needed.&#x20;
+
 {% content-ref url="../tweak-list/" %}
 [tweak-list](../tweak-list/)
 {% endcontent-ref %}
@@ -30,7 +58,7 @@ This season we're excited to offer a world generated with [Terralith](https://ww
 
 ### World size
 
-The world is 25,000 x 25,000 blocks centered around spawn. We plan to increase the world size once 1.20 comes, Terralith updates, and when have updated our code to support it.
+The world is 30,000 x 30,000 blocks centered around spawn. We plan to increase the world size once 1.20 comes, Terralith updates, and when have updated our code to support it.
 
 ### Difficulty
 
