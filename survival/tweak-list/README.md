@@ -1,5 +1,9 @@
 # Tweak list
 
+* [Skills](../skill-leveling.md)
+* [Quests](../questing.md)
+* [Boosters](../boosters.md)
+* [Mob rarities and Mobdex](../mob-rarities-and-mobdex.md)
 * [Tree feller when using axes](tree-feller.md)
 * [Vein mining when crouching](vein-miner.md)
 * [Block & entity visualizers](block-and-entity-visualizers.md)

@@ -64,6 +64,12 @@ The world is 30,000 x 30,000 blocks centered around spawn. We plan to increase t
 
 The smp runs on the base games normal difficulty, however some tweaks modify the true experienced difficulty, such as mob health and strength adjustments.
 
+### Entering the world
+
+The primary way to enter the world is to random teleport using **`/rtp`**. RTP costs 50 vibecoin per use and can only be done once every 6 minutes. RTP will take you anywhere from 5,000-20,000 blocks from spawn. To significantly decrease the chances players rtp nearby your base, travel past 20k blocks from 547 -2892, as the outer 10k blocks past 20k blocks from spawn are out of RTP radius.
+
+If you are unable to afford a RTP, you can travel on foot from vibetown or the market. Learn how to [make vibecoin](../economy.md#making-money), and [vote every 24 hours](../../general/misc./voting.md) for 50 vibecoin among other rewards :)&#x20;
+
 ### Season based
 
 The SMP operates on a season based rotation. Based on community retention (roughly every 12 months) we completely refresh the smp, including the overworld, nether, end, economy, inventories, community warps, etc. Our goal is to give sufficient time for everybody to reach end game and feel satisfied with their work, while also ensuring new content is always available for everyone in the future.
