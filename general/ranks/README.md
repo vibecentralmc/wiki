@@ -156,7 +156,9 @@ Benefactors are folk who have generously donated $100 or more to vibe. The role 
 
 ## Moderator / Helper
 
-Mods do all the same things as members, but have additional responsibilities designated in surface-level community management to ensure the server stays fun and enjoyable for all. While Helper and Moderator refer to the same role in the server, Moderator is the official title. H is used in-game for prefixing, as M is already occupied by Members.
+Mods do all the same things as members, but have additional responsibilities designated in surface-level community management to ensure the server stays fun and enjoyable for all, such as muting or jailing rule breakers, and raising issues whether related to the server or specific users to administrators.&#x20;
+
+While Helper and Moderator refer to the same role in the server, Moderator is the official title. H is used in-game for prefixing, as M is already occupied by Members.
 
 Interested in joining our team? See the [staff application info page](../misc./staff-application-info.md)
 
@@ -168,7 +170,7 @@ Interested in joining our team? See the [staff application info page](../misc./s
 
 ## Admin
 
-Administrators play a crucial role in the server management, handling tasks like enforcing server rules, assisting in the rollout of new features or changes to existing server functions by providing feedback and recommendations, maintaining order among users and lower level staff, and managing daily operations to ensure a smoothly functioning server environment.
+Administrators play a crucial role in the server management, handling tasks like banning rule breakers, rolling back block damage from griefs or robberies, assisting in the rollout of new features or changes to existing server functions by providing feedback and recommendations, maintaining order and direction among lower level staff, as well as managing daily operations to ensure a smoothly functioning server environment.
 
 <div align="left">
 
