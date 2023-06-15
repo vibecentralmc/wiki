@@ -150,7 +150,7 @@ Benefactors are folk who have generously donated $100 or more to vibe. The role 
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/benefactor (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/benefactor.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -168,9 +168,9 @@ Interested in joining our team? See the [staff application info page](../misc./s
 
 </div>
 
-## Admin
+## Administrator
 
-Administrators play a crucial role in the server management, handling tasks like banning rule breakers, rolling back block damage from griefs or robberies, assisting in the rollout of new features or changes to existing server functions by providing feedback and recommendations, maintaining order and direction among lower level staff, as well as managing daily operations to ensure a smoothly functioning server environment.
+Admins play a crucial role in the server management, handling tasks like banning rule breakers, rolling back block damage from griefs or robberies, assisting in the rollout of new features or changes to existing server functions by providing feedback and recommendations, maintaining order and direction among lower level staff, as well as managing daily operations to ensure a smoothly functioning server environment.
 
 <div align="left">
 
