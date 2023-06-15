@@ -168,6 +168,8 @@ Interested in joining our team? See the [staff application info page](../misc./s
 
 ## Admin
 
+Administrators play a crucial role in the server management, handling tasks like enforcing server rules, assisting in the rollout of new features or changes to existing server functions by providing feedback and recommendations, maintaining order among users and lower level staff, and managing daily operations to ensure a smoothly functioning server environment.
+
 <div align="left">
 
 <figure><img src="../../.gitbook/assets/admin.png" alt=""><figcaption></figcaption></figure>
