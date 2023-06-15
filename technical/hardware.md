@@ -9,4 +9,5 @@ AMD Ryzen 9 7950X\
 Allocated 12GB DDR4 2666 MHz\
 \
 **Storage**\
-1TB NVMe SSD
+3x1TB NVMe SSD\
+1 for production server, 1 for live backups, 1 for archived or older backups
