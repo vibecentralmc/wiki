@@ -9,6 +9,7 @@ Entities are only viewable to clients while they're within a specific range of t
 Players: 145 blocks\
 Hostiles: 55 blocks\
 Animals: 48 blocks\
+Villagers: 14 blocks\
 Misc: 32 blocks
 
 ## Spawning
@@ -270,8 +271,11 @@ Misc. entities: 8 blocks
 
 ### DAB
 
-Begins ticking less frequently when: >8 blocks away\
-Slowest tick frequency: every 30 ticks
+Begins ticking less frequently on a gradient when: >8 blocks away\
+Slowest tick frequency: every 30 ticks when at a distance of 20 or more blocks away\
+\
+Ghast, Slime, and Endermen are exempt from DAB.\
+
 
 {% hint style="info" %}
 When AI is fully activated, entities are ticked every single tick (20 times / sec).
