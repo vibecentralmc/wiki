@@ -9,7 +9,6 @@ Entities are only viewable to clients while they're within a specific range of t
 Players: 145 blocks\
 Hostiles: 55 blocks\
 Animals: 48 blocks\
-Villagers: 14 blocks\
 Misc: 32 blocks
 
 ## Spawning
@@ -265,6 +264,7 @@ In mob farms congested with entities, additional one-off algorithms selectively 
 
 Hostiles: 24 blocks\
 Animals: 16 blocks\
+Villagers: 14 blocks\
 Raiders: 48 blocks\
 Water creatures: 32 blocks\
 Misc. entities: 8 blocks

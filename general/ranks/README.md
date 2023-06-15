@@ -144,9 +144,19 @@ Alternatively view the [**VIP Perk Chart**](vip.md)
 
 </details>
 
-## Helper
+## Benefactor
 
-Apart from owners, the helper role is vibe central's sole staff position. Those in the helper position do all the same things as members, but have additional responsibilities designated in surface-level community management to ensure the server stays fun and enjoyable for all.
+Benefactors are folk who have generously donated $100 or more to vibe. The role itself shares same abilities as VIP Tier 6, with the exception of a special prefix. There is a special benefactor hall at the [hub](../misc./hub.md) that showcases the benefactors.
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/benefactor (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+## Moderator / Helper
+
+Mods do all the same things as members, but have additional responsibilities designated in surface-level community management to ensure the server stays fun and enjoyable for all. While Helper and Moderator refer to the same role in the server, Moderator is the official title. H is used in-game for prefixing, as M is already occupied by Members.
 
 Interested in joining our team? See the [staff application info page](../misc./staff-application-info.md)
 
@@ -156,12 +166,20 @@ Interested in joining our team? See the [staff application info page](../misc./s
 
 </div>
 
-## Owner
-
-The highest management level of the server. Owners create the servers content and oversee all server operations.
+## Admin
 
 <div align="left">
 
-<img src="../../.gitbook/assets/owner.png" alt="">
+<figure><img src="../../.gitbook/assets/admin.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+## Owner
+
+The highest management level of the server, involving things like development, leading ideation and design for new features, financial oversight, and managing other key logistical elements that maintain server operations and determine its direction and structure.
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/owner.png" alt=""><figcaption></figcaption></figure>
 
 </div>

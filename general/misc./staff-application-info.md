@@ -1,6 +1,6 @@
 # Staff application info
 
-Apart from owners, the helper role is vibe central's sole staff position. Those in the helper position do all the same things as regular server members, but have additional responsibilities designated in surface-level community management to ensure the server stays fun and enjoyable for all. We're always happy to consider avid members who are eager to engage and help the community for the position. If you're interested, ensure you meet the below requirements and [shoot us a message](../discord.md) in a private ticket via the #contact-staff channel on vibe's Discord server.
+Moderators do all the same things as regular server members, but have additional responsibilities designated in surface-level community management to ensure the server stays fun and enjoyable for all. We're always happy to consider avid members who are eager to engage and help the community for the position. If you're interested, ensure you meet the below requirements and [shoot us a message](../discord.md) in a private ticket via the #contact-staff channel on vibe's Discord server.
 
 ## Requirements to apply
 
