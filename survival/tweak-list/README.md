@@ -11,6 +11,7 @@
 * [Utility flight](utility-flight.md)
 * Keep-inventory when dying using [vibecoin](../economy.md)
 * No attack cooldown (1.8 pvp + sweeping)
+* Loot chests in structures regenerate 12 hours after looted for other players (1 chest per player)
 * [Extra game sounds](extra-game-sounds.md)
 * [Friendly Creepers](friendly-creepers.md)
 * Fire spread is off

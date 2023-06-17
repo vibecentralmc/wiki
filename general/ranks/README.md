@@ -180,10 +180,10 @@ Admins play a crucial role in the server management, handling tasks like banning
 
 ## Owner
 
-The highest management level of the server, involving things like development, management of the servers backend architecture, leading ideation and design for new features, financial oversight, and managing other key logistical elements that maintain server operations and determine its direction and structure.
+The highest level of management on the server, involving things like development, management of the servers backend architecture, leading ideation and design for new features, financial oversight, and managing other key logistical elements that maintain server operations and determine its direction and structure.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/owner.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/owner (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>

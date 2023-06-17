@@ -2,13 +2,9 @@
 
 Vibe's main attraction; open world, [no-grief](../land-claiming.md) survival with various vanilla-like [tweaks](../tweak-list/) and[ economy](../economy.md).
 
-<figure><img src="../../.gitbook/assets/2023-05-29_01.29.29_2.png" alt=""><figcaption><p>Season 6 survival spawn</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2023-06-07_00.29.21.png" alt=""><figcaption><p>Season 6 survival spawn</p></figcaption></figure>
 
 <div>
-
-<figure><img src="../../.gitbook/assets/2023-05-29_01.22.45.png" alt=""><figcaption></figcaption></figure>
-
- 
 
 <figure><img src="../../.gitbook/assets/2023-05-29_01.24.36.png" alt=""><figcaption></figcaption></figure>
 
