@@ -64,9 +64,9 @@ Player's redstone is rate limited to prevent users building lag machines. By kee
 
 \
 **Backups**\
-As a last resort or if data becomes permanently corrupt, damaged, or otherwise lost we can selectively restore data from the applicable backup. The entire server filesystem is backed up daily, allowing full access of all recent or old server data.
+As a last resort or if data becomes permanently corrupt, damaged, or otherwise lost we can selectively restore data from the applicable backup. The entire server filesystem is incrementally backed up every 8 hours, allowing full access of all recent or old server data.
 
-Additionally, smaller selective player data is backed up on session start & end, world or game mode change, & death. The server will hold up to 50 backups per player before it begins overwriting them. Each backup stores a snapshot of the players location, inventory, enderchest, balance, experience, and other metrics.\
+Additionally, smaller selective hot player data is backed up and stored on the server on session start & end, world or game mode change, & death. The server will hold up to 50 backups per player before it begins rotating them. Each backup stores a snapshot of the players location, inventory, enderchest, balance, experience, and other metrics.\
 \
 \
 **Account linking**\

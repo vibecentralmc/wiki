@@ -96,4 +96,3 @@
 * [Protecting the community](technical/protecting-the-community.md)
 * [Chunk (un)loading & ticking](technical/chunk-un-loading-and-ticking.md)
 * [Entity (de)spawning and AI](technical/entity-de-spawning-and-ai.md)
-* [Hardware](technical/hardware.md)
