@@ -4,7 +4,7 @@ Chunk behavior has been heavily modified to accommodate multiplayer. Our modific
 
 {% hint style="info" %}
 **What are chunks?**\
-Minecraft worlds are divided into a grid of 16x16x320 cubes called chunks. Your game loads each chunk individually to piece together the world around you within your view distance.
+Minecraft worlds are divided into a grid of 16x16x384 cubes called chunks. Your game loads each chunk individually to piece together the world around you within your view distance.
 {% endhint %}
 
 ## **Summary**
