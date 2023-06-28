@@ -68,7 +68,10 @@
   See the [chat games](rich-chat/chat-games.md) leaderboard & your stats\
 
 * **`/rules`**\
-  Shows our [rules](rules.md)
+  Shows our [rules](rules.md)\
+
+* **`/pmute <username>`**\
+  Temporarily silence messages from another player. Their messages will still appear in chat, but will be censored. To see the message content, hover over it with your mouse.
 
 ## Fun & cosmetic commands
 
