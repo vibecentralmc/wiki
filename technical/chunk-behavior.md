@@ -1,6 +1,6 @@
-# Chunk (un)loading & ticking
+# Chunk behavior
 
-Chunk behavior has been heavily modified to accommodate multiplayer. The modified engine aims to achieve a balance between minimizing latency lag, providing a good gameplay experience, and being computationally capable for the server.
+Chunk behavior has been heavily modified to accommodate multiplayer. Our modifications aim to achieve a balance between minimizing latency lag, providing a good gameplay experience, and being computationally capable for the server.
 
 {% hint style="info" %}
 **What are chunks?**\
