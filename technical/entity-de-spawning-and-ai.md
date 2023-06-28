@@ -1,6 +1,6 @@
 # Entity (de)spawning and AI
 
-As entities are one of the biggest server lag sources for multiplayer, the spawning rules have been heavily modified to accommodate for multiplayer. Our modifications aim to achieve a balance between being computationally capable for the server while providing a familiar experience.
+As entities are one of the biggest server lag sources for multiplayer, the spawning rules have been heavily modified to accommodate for multiplayer. Our modifications aim to achieve a balance between providing a familiar experience and being computationally capable for the server.
 
 ## Tracking range
 
@@ -13,7 +13,7 @@ Misc: 32 blocks
 
 ## Spawning
 
-Per dimension, within ticked chunks (2 chunk radius or 32 blocks in all directions around players) the server will spawn no more than a certain number of entities of particular types. Chunks are consistently being loaded & unloaded, meaning the cap for how many of these entities can spawn is constantly shifting. The total amount of entities spawned & observed in the world is much higher than these caps (this is what observed entities refers to). Entities can exist unloaded in unticked chunks, but will be despawned when players move too far from them (see despawning section).
+Per dimension, within physically ticked chunks (2 chunk radius or 32 blocks in all directions around players) the server will spawn no more than a certain number of entities of particular types. Chunks are consistently being loaded & unloaded, meaning the cap for how many of these entities can spawn is constantly shifting. The total amount of entities spawned & observed in the world is much higher than these caps (this is what observed entities refers to). Entities can exist unloaded in unticked chunks, but will be despawned when players move too far from them (see despawning section).
 
 Spawning is based per-player, meaning entities already existing around players are taken into account before spawning new ones. The server will favor spawning entities near players which are not around specific entity groups and are in spaces which meet those entities' spawning requirements over other players who are already around those entity types. This enables a more singleplayer-like and balanced spawning experience and distributes the entity resource load as much as possible.\
 \
