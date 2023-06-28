@@ -1,6 +1,6 @@
 # Entity (de)spawning and AI
 
-As entities are one of the biggest server lag sources for multiplayer, the spawning rules have been heavily modified to accommodate for multiplayer. The modified engine aims to achieve a balance between being efficient for the server and providing a good gameplay experience.
+As entities are one of the biggest server lag sources for multiplayer, the spawning rules have been heavily modified to accommodate for multiplayer. Our modifications aim to achieve a balance between being computationally capable for the server while providing a familiar experience.
 
 ## Tracking range
 
