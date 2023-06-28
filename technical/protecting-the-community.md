@@ -3,8 +3,8 @@
 The server has numerous systems in place to prevent bad actors & disruptive behavior to ensure everybody has a safe and enjoyable experience. This page outlines the precautions we take to protect players :)\
 
 
-**Traffic proxying & layer 7 filtration**\
-All server bound traffic is first proxied and examined before being passed to the backend or dropped. This allows us to manage traffic flow to the backend and significantly mitigate malicious traffic before it can impact the server. \
+**Traffic filtration**\
+All server bound traffic is proxied and examined before being passed to the backend or dropped. This allows us to manage traffic flow to the backend and significantly mitigate malicious traffic before it can impact the server. Backed by Cloudflare Magic Transit, we are guarded by over 1+ Tbps of L3/L4 DDoS protection.\
 
 
 **Movement analysis**\
