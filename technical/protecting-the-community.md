@@ -4,7 +4,7 @@ The server has numerous systems in place to prevent bad actors & disruptive beha
 
 
 **Traffic filtration**\
-All server bound traffic is proxied and examined before being passed to the backend or dropped. This allows us to manage traffic flow to the backend and significantly mitigate malicious traffic before it can impact the server. Backed by Cloudflare Magic Transit, we are guarded by over 1+ Tbps of L3/L4 DDoS protection.\
+All server bound traffic is proxied and examined before being passed to the backend or dropped. This allows us to manage traffic flow to the backend and significantly mitigate malicious traffic before it can impact the server. Using Cloudflare Magic Transit, our network is guarded by over 1+ Tbps of L3/L4 DDoS protection.\
 
 
 **Movement analysis**\
