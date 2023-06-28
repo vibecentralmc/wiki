@@ -23,7 +23,7 @@ The server view distance is 15 chunks in all directions from players, making the
 
 **These rules help ensure a good balance between gameplay & latency management for players**
 
-* The server will send up to 15 chunks in all directions to players with respect to player view distance setting, making the maximum view distance of 480 blocks. However, only a 2 chunk radius (32 block radius) is fully physically ticked.
+* The server will send up to 15 chunks in all directions to players with respect to player view distance setting, making the maximum view distance 480 blocks.
 * Players chunk view distance takes priority over the servers max view distance of 15 if lower.
 * To minimize the time appearing in a void, chunk data in a 2 chunk radius around players are immediately sent without throttling after teleporting.
 * The server will send no more than 45 chunks data per player per second to prevent overwhelming the connection. After testing, we found this to be the optimal threshold before it began significantly affecting latencies for many.
@@ -32,7 +32,7 @@ The server view distance is 15 chunks in all directions from players, making the
 
 **These rules help ensure the server doesn't throttle or lag from chunks**
 
-* Chunks within a 2 chunk radius (32 blocks in all directions) from players are fully physically ticked. In fully ticked chunks, liquids will flow, redstone will function, physics apply, and all other game mechanics work as usual. Unlike Vanilla, fully unticked/unloaded chunks don't exist within vibe, as mobs can spawn and interact with unticked chunks around the player as they use a [totally separate ticking system](entity-de-spawning-and-ai.md). Additionally, all growables and crops from nether warts to potatoes will tick in unticked and even completely unloaded chunks, but at a lower rate than ticked chunks. &#x20;
+* Chunks within a 2 chunk radius (32 blocks in all directions) from players are fully physically ticked.
 * The server will load at max 45 chunks per second per player.
 * The server will load at max 500 chunks per second (combined amount from all players).
 * Only chunks in a 2 chunk radius (32 blocks in all directions) from the client are ticked. Chunks beyond this radius may be visible, but are not physically ticked.
