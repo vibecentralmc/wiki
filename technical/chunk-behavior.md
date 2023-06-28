@@ -15,7 +15,7 @@ The server view distance is 15 chunks in all directions from players, making the
 
 **Unlike Vanilla, fully unticked/unloaded chunks don't exist within vibe**. Mobs can spawn and interact with unticked chunks around the player as they use a [totally separate ticking system](entity-de-spawning-and-ai.md). Additionally, all growables and crops from wheat to vines will grow in unticked and even completely unloaded chunks, but at a lower tick speed than fully physically ticked chunks.\
 \
-**Unloaded** chunks refer to chunks that are beyond the view distance of 15 chunks. Unlike Vanilla, crops will continue to grow at a slower speed in unloaded chunks. Entities spawned when the chunk was ticked will persist within unloaded chunks with an exception of hostile entities (unless nametagged), but no entities spawn in unloaded chunks.
+**Unloaded** chunks refer to chunks that are beyond the view distance of 15 chunks. Unlike Vanilla, crops will continue to grow at a slower speed in unloaded chunks. Entities spawned when the chunk was ticking will persist within unloaded chunks with an exception of hostile entities (unless nametagged), but no entities spawn in unloaded chunks.
 
 ## Detailed configuration
 
