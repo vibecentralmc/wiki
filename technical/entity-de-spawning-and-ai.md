@@ -4,7 +4,7 @@ As entities are one of the biggest server lag sources for multiplayer, the spawn
 
 ## Tracking range
 
-Entities are only viewable to clients while they're within a specific range of them. This is called their tracking range. Tracking range is entirely clientside, and helps reduce latency and improve FPS by only rendering entities that are closeby.\
+Entities are only viewable to players while they're within a specific range of them. This is called their tracking range. Tracking range is entirely clientside, and helps reduce latency and improve FPS by only rendering entities that are closeby.\
 \
 Players: 145 blocks\
 Hostiles: 55 blocks\
