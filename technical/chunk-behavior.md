@@ -11,7 +11,7 @@ Minecraft worlds are divided into a grid of 16x16x384 cubes called chunks. Your 
 
 The server view distance is 15 chunks in all directions from players, making the maximum view distance of 480 blocks. Note that in order to prevent useless traffic this will match your personal view distance setting up to 15, so if your view distance is for example 8, you will only be sent chunk data for a view distance of 8.\
 \
-**Chunks within a 2 chunk radius (32 blocks in all directions) from players are fully physically ticked**. In fully physically ticked chunks, liquids will flow, redstone will function, physics apply, and all other game mechanics work as usual.
+**Chunks within a 3 chunk radius (48 block radius) from players are fully physically ticked**. In fully physically ticked chunks mobs will spawn, liquids will flow, redstone will function, physics apply, and all other game mechanics work as usual.
 
 **Unlike Vanilla, fully unticked/unloaded chunks don't exist within vibe**. Mobs can spawn and interact with unticked chunks around the player as they use a [totally separate ticking system](entity-de-spawning-and-ai.md). Additionally, all growables and crops from wheat to vines will grow in unticked and even completely unloaded chunks, but at a lower tick speed than fully physically ticked chunks.\
 \
@@ -32,10 +32,9 @@ The server view distance is 15 chunks in all directions from players, making the
 
 **These rules help ensure the server doesn't throttle or lag from chunks**
 
-* Chunks within a 2 chunk radius (32 blocks in all directions) from players are fully physically ticked.
+* Only chunks within a 3 chunk radius (48 block radius) from players are fully physically ticked and eligible for mob spawning.
 * The server will load at max 45 chunks per second per player.
 * The server will load at max 500 chunks per second (combined amount from all players).
-* Only chunks in a 2 chunk radius (32 blocks in all directions) from the client are ticked. Chunks beyond this radius may be visible, but are not physically ticked.
 
 ### Both
 
