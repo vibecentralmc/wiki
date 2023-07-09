@@ -36,7 +36,7 @@ Making references to political topics or people, talking about serious issues in
 
 ##
 
-## 5. Nicknames must be appropriate&#x20;
+## 5. Nicknames must be genuine and appropriate&#x20;
 
 Nicknames should be used as intended and be changed as minimally as possible. Please use a real nickname. Joke nicknames or nicknames with strong language or references to unsuitable topics are disallowed. Using nicknames to impersonate others, even as a joke is not allowed
 
@@ -60,7 +60,7 @@ Detailed talk about non well-known servers may be considered a breach of this ru
 
 Someone owns land when they have sufficiently modified the area, ex. through building a house, farm, or other meaningful structure. Naturally generated structures (villages, strongholds, ruined portals, desert temples, jungle temples, or witch huts), unless inhabited by another player are exempt from this rule.\
 \
-Modifying land within a radius of 200 blocks from someone's land may be considered violation of this rule. Though, common areas like the market are waived of this restriction.
+Modifying land within a radius of 500 blocks from someone's land may be considered violation of this rule. Though, common areas like the market are waived of this restriction.
 
 Failing to respect the requests of public locations, ex. community farms asking you to replant, community chest at spawn asking to be mindful of what you take, etc. is considered a violation of this rule.
 
@@ -68,7 +68,7 @@ Failing to respect the requests of public locations, ex. community farms asking 
 
 ## 9. Personal builds like mines, houses, etc. should be kept outside of the market to allow the space to be used entirely for it's dedicated use of shops
 
-Living in the market is not allowed. Any personal builds should be at least 400 blocks from the nearest shop in the market to allow for future market expansion
+Living in the market is not allowed. Any personal builds should be at least 500 blocks from the nearest shop in the market to allow for future market expansion
 
 ##
 
@@ -127,7 +127,7 @@ Having pvp toggled off does not count as permission
 
 ## 18. Market shops in the community market that consist of a sole or few chests are not allowed. The auction house should be used for selling of such items
 
-Specific cases can be waived depending on item rarity or custom items (ex. special banner patterns), please ask a [staff member](ranks/#helper) if you are unsure if your instance is in violation of this rule
+Specific cases can be waived depending on item rarity or custom items (ex. special banner patterns), please ask a [staff member](ranks/#helper) if you are unsure if your case is in violation of this rule
 
 ##
 
