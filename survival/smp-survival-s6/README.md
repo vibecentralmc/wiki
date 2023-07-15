@@ -1,6 +1,6 @@
 # SMP Survival - S6
 
-Vibe's main attraction; open world, [no-grief](../land-claiming.md) survival with various vanilla-like [tweaks](../tweak-list/) and[ economy](../economy.md) running 1.20. Connect between 1.9 - 1.20.x!
+Vibe's main attraction; open world, [no-grief](../land-claiming.md) survival with various vanilla-like [tweaks](../tweak-list/) and[ economy](../economy.md) running 1.20 with 1.20 generation past 30k blocks from spawn.
 
 <figure><img src="../../.gitbook/assets/2023-06-07_00.29.21.png" alt=""><figcaption><p>Season 6 survival spawn</p></figcaption></figure>
 
