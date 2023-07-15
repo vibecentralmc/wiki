@@ -1,6 +1,6 @@
 # SMP Survival - S6
 
-Vibe's main attraction; open world, [no-grief](../land-claiming.md) survival with various vanilla-like [tweaks](../tweak-list/) and[ economy](../economy.md).
+Vibe's main attraction; open world, [no-grief](../land-claiming.md) survival with various vanilla-like [tweaks](../tweak-list/) and[ economy](../economy.md) running 1.20. Connect between 1.9 - 1.20.x!
 
 <figure><img src="../../.gitbook/assets/2023-06-07_00.29.21.png" alt=""><figcaption><p>Season 6 survival spawn</p></figcaption></figure>
 
@@ -54,7 +54,7 @@ This season we're excited to offer a world generated with [Terralith](https://ww
 
 ### World size
 
-The world is 30,000 x 30,000 blocks centered around spawn. We plan to increase the world size once 1.20 comes, Terralith updates, and when have updated our code to support it.
+The world is 35,000 x 35,000 blocks centered around spawn. Chunks past 30,000 blocks in any direction out from spawn are generated on 1.20.1. Chunks inside the 30k radius were generated on 1.19.4.
 
 ### Difficulty
 
