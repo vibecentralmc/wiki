@@ -62,7 +62,7 @@ The smp runs on the base games normal difficulty, however some tweaks modify the
 
 ### Entering the world
 
-The primary way to enter the world is to random teleport using **`/rtp`**. RTP costs 50 vibecoin per use and can only be done once every 6 minutes. RTP will take you anywhere from 5,000-20,000 blocks from spawn. To significantly decrease the chances players rtp nearby your base, travel past 20k blocks from 547 -2892, as the outer 10k blocks past 20k blocks from spawn are out of RTP radius.
+The primary way to enter the world is to random teleport using **`/rtp`**. RTP costs 50 vibecoin per use and can only be done once every 6 minutes. RTP will take you anywhere from 5,000-25,000 blocks from spawn. To significantly decrease the chances players rtp nearby your base, travel past 25k blocks from 547 -2892, as the outer 10k blocks past 25k blocks from spawn are out of RTP radius.
 
 If you are unable to afford a RTP, you can travel on foot from vibetown or the market. Learn how to [make vibecoin](../economy.md#making-money), and [vote every 24 hours](../../general/misc./voting.md) for 50 vibecoin among other rewards :)&#x20;
 
