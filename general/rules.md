@@ -1,10 +1,10 @@
 # Rules
 
 {% hint style="success" %}
-We've laid out some ground rules to keep our community a safe, respectful, and fun-filled space for everyone. By being a part of Vibe Central—whether it's on our Minecraft server, in our Discord, or any other connected platforms—you're agreeing to abide by these rules and help uphold them.\
+We've laid out a comprehensive set of guidelines to keep our community a safe, respectful, and fun-filled space for everyone. By being a part of Vibe Central—whether it's on our Minecraft server, in our Discord, or any other connected platforms—you're agreeing to abide by these rules and help uphold them.\
 
 
-Keep in mind, these guidelines are applicable universally within Vibe Central. They cover all forms of interaction and expression, such as public and private in-game chats, Discord discussions, text on signs, books, renamed in-game entities, and any other content you contribute to our shared space.
+Keep in mind, these guidelines are applicable universally within Vibe Central. They cover all forms of interaction and expression, including but not limited to public and private in-game chats, Discord discussions, text on signs, books, renamed in-game entities, and any other content you contribute to our shared space.
 {% endhint %}
 
 ## At a glance
