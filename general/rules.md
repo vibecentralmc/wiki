@@ -7,7 +7,44 @@ We've laid out some ground rules to keep our community a safe, respectful, and f
 Keep in mind, these guidelines are applicable universally within Vibe Central. They cover all forms of interaction and expression, such as public and private in-game chats, Discord discussions, text on signs, books, renamed in-game entities, and any other content you contribute to our shared space.
 {% endhint %}
 
-## Section 1 | Conduct & Communication
+## At a glance
+
+This summary is designed to provide a swift overview of our guidelines. For a comprehensive understanding, we encourage you to read the complete set of rules below this summary.
+
+**Conduct & Communication**
+
+* Be respectful and kind; harassment, discrimination, and hate speech are strictly prohibited.
+* Keep all communication PG-13. No dark or triggering topics.
+* Do not reveal personal or identifying information about yourself or others.
+* Advertising related to vibe gameplay is permitted; other unrelated advertisements are not.
+* No political discussions or controversial topics.
+* Nicknames should be reflective of your identity and not be changed frequently or used to impersonate others.
+
+**Gameplay**
+
+* Do not modify or interfere with another player's builds without permission.
+* Be honest and transparent in all trades, scamming is prohibited.
+* PvP is only allowed if all parties involved have given their explicit consent.
+* Respect the natural environment of the world, and clean up temporary structures.
+* Avoid excessive AFK farming. No use of auto-clicking or auto-movement.
+* Be mindful in the market. Keep shops by spawn platforms small and get permission from staff to build very big shops. Do not build multiple shops next to each other, spread them throughout market. Get permission from staff before making any additional shops beyond 5 shops.
+
+**Server Etiquette & Fair Play**
+
+* Do not engage in activities that impair the server's performance or players' gameplay.
+* Exploitation of features or cheating of any kind or any modifications that give you an unfair advantage over those playing on vanilla is not allowed.
+* Report bugs, glitches, or potential exploits to the staff.
+* Circumventing punishments or restrictions is prohibited.
+* Only approved game modifications are permitted (see full rules below).
+
+**Reporting**
+
+* Always provide accurate and honest information when reporting to staff.
+* If you observe any potential rule violations, report them to staff.
+
+## Full rules
+
+### Section 1 | Conduct & Communication
 
 1. **Be Kind & Respectful**
    1. Always approach others with respect and consideration. The principle of mutual respect and understanding should guide all interactions.
@@ -47,7 +84,7 @@ Keep in mind, these guidelines are applicable universally within Vibe Central. T
 6. **Politics and Controversial Topics**
    1. Making references to political topics or people or talking about issues involving government officials, political parties, religions, or geo-political disagreements is not allowed. The server or Discord is not a place for these kinds of discussions and topics.
 
-## Section 2 | Gameplay
+### Section 2 | Gameplay
 
 1. **Others' Builds and Spaces**
    1. Griefing, stealing, or otherwise modifying anyone's builds or land, even unclaimed, is not allowed unless you have explicit permission from the creator.
@@ -94,7 +131,7 @@ Keep in mind, these guidelines are applicable universally within Vibe Central. T
       1. Extended AFK periods past 12 hours are only allowed if not for farming purposes
    3. Note that the server restarts daily at 4:50 AM EST.
 
-## **Section 3 | Server Etiquette & Fair Play**
+### **Section 3 | Server Etiquette & Fair Play**
 
 1. **Do not impair the server performance or other player’s games**
    1. The construction of any kind of redstone lag machines or other contraptions that are intended to impair the server or players is prohibited
