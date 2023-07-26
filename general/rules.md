@@ -58,11 +58,15 @@ This summary is designed to provide a swift overview of our guidelines. For a co
    2. If someone indicates they are uncomfortable with a certain conversation or situation, it’s every participating person's job to adjust their behavior and language in a respectful manner.
       1. This rule is intended to promote respectful and considerate communication and to accommodate genuine concerns, not to allow misuse or to enable disruption of community dialogue. It should not be used as a means to cease discussion arbitrarily.
    3. Maintain a respectful and fair attitude when participating in competitive server activities, like party games or pvp.
-      1. Toxic behavior, badmouthing or gloating, is not allowed.
+      1. Toxic behavior, badmouthing or gloating, is not allowed.\
+         \
+
 2. **Respect Privacy & Personal Information**
    1. Personal privacy must always be respected. Do not share or request exceedingly personal or identifying information.
    2. Never reveal another member’s personal details without their explicit consent.
-   3. You should always keep your personal information safe. Sharing sensitive details about yourself or excessive information about yourself within our community or the internet in general is strongly discouraged.
+   3. You should always keep your personal information safe. Sharing sensitive details about yourself or excessive information about yourself within our community or the internet in general is strongly discouraged.\
+      \
+
 3. **Communication and content**
    1. A significant portion of our community is under the age of 18. Please ensure your communication remains respectful and appropriate. Unless you know otherwise, assume that you're interacting with a younger audience.
    2. Topics that are contentious, dark, triggering, or potentially distressing, such as explicit or graphic content, real-world violence, personal traumas, or unsettling events, should not be discussed.
@@ -72,19 +76,27 @@ This summary is designed to provide a swift overview of our guidelines. For a co
    4. Excessive use of capital letters, repetition of the same word or letter, or any other disruptive chat behavior should be avoided.
    5. We have implemented several filters in our in-game chat and Discord server to prevent content that infringes on the rules. Any attempts to bypass these filters, whether by adding extra characters or using other methods, are not permitted.
       1. Despite our best efforts to employ highly accurate and effective filters in place both in-game and on our Discord server to catch rule-breaking content, it’s important to remember that no filter is infallible, and that the ultimate responsibility lies with the individual authoring the content to ensure it aligns with our rules.
-   6. Light swearing is permitted on a minimal basis; however, the usage of strong profanities, slurs, or language that could be offensive or disrespectful is strictly prohibited.
+   6. Light swearing is permitted on a minimal basis; however, the usage of strong profanities, slurs, or language that could be offensive or disrespectful is strictly prohibited.\
+      \
+
 4. **Advertisements and promotions**
    1. Advertisements that are unrelated to server gameplay are not permitted in-game. Acceptable in-game promotions include those related to member's market shops, auction house listings, community waypoints, or other user-created content within the server.
    2. You are allowed to promote your social media accounts, services, and other work in the #self-promo Discord channel.
    3. It’s important to ensure that any promotions do not result in flooding or spamming the chat.
    4. Other Minecraft server or community promotions are not allowed
-      1. Detailed references, information, or conversation about servers or communities with fewer than 10,000 members is considered a breach of this rule.
+      1. Detailed references, information, or conversation about servers or communities with fewer than 10,000 members is considered a breach of this rule.\
+         \
+
 5. **Nicknames and Representation**
    1. Nicknames should reflect your commonly used name and should not be changed frequently.
    2. Nicknames with swears, strong language or references to disallowed topics are not allowed.
-   3. Using nicknames to impersonate others, even as a joke is not allowed
+   3. Using nicknames to impersonate others, even as a joke is not allowed\
+      \
+
 6. **Politics and Controversial Topics**
-   1. Making references to political topics or people or talking about issues involving government officials, political parties, religions, or geo-political disagreements is not allowed. The server or Discord is not a place for these kinds of discussions and topics.
+   1. Making references to political topics or people or talking about issues involving government officials, political parties, religions, or geo-political disagreements is not allowed. The server or Discord is not a place for these kinds of discussions and topics.\
+      \
+
 
 ### Section 2 | Gameplay
 
@@ -96,7 +108,9 @@ This summary is designed to provide a swift overview of our guidelines. For a co
    2. Naturally generated structures such as villages, strongholds, ruined portals, desert or jungle temples, or witch huts are not protected by this rule unless another player clearly inhabits them.
    3. Failure to respect the guidelines clearly posted at shared locations, for example, community farms requesting replanting, etc., is considered a violation of the rule.
    4. If you are on another player’s property, you must respect their space and abide by their requests to leave or refrain from certain things within their space.
-      1. You need permission from the property owner before you save a personal or community waypoint that is within 500 blocks.
+      1. You need permission from the property owner before you save a personal or community waypoint that is within 500 blocks.\
+         \
+
 2. **Community Market Standards**
    1. Personal structures such as bases/homes, mines, farms, and similar constructions should be positioned away from the market area. This ensures the market space can be solely utilized for trade and commerce.
       1. Any personal structures should be at least 600 blocks from any part of the market to allow for future expansion.
@@ -111,27 +125,40 @@ This summary is designed to provide a swift overview of our guidelines. For a co
       2. Specific cases for valuable or custom items (ex. special banner patterns) are waived from this rule. If you are unsure if your case infringes on this rule, please ask a staff member.
    5. Players are allowed to create multiple shops, so long as they are spread out throughout the market and not built nearby each other.
       1. Constructing any additional shop past 5 shops requires clearance from a staff member.
-   6. Shop and shop chest guidelines do not apply to shops/shop chests set up outside of the market region.
+   6. Shop and shop chest guidelines do not apply to shops/shop chests set up outside of the market region.\
+      \
+
 3. **Auction House Etiquette**
    1. Auction listings should be fairly priced and reflect the item's rarity and quantity
    2. Auctions should have value. Common items in small quantities should not be listed
-   3. Items of similar type should be bundled into a single auction instead of individually to prevent spam. Bundled auctions can be created using /ah sell \<price> -b
+   3. Items of similar type should be bundled into a single auction instead of individually to prevent spam. Bundled auctions can be created using /ah sell \<price> -b\
+      \
+
 4. **Trading & Scamming**
-   1. Scamming or deceiving other players out of items, vibecoin, or other belongings in any way is not allowed
-   2. All trades should be conducted honestly, with full disclosure and agreement from all parties involved.
+   1. Scamming or deceiving other players out of items, vibecoin, or other belongings in any way is not allowed\
+
+   2. All trades should be conducted honestly, with full disclosure and agreement from all parties involved.\
+      \
+
 5. **PvP and Teaming**
    1. PvP in the survival world is only allowed if all parties involved have given their explicit permission.
       1. Simply having PvP toggled on is not sufficient as consent.
-   2. No teaming in the PvP arena or Party Games unless it is mutually agreed upon the whole lobby
+   2. No teaming in the PvP arena or Party Games unless it is mutually agreed upon the whole lobby\
+      \
+
 6. **Environmental Responsibility**
    1. Avoid uselessly or excessively damaging the landscape of the world, i.e. placing blocks under your feet as you travel, making dirt towers, etc.
    2. Do not leave half-cut trees or hanging blocks.
-   3. If you create any temporary structures, like a one night dirt hut, placing a crafting table, or spawning a boat in the wilderness, dismantle them once you are done to keep the world clean.
+   3. If you create any temporary structures, like a one night dirt hut, placing a crafting table, or spawning a boat in the wilderness, dismantle them once you are done to keep the world clean.\
+      \
+
 7. **Idling (AFKing)**
    1. AFK farming for items in moderation is okay, but should never require any form of auto clicking or auto movement, including fish farms.
    2. AFKing farming longer than 12 hours is considered excessive and is not allowed
       1. Extended AFK periods past 12 hours are only allowed if not for farming purposes
-   3. Note that the server restarts daily at 4:50 AM EST.
+   3. Note that the server restarts daily at 4:50 AM EST.\
+      \
+
 
 ### **Section 3 | Server Etiquette & Fair Play**
 
@@ -140,14 +167,17 @@ This summary is designed to provide a swift overview of our guidelines. For a co
    2. Intentionally impacting server performance through actions intended to overload the server is strictly disallowed&#x20;
    3. Impacting other nearby players' games through actions that heavily impact their FPS or their server connectivity is strictly disallowed
    4. If you have a meaningful build or contraption that disrupts server performance, you may be contacted to adjust or downsize it
-      1. In severe circumstances, the build may be adjusted or removed entirely by staff before attempting to contact you
+      1. In severe circumstances, the build may be adjusted or removed entirely by staff before attempting to contact you\
+
 2. **All functionalities and features available must be utilized for their designated purposes.**
    1. It is prohibited to exploit any features or repurpose them for unintended uses
       1. Modifying or manipulating functionalities beyond their original purpose, particularly for personal benefit, to cause disruption, or to disrupt the balance of the game, is not allowed.
-      2. If any part of a particular feature is unclear, it is your responsibility to reach out and ask for clarification
+      2. If any part of a particular feature is unclear, it is your responsibility to reach out and ask for clarification\
+
 3. **Cheating of any form, abusing exploits, or using any client modifications that give you an advantage over users playing on vanilla is not allowed**
    1. Do not exploit any loopholes, glitches, or bugs that you find within the features provided.
-      1. If found, report them to staff privately. We reward bug hunters ;)
+      1. If found, report them to staff privately. We reward bug hunters ;)\
+
 4. **Allowed game modifications**
    1. Optimization mods like Sodium, Optifine, etc.
    2. Cosmetic or utility mods that don't offer any unfair advantages.
@@ -155,11 +185,13 @@ This summary is designed to provide a swift overview of our guidelines. For a co
    3. Custom HUDs that display fps, coordinates, biome, world time, clicks per second, armor, key clicks, or similar text/icon metrics.
    4. World maps and minimaps (cave finders are not permitted).
    5. Litematica for building assistance by previewing schematics (auto-building functions are prohibited)
-   6. If you are unsure whether a specific game modification is allowed, please ask a staff member.
+   6. If you are unsure whether a specific game modification is allowed, please ask a staff member.\
+
 5. **Attempting to circumvent any restrictions or punishments placed on you is prohibited**
    1. This includes but is not limited to:
       1. Joining on an alternate account after being banned or jailed
-      2. Using signs, books, or other methods to speak while muted
+      2. Using signs, books, or other methods to speak while muted\
+
 6. **Reports to staff**
    1. Provide accurate and honest information: all reports to staff are expected to be legitimate. Fabricating or exaggerating report details is not allowed.
    2. While staff do their best to monitor the community, we can’t catch everything and rely on the community to help us maintain a safe and enjoyable space on vibe. If you observe any actions or behaviors that you think might violate the server rules, appear questionable, or are inappropriate, please report them to the staff immediately.
