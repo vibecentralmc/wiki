@@ -15,6 +15,9 @@ This summary is designed to provide a swift overview of our guidelines. For a co
 
 * Be respectful and kind; harassment, discrimination, and hate speech are strictly prohibited.
 * Keep all communication PG-13. No dark or triggering topics.
+* Keep global chat in English for moderation and understanding by others.
+* Do not flood chat or evade filters.
+* Light swearing is permitted on a minimal basis. The use of strong profanities, slurs, or language that could be offensive or disrespectful is not allowed.
 * Do not reveal personal or identifying information about yourself or others.
 * Advertising related to vibe gameplay is permitted; other unrelated advertisements are not.
 * No political discussions or controversial topics.
@@ -28,6 +31,8 @@ This summary is designed to provide a swift overview of our guidelines. For a co
 * Respect the natural environment of the world, and clean up temporary structures.
 * Avoid excessive AFK farming. No use of auto-clicking or auto-movement.
 * Be mindful in the market. Keep shops by spawn platforms small and get permission from staff to build very big shops. Do not build multiple shops next to each other, spread them throughout market. Get permission from staff before making any additional shops beyond 5 shops.
+* Auction house listings should be priced fairly and have value. Items of similar type should be bundled into a single auction instead of individually to prevent spam. Bundled auctions can be created using /ah sell -b
+* Avoid uselessly or excessively damaging the landscape of the world, i.e. placing blocks under your feet as you travel, making dirt towers, etc.
 
 **Server Etiquette & Fair Play**
 
