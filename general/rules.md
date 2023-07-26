@@ -40,10 +40,7 @@ This summary is designed to provide a swift overview of our guidelines. For a co
 * Exploitation of features or cheating of any kind or any modifications that give you an unfair advantage over those playing on vanilla is not allowed.
 * Report bugs, glitches, or potential exploits to the staff.
 * Circumventing punishments or restrictions is prohibited.
-* Only approved game modifications are permitted (see full rules below).
-
-**Reporting**
-
+* Optimization, cosmetic, and utility mods that do not give you an advantage to others on Vanilla are permitted (see full rules below for specific approved mods)
 * Always provide accurate and honest information when reporting to staff.
 * If you observe any potential rule violations, report them to staff.
 
