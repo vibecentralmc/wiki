@@ -94,7 +94,7 @@ Keep in mind, these guidelines are applicable universally within Vibe Central. T
       1. Extended AFK periods past 12 hours are only allowed if not for farming purposes
    3. Note that the server restarts daily at 4:50 AM EST.
 
-**Section 3 | Server Etiquette & Fair Play**
+## **Section 3 | Server Etiquette & Fair Play**
 
 1. **Do not impair the server performance or other player’s games**
    1. The construction of any kind of redstone lag machines or other contraptions that are intended to impair the server or players is prohibited
