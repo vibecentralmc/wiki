@@ -14,7 +14,8 @@ This summary is designed to provide a swift overview of our guidelines. For a co
 **Conduct & Communication**
 
 * Be respectful and kind; harassment, discrimination, and hate speech are strictly prohibited.
-* Keep all communication PG-13. No dark or triggering topics.
+* Keep all communication PG-13.
+* No dark or triggering topics.
 * Keep global chat in English for moderation and understanding by others.
 * Do not flood chat or evade filters.
 * Light swearing is permitted on a minimal basis. The use of strong profanities, slurs, or language that could be offensive or disrespectful is not allowed.
@@ -25,7 +26,7 @@ This summary is designed to provide a swift overview of our guidelines. For a co
 
 **Gameplay**
 
-* Do not modify or interfere with another player's builds without permission.
+* Griefing, stealing, or otherwise modifying anyone's builds or land, even unclaimed, is not allowed unless you have explicit permission from the creator.
 * Be honest and transparent in all trades, scamming is prohibited.
 * PvP is only allowed if all parties involved have given their explicit consent.
 * Respect the natural environment of the world, and clean up temporary structures.
