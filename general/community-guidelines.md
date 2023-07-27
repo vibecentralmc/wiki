@@ -1,15 +1,19 @@
-# Rules
+# Community guidelines
 
 {% hint style="success" %}
-We've laid out a comprehensive set of guidelines to keep our community a safe, respectful, and fun-filled space for everyone. By being a part of Vibe Central—whether it's on our Minecraft server, in our Discord, or any other connected platforms—you're agreeing to abide by these rules and help uphold them.\
+We've laid out a comprehensive set of guidelines to keep our community a safe, respectful, and fun-filled space for everyone. By being a part of Vibe Central—whether it's on our Minecraft server, in our Discord, or any other connected platforms—you're agreeing to abide by these rules/guidelines and help uphold them.
 
-
+\
 Keep in mind, these guidelines are applicable universally within Vibe Central. They cover all forms of interaction and expression, including but not limited to public and private in-game chats, Discord discussions, text on signs, books, renamed in-game entities, and any other content you contribute to our shared space.
 {% endhint %}
 
 ## At a glance
 
 This summary is designed to provide a swift overview of our guidelines. For a comprehensive understanding, we encourage you to read the complete set of rules below this summary.
+
+<details>
+
+<summary>Summary (click to expand) </summary>
 
 **Conduct & Communication**
 
@@ -22,7 +26,8 @@ This summary is designed to provide a swift overview of our guidelines. For a co
 * Do not reveal personal or identifying information about yourself or others.
 * Advertising related to vibe gameplay is permitted; other unrelated advertisements are not.
 * No political discussions or controversial topics.
-* Nicknames should be reflective of your identity and not be changed frequently or used to impersonate others.
+* Nicknames should be reflective of your identity and not be changed frequently or used to impersonate others.\
+
 
 **Gameplay**
 
@@ -33,7 +38,8 @@ This summary is designed to provide a swift overview of our guidelines. For a co
 * Avoid excessive AFK farming. No use of auto-clicking or auto-movement.
 * Be mindful in the market. Keep shops by spawn platforms small and get permission from staff to build very big shops. Do not build multiple shops next to each other, spread them throughout market. Get permission from staff before making any additional shops beyond 5 shops.
 * Auction house listings should be priced fairly and have value. Items of similar type should be bundled into a single auction instead of individually to prevent spam. Bundled auctions can be created using /ah sell -b
-* Avoid uselessly or excessively damaging the landscape of the world, i.e. placing blocks under your feet as you travel, making dirt towers, etc.
+* Avoid uselessly or excessively damaging the landscape of the world, i.e. placing blocks under your feet as you travel, making dirt towers, etc.\
+
 
 **Server Etiquette & Fair Play**
 
@@ -44,6 +50,8 @@ This summary is designed to provide a swift overview of our guidelines. For a co
 * Optimization, cosmetic, and utility mods that do not give you an advantage to others on Vanilla are permitted (see full rules below for specific approved mods)
 * Always provide accurate and honest information when reporting to staff.
 * If you observe any potential rule violations, report them to staff.
+
+</details>
 
 ## Full rules
 

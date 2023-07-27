@@ -4,7 +4,7 @@
 
 ## General
 
-* [Rules](general/rules.md)
+* [Community guidelines](general/community-guidelines.md)
 * [Ranks](general/ranks/README.md)
   * [VIP](general/ranks/vip.md)
 * [Commands](general/commands.md)
