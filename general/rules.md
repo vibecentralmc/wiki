@@ -13,11 +13,13 @@ This summary is designed to provide a swift overview of our guidelines. For a co
 
 <details>
 
-<summary>Summary (click to expand) </summary>
+<summary>Summary (click to expand)</summary>
 
+\
 **Conduct & Communication**
 
-* Be respectful and kind; harassment, discrimination, and hate speech are strictly prohibited.
+* Always approach others with respect and consideration
+* Harassment, discrimination, and hate speech are strictly prohibited.
 * Keep all communication PG-13.
 * No dark or triggering topics.
 * Keep global chat in English for moderation and understanding by others.
@@ -34,20 +36,19 @@ This summary is designed to provide a swift overview of our guidelines. For a co
 * Griefing, stealing, or otherwise modifying anyone's builds or land, even unclaimed, is not allowed unless you have explicit permission from the creator.
 * Be honest and transparent in all trades, scamming is prohibited.
 * PvP is only allowed if all parties involved have given their explicit consent.
-* Respect the natural environment of the world, and clean up temporary structures.
-* Avoid excessive AFK farming. No use of auto-clicking or auto-movement.
+* Respect the natural environment of the world, and clean up temporary structures. Avoid uselessly or excessively damaging the landscape of the world, i.e. placing blocks under your feet as you travel, making dirt towers, etc.
+* No AFK farming beyond 12 hours in a 24 hour period. No use of auto-clicking or auto-movement.
 * Be mindful in the market. Keep shops by spawn platforms small and get permission from staff to build very big shops. Do not build multiple shops next to each other, spread them throughout market. Get permission from staff before making any additional shops beyond 5 shops.
-* Auction house listings should be priced fairly and have value. Items of similar type should be bundled into a single auction instead of individually to prevent spam. Bundled auctions can be created using /ah sell -b
-* Avoid uselessly or excessively damaging the landscape of the world, i.e. placing blocks under your feet as you travel, making dirt towers, etc.\
+* Auction house listings should be priced fairly and have value. Items of similar type should be bundled into a single auction instead of individually to prevent spam. Bundled auctions can be created using /ah sell -b\
 
 
 **Server Etiquette & Fair Play**
 
 * Do not engage in activities that impair the server's performance or players' gameplay.
 * Exploitation of features or cheating of any kind or any modifications that give you an unfair advantage over those playing on vanilla is not allowed.
+* Optimization, cosmetic, and utility mods that do not give you an advantage to others on Vanilla are permitted (see full rules below for specific approved mods)
 * Report bugs, glitches, or potential exploits to the staff.
 * Circumventing punishments or restrictions is prohibited.
-* Optimization, cosmetic, and utility mods that do not give you an advantage to others on Vanilla are permitted (see full rules below for specific approved mods)
 * Always provide accurate and honest information when reporting to staff.
 * If you observe any potential rule violations, report them to staff.
 
@@ -163,7 +164,7 @@ This summary is designed to provide a swift overview of our guidelines. For a co
 
 7. **Idling (AFKing)**
    1. AFK farming for items in moderation is okay, but should never require any form of auto clicking or auto movement, including fish farms.
-   2. AFKing farming longer than 12 hours is considered excessive and is not allowed
+   2. Cumulatively AFKing farming longer than 12 hours within a 24 hour period is considered excessive and is not allowed
       1. Extended AFK periods past 12 hours are only allowed if not for farming purposes
    3. Note that the server restarts daily at 4:50 AM EST.\
       \
@@ -190,7 +191,7 @@ This summary is designed to provide a swift overview of our guidelines. For a co
 4. **Allowed game modifications**
    1. Optimization mods like Sodium, Optifine, etc.
    2. Cosmetic or utility mods that don't offer any unfair advantages.
-      1. Full bright mods are an exception and are permitted.
+      1. Full bright mods, and inventory sorting or Mouse Wheelie mods are an exception to this rule.&#x20;
    3. Custom HUDs that display fps, coordinates, biome, world time, clicks per second, armor, key clicks, or similar text/icon metrics.
    4. World maps and minimaps (cave finders are not permitted).
    5. Litematica for building assistance by previewing schematics (auto-building functions are prohibited)
