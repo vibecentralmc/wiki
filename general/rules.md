@@ -191,7 +191,7 @@ This summary is designed to provide a swift overview of our guidelines. For a co
 4. **Allowed game modifications**
    1. Optimization mods like Sodium, Optifine, etc.
    2. Cosmetic or utility mods that don't offer any unfair advantages.
-      1. Full bright mods, and inventory sorting or Mouse Wheelie mods are an exception to this rule.&#x20;
+      1. Full bright mods, and inventory sorting or Mouse Wheelie mods are an exception to this rule and are permitted.&#x20;
    3. Custom HUDs that display fps, coordinates, biome, world time, clicks per second, armor, key clicks, or similar text/icon metrics.
    4. World maps and minimaps (cave finders are not permitted).
    5. Litematica for building assistance by previewing schematics (auto-building functions are prohibited)
