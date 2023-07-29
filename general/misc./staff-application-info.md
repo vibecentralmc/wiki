@@ -8,7 +8,7 @@ If you're nearly meeting a requirement but not fully, we are likely to waive the
 
 * 16 or older**\***
 * Been actively part of the community for 3 or more months**\***
-* 100 or more hours of play time on the server (AFK time does not count)**\***
+* 50 or more hours of play time on the server (AFK time does not count)**\***
 * Regularly active on the server and the Discord
 * Highly knowledgeable about the server, its features, rules, etc.
 * Generally well known by the community with good standing
