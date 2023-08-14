@@ -9,6 +9,7 @@
 * [Block & entity visualizers](block-and-entity-visualizers.md)
 * [Inventory auto sorting](inventory-auto-sorting.md)
 * [Utility flight](utility-flight.md)
+* Crops grow in unloaded chunks at a slightly reduced speed
 * Keep-inventory when dying using [vibecoin](../economy.md)
 * No attack cooldown (1.8 pvp + sweeping)
 * Loot chests in structures regenerate 12 hours after looted for other players (1 chest per player)
