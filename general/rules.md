@@ -86,7 +86,8 @@ This summary is designed to provide a swift overview of our guidelines. For a co
    4. Excessive use of capital letters, repetition of the same word or letter, or any other disruptive chat behavior should be avoided.
    5. We have implemented several filters in our in-game chat and Discord server to prevent content that infringes on the rules. Any attempts to bypass these filters, whether by adding extra characters or using other methods, are not permitted.
       1. Despite our best efforts to employ highly accurate and effective filters in place both in-game and on our Discord server to catch rule-breaking content, it’s important to remember that no filter is infallible, and that the ultimate responsibility lies with the individual authoring the content to ensure it aligns with our rules.
-   6. Light swearing is permitted on a minimal basis; however, the usage of strong profanities, slurs, or language that could be offensive or disrespectful is strictly prohibited.\
+   6. Light swearing is permitted on a minimal basis; however, the usage of strong profanities, slurs, or language that could be offensive or disrespectful is strictly prohibited.
+   7. Do not repeatedly ask or beg for items or other things in the server.\
       \
 
 4. **Advertisements and promotions**
@@ -117,8 +118,12 @@ This summary is designed to provide a swift overview of our guidelines. For a co
          1. Shared spaces like the market, vibetown, or other towns are not subject to this radius restriction. However, careful consideration should be given when deciding where to build in close proximity to others.
    2. Naturally generated structures such as villages, strongholds, ruined portals, desert or jungle temples, or witch huts are not protected by this rule unless another player clearly inhabits them.
    3. Failure to respect the guidelines clearly posted at shared locations, for example, community farms requesting replanting, etc., is considered a violation of the rule.
-   4. If you are on another player’s property, you must respect their space and abide by their requests to leave or refrain from certain things within their space.
-      1. You need permission from the property owner before you save a personal or community waypoint that is within 500 blocks.\
+   4. In the servers official town vibetown
+      1. Low effort homes or builds with inactive owners (1 or more months of inactivity) may be auctioned off to another player or demolished by staff to ensure the town stays lively.
+      2. Very low effort builds may be demolished by staff without prior warning.
+      3. Claims in vibetown may be resized to be more reasonable, or removed all-together if the situation calls for that.
+   5. If you are on another player’s property, you must respect their space and abide by their requests to leave or refrain from certain things within their space.
+      1. You need permission from the property owner before you save a personal or community waypoint that is within 500 blocks\
          \
 
 2. **Community Market Standards**
@@ -135,12 +140,16 @@ This summary is designed to provide a swift overview of our guidelines. For a co
       2. Specific cases for valuable or custom items (ex. special banner patterns) are waived from this rule. If you are unsure if your case infringes on this rule, please ask a staff member.
    5. Players are allowed to create multiple shops, so long as they are spread out throughout the market and not built nearby each other.
       1. Constructing any additional shop past 5 shops requires clearance from a staff member.
-   6. Shop and shop chest guidelines do not apply to shops/shop chests set up outside of the market region.\
-      \
+   6. Shop and shop chest guidelines do not apply to shops/shop chests set up outside of the market region.
+   7. Shops with inactive owners (1 or more months of inactivity) may be auctioned off to another player or demolished by staff to ensure the market shops stay lively.
+   8. Very low effort shops may be demolished by staff without prior warning.
+   9. Claims in the market may be resized to be more reasonable, or removed all-together if the situation calls for that.
+   10. We typically will contact you and request structures violating these rules to be demolished by you, but if it is not done in a timely manner or must be removed immediately, staff will handle the demolition and apply further sanctions if necessary.\
+       \
 
 3. **Auction House Etiquette**
    1. Auction listings should be fairly priced and reflect the item's rarity and quantity
-   2. Auctions should have value. Common items in small quantities should not be listed
+   2. Auctions should have value, common items in small quantities should not be listed
    3. Items of similar type should be bundled into a single auction instead of individually to prevent spam. Bundled auctions can be created using /ah sell \<price> -b\
       \
 
@@ -194,7 +203,7 @@ This summary is designed to provide a swift overview of our guidelines. For a co
       1. Full bright mods, and inventory sorting or Mouse Wheelie mods are an exception to this rule and are permitted.&#x20;
    3. Custom HUDs that display fps, coordinates, biome, world time, clicks per second, armor, key clicks, or similar text/icon metrics.
    4. World maps and minimaps (cave finders are not permitted).
-   5. Litematica for building assistance by previewing schematics (auto-building functions are prohibited)
+   5. Litematica for building assistance by previewing schematics (auto-building functions are not permitted)
    6. If you are unsure whether a specific game modification is allowed, please ask a staff member.\
 
 5. **Attempting to circumvent any restrictions or punishments placed on you is prohibited**
