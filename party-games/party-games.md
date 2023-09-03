@@ -7,6 +7,10 @@ This page is a work in progress and is not completed. If you'd like to contribut
 \* General summary of the mode
 {% endhint %}
 
+
+
+<figure><img src="../.gitbook/assets/2023-09-03_01.35.20.png" alt=""><figcaption></figcaption></figure>
+
 ### Minigames
 
 There are currently 21 minigames

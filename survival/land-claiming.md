@@ -3,7 +3,7 @@
 Claiming is an extra precaution that protects your land from griefing & theft. It ensures only those you allow can build and interact within it. While it's not necessarily required, it's most definitely recommended to protect your work!
 
 {% hint style="info" %}
-Every hour of play time, your claimable block limit will increase by **350** blocks
+Every hour of play time, your claimable block limit will increase by **350** blocks. You can view your claim blocks in **`/claimlist`** or **`/profile`**
 {% endhint %}
 
 {% hint style="success" %}
