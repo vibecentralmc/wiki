@@ -4,6 +4,8 @@ Vibe's main attraction; open world, [no-grief](../land-claiming.md) survival wit
 
 ### Spawn
 
+You can return to spawn any time using the **`/spawn`** command
+
 <figure><img src="../../.gitbook/assets/2023-06-07_00.29.21.png" alt=""><figcaption><p>Season 6 survival spawn</p></figcaption></figure>
 
 <div>
