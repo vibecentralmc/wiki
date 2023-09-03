@@ -2,7 +2,7 @@
 
 The parkour mode offers a huge selection of community-made courses for you to challenge yourself on. From competing to get the best times on courses, or just chilling and playing at your own pace, to creating your own unique courses solo or with up to 10 friends (with [WorldEdit ](../general/misc./worldedit.md)access!), this mode is sure to be a great pastime—whether you just need a quick break from survival or want to dive in fully and dominate the leaderboards
 
-Use **`/parkour`** to play
+Use **`/parkour`** to play!
 
 ### Featured courses
 
@@ -22,13 +22,11 @@ Once you're in the lobby, you can right-click the diamond to open the course men
 
 ![](<../.gitbook/assets/image (10).png>)
 
-The main page shows available courses, hover for info, left-click to play, or right-click to add it to your favorite courses!
+The main page shows available courses, hover for info, left-click to play, or right-click to add it to your favorite courses! Favorited courses will appear with a red heart icon in the gui and in featured courses. Favorite courses can be accessed via the nether star button at the bottom of the menu.\
+\
+If you're feeling adventurous, you can use the ender pearl button to join a random course!
 
 ![](<../.gitbook/assets/image (9).png>)
-
-Favorite courses can be accessed via the nether star button at the bottom of the menu.
-
-If you're feeling adventurous, you can use the ender pearl button to join a random course
 
 ### My courses menu
 
@@ -52,7 +50,7 @@ Once all course requirements are met (start & end location and difficulty set), 
 
 ### Difficulty
 
-There are 5 difficulties you can select to display on your courses. It's important to set which you feel most accurately reflects your course to allow players to participate in course difficulties they're most comfortable with.
+There are 6 difficulties you can select to display on your courses. It's important to set which you feel most accurately reflects your course to allow players to participate in course difficulties they're most comfortable with.
 
 Available difficulties:
 
@@ -60,4 +58,5 @@ Available difficulties:
 * Intermediate
 * Advanced
 * Expert
+* Absurd
 * Varying difficulties&#x20;

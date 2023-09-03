@@ -6,9 +6,9 @@ Voting for vibe on any or all of the services every 24 hours is an easy way for 
 
 ### Rewards (cumulative)
 
-* 50 [vibecoin](../../survival/economy.md)
+* 100 [vibecoin](../../survival/economy.md)
 * 150 [vibe experience](../leveling.md)
-* 1 [boost point](../../survival/boosters.md)
+* 2 [boost points](../../survival/boosters.md)
 
 ### Streaks
 
