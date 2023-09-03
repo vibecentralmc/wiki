@@ -1,6 +1,6 @@
 # Skye
 
-Skye is our cherished chat bot made to help answer commonly asked server questions, but she can do a bit of casual interaction too!
+Skye is our cherished chat bot made to help answer commonly asked server questions, but she can do a bit of casual interaction too! Skye was officially released on the server on 03/28/20, but has since been updated many times and become a lot smarter!
 
 <div align="center">
 
