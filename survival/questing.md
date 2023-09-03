@@ -16,6 +16,10 @@ Each quest can be completely once every 7 days. Additionally, accessible every 2
 
 </div>
 
+## Ⓠ Quest points
+
+Quest points are obtained by doing quests, and contribute to your ranking in the quest leaderboard! You can see the rankings for quest points and total quests completed at the survival spawn holograms. Each quest gives a different amount of quest points based on difficulty, time taken, etc.
+
 ## Available quests
 
 {% hint style="info" %}
@@ -829,7 +833,3 @@ _This was initially a typo in the quest description, but we decided to keep it_
 \- Sleep through a night
 
 </details>
-
-## Ⓠ Quest points
-
-Quest points are obtained by doing quests, and contribute to your ranking in the quest leaderboard! You can see the rankings in the quest menu. Each quest gives a different amount of quest points based on difficulty, time taken, etc.
