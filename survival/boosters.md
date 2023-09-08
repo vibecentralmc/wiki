@@ -1,6 +1,6 @@
 # Boosters
 
-Boosters are a diverse range of temporary quality of life enhancements and perks that you can activate at any time in [survival](broken-reference) with **Ⓑ** Boost Points.
+Boosters are a diverse range of temporary quality of life enhancements and perks that you can activate at any time in [survival](broken-reference) with **Ⓑ** Boost Points
 
 All boosters are available in both a base tier and an upgraded tier, which offers longer lasting and or stronger perks over the base tier. Though the upgraded tier requires a higher number of Ⓑ Boost Points, it offers a better deal and is better value than purchasing the base tier multiple times for the same benefits.
 
@@ -31,9 +31,9 @@ Faster movement speed and jump height
 * Tier 1: 1.2x speed and 3x jump height for 6 hours at 1 Ⓑ point
 * Tier 2: 2x speed and 4x jump height for 24 hours at 2 Ⓑ points
 
-### **Vibe EXP Booster**
+### **Vibe EXP Boost**
 
-Increases EXP multiplier to progress server level faster
+Increases your Vibe EXP multiplier to progress your[ server level](../general/leveling.md) faster
 
 * Tier 1: +1x Vibe EXP multiplier for 6 hours at 2 Ⓑ points
 * Tier 2: +1x Vibe EXP multiplier for 24 hours at 4 Ⓑ points
@@ -45,27 +45,33 @@ Prevents the night from being skipped. Can be redeemed in the [Reserve Night](tw
 * Standard: 2 use credits at 1 Ⓑ point
 * Bulk Deal: 5 use credits at 2 Ⓑ points
 
-### **Skill XP Booster** (Doubles the skill multiplier)
+### **Skill XP Boost**
 
-* Tier 1: 2x skill multiplier for 6 hours at 3 Ⓑ points
-* Tier 2: 2x skill multiplier for 24 hours at 5 Ⓑ points
+* Tier 1: 2x skill XP multiplier for 6 hours at 3 Ⓑ points
+* Tier 2: 2x skill XP multiplier for 24 hours at 5 Ⓑ points
 
-### **Insta-Smelt Credits** (Allows instant smelting of furnace contents)
+### **Insta-Smelt Credits**
+
+Allows instant smelting of any furnace contents
 
 * Standard: 5 use credits at 1 Ⓑ point
 * Bulk Deal: 25 use credits at 3 Ⓑ points
 
-### **Auto-Replant Credits** (Automatically replants crops after harvesting)
+### **Auto-Replant Credits**
+
+Automatically replants crops after harvesting. Replants count towards quest replant goals.
 
 * Standard: 800 use credits at 2 Ⓑ points
 * Bulk Deal: 2000 use credits at 3 Ⓑ points
 
-### **Hunger Lock** (Maintains 100% saturation persistently)
+### **Hunger Lock**
+
+Maintain 100% saturation
 
 * Tier 1: 12 hours at 1 Ⓑ point
 * Tier 2: 48 hours at 2 Ⓑ points
 
-### **Strength Boost** (Offers attack and defense buffs)
+### **Strength Boost**
 
 * Tier 1: +6 attack damage and +20% damage reduction for 6 hours at 1 Ⓑ point
-* Tier 2: +18 attack damage and +40% damage reduction for 24 hours at 3 Ⓑ points
+* Tier 2: +18 attack damage, +40% damage reduction, and boosted regeneration speed when fully saturated for 24 hours at 3 Ⓑ points
