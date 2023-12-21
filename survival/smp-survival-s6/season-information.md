@@ -52,7 +52,7 @@ We do provide options to save your work and continue your survival in a single p
 
 ## **How will I know when the next season is coming?**
 
-We always give ample notice before a new season begins (At least a month prior). We will make frequent announcements on our[ Discord ](../../general/discord.md)and in-game to ensure everybody is updated and aware when a new season is on its way. We will never suddenly implement a new season without ample notice.
+We always give notice before a new season begins, and will make announcements on our[ Discord ](../../general/discord.md)and in-game to ensure everybody is updated and aware when a new season is on its way.
 
 ## D**oes the world seed change?**
 
