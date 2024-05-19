@@ -1,22 +1,19 @@
 # Community guidelines
 
 {% hint style="success" %}
-We've laid out a comprehensive set of guidelines to keep our community a safe, respectful, and fun-filled space for everyone. By being a part of Vibe Central—whether it's on our Minecraft server, in our Discord, or any other connected platforms—you're agreeing to abide by these rules/guidelines and help uphold them.
+We've laid out a comprehensive set of guidelines to keep our community a safe, respectful, and fun-filled space for everyone. By being a part of Vibe Central, whether it's on our Minecraft server, in our Discord, or any other connected platforms, you're agreeing to abide by these rules/guidelines and help uphold them.
 
 \
-Keep in mind, these guidelines are applicable universally within Vibe Central. They cover all forms of interaction and expression, including but not limited to public and private in-game chats, Discord discussions, text on signs, books, renamed in-game entities, and any other content you contribute to our shared space.
+Keep in mind, these guidelines are universally applicable within Vibe Central. They cover all forms of interaction and expression, including but not limited to public and private in-game chats, Discord discussions, text on signs, books, renamed in-game entities, and any other content you contribute to our shared space.\
+\
+If you think somebody is breaking a rule, please [**let us know** ](discord.md)through our #contact-staff channel on Discord.
 {% endhint %}
 
 ## At a glance
 
-This summary is designed to provide a swift overview of our guidelines. For a comprehensive understanding, we encourage you to read the complete set of rules below this summary.
+This summary is meant to provide a swift overview of our rules. Though, we highly encourage you to read the complete set of rules below this summary for a comprehensive understanding.
 
-<details>
-
-<summary>Summary (click to expand)</summary>
-
-\
-**Conduct & Communication**
+### **Conduct & Communication**
 
 * Always approach others with respect and consideration
 * Harassment, discrimination, and hate speech are strictly prohibited.
@@ -28,10 +25,9 @@ This summary is designed to provide a swift overview of our guidelines. For a co
 * Do not reveal personal or identifying information about yourself or others.
 * Advertising related to vibe gameplay is permitted; other unrelated advertisements are not.
 * No political discussions or controversial topics.
-* Nicknames should be reflective of your identity and not be changed frequently or used to impersonate others.\
+* Nicknames should be reflective of your identity and not be changed frequently or used to impersonate others.
 
-
-**Gameplay**
+### **Gameplay**
 
 * Griefing, stealing, or otherwise modifying anyone's builds or land, even unclaimed, is not allowed unless you have explicit permission from the creator.
 * Be honest and transparent in all trades, scamming is prohibited.
@@ -39,10 +35,9 @@ This summary is designed to provide a swift overview of our guidelines. For a co
 * Respect the natural environment of the world, and clean up temporary structures. Avoid uselessly or excessively damaging the landscape of the world, i.e. placing blocks under your feet as you travel, making dirt towers, etc.
 * No AFK farming beyond 12 hours in a 24 hour period. No use of auto-clicking or auto-movement.
 * Be mindful in the market. Keep shops by spawn platforms small and get permission from staff to build very big shops. Do not build multiple shops next to each other, spread them throughout market. Get permission from staff before making any additional shops beyond 5 shops.
-* Auction house listings should be priced fairly and have value. Items of similar type should be bundled into a single auction instead of individually to prevent spam. Bundled auctions can be created using /ah sell -b\
+* Auction house listings should be priced fairly and have value. Items of similar type should be bundled into a single auction instead of individually to prevent spam. Bundled auctions can be created using /ah sell -b
 
-
-**Server Etiquette & Fair Play**
+### **Server Etiquette & Fair Play**
 
 * Do not engage in activities that impair the server's performance or players' gameplay.
 * Exploitation of features or cheating of any kind or any modifications that give you an unfair advantage over those playing on vanilla is not allowed.
@@ -50,9 +45,8 @@ This summary is designed to provide a swift overview of our guidelines. For a co
 * Report bugs, glitches, or potential exploits to the staff.
 * Circumventing punishments or restrictions is prohibited.
 * Always provide accurate and honest information when reporting to staff.
-* If you observe any potential rule violations, report them to staff.
+* If you observe any potential rule violations, report them to staff.\
 
-</details>
 
 ## Full rules
 

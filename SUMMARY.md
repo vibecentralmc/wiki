@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Vibe Wiki - Home](README.md)
 
 ## General
 
@@ -87,7 +87,7 @@
 
 * [Party Games](party-games/party-games.md)
 
-## 🏃♀ Parkour
+## 🏃‍♀️ Parkour
 
 * [Parkour](parkour/parkour.md)
 

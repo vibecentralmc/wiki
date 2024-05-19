@@ -8,7 +8,7 @@ Use **`/parkour`** to play!
 
 Every day, 3 random courses are selected to be showcased right in the lobby
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Global leaderboard
 
