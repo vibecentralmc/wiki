@@ -2,7 +2,7 @@
 
 ## ⓥ vibecoin
 
-The main servers currency that is exchangeable between players. Use it for items, [community tasks](community-tasks.md), and try and reach the 10K cap! Each new player stats with a balance of 100 vibecoin.
+The main servers currency that is exchangeable between players. Use it for items, [community tasks](community-tasks.md), and try and reach the 10K cap! Each new player stats with a balance of **ⓥ 50** vibecoin.
 
 ### Making money
 

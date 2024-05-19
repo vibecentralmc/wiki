@@ -24,8 +24,6 @@ You can return to spawn any time using the **`/spawn`** command
 
 ### Tweaks
 
-Enjoy more fun gameplay & progression with the countless tweaks we've made to the normal Minecraft experience, from extra game sounds, skills, quests, mob rarities & mobdex, tree feller, vein miner, rideable enderpearls, realistic explosions, chest & inventory item sorting, raised enchantment level limits, and tons more.
-
 Through years of development, we've meticulously fine tuned with immersive enhancements that just feel right. All tweaks expand on the game in a way that stay true to Minecraft's core to create a much more enjoyable, fun, and engaging experience.
 
 Thanks to server & plugin magic, you can join without any special requirements and experience every tweak, no mods or resource packs needed.&#x20;
@@ -76,9 +74,11 @@ The smp runs on the base games normal difficulty, however some tweaks modify the
 
 ### Entering the world
 
-The primary way to enter the world is to random teleport using **`/rtp`**. RTP costs 50 vibecoin per use and can only be done once every 6 minutes. RTP will take you anywhere from 5,000-25,000 blocks from spawn. To significantly decrease the chances players rtp nearby your base, travel past 25k blocks from 547 -2892, as the outer 10k blocks past 25k blocks from spawn are out of RTP radius.\
-\
-For new players, your first RTP will be free of charge.
+The primary way to enter the world is to random teleport using **`/rtp`**. RTP costs 50 vibecoin per use and can only be done once every 6 minutes. RTP will take you anywhere from 5,000-25,000 blocks from spawn. To significantly decrease the chances players rtp nearby your base, travel past 25k blocks from 547 -2892, as the outer 10k blocks past 25k blocks from spawn are out of RTP radius.
+
+{% hint style="success" %}
+For new players the first RTP will be free of charge.
+{% endhint %}
 
 If you are unable to afford a RTP, you can travel on foot from vibetown or the market. Learn how to [make vibecoin](../economy.md#making-money), and [vote every 24 hours](../../general/misc./voting.md) for 100 vibecoin among other rewards :)
 

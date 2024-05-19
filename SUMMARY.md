@@ -67,6 +67,8 @@
   * [Toggleable PvP](survival/tweak-list/toggleable-pvp.md)
   * [Starter kit](survival/tweak-list/starter-kit.md)
   * [Axolotl variant display](survival/tweak-list/axolotl-variant-display.md)
+  * [Persistent crop and flora growth](survival/tweak-list/persistent-crop-and-flora-growth.md)
+  * [Crops drop XP](survival/tweak-list/crops-drop-xp.md)
 * [Economy](survival/economy.md)
 * [Skill Leveling](survival/skill-leveling.md)
 * [Questing](survival/questing.md)
