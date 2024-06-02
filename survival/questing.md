@@ -18,7 +18,7 @@ Each quest can be completely once every 7 days. Additionally, accessible every 2
 
 ## Ⓠ Quest points
 
-Quest points are obtained by doing quests, and contribute to your ranking in the quest leaderboard! You can see the rankings for quest points and total quests completed at the [survival spawn](smp-survival-s7/#spawn) holograms. Each quest gives a different amount of quest points based on difficulty, time taken, etc.
+Quest points are obtained by doing quests, and contribute to your ranking in the quest leaderboard! You can see the rankings for quest points and total quests completed at the [survival spawn](smp-survival-s6/#spawn) holograms. Each quest gives a different amount of quest points based on difficulty, time taken, etc.
 
 ## Available quests
 

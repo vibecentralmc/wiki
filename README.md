@@ -16,8 +16,8 @@ If you have any questions, concerns, or would like to see something added, pleas
 
 ### Quick links
 
-{% content-ref url="survival/smp-survival-s7/" %}
-[smp-survival-s7](survival/smp-survival-s7/)
+{% content-ref url="survival/smp-survival-s6/" %}
+[smp-survival-s6](survival/smp-survival-s6/)
 {% endcontent-ref %}
 
 {% content-ref url="survival/tweak-list/" %}
