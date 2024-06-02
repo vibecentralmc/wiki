@@ -1,6 +1,6 @@
-# SMP Survival - S6
+# SMP Survival - S7
 
-Vibe's main attraction; open world, [no-grief](../land-claiming.md) survival with various vanilla-like [tweaks](../tweak-list/), [skills](../skill-leveling.md), [questing](../questing.md), and[ economy](../economy.md) running 1.20.1 with 1.20 generation past 30k blocks from spawn.
+Vibe's main attraction: our vast, no-grief SMP world, generated on 1.20.6 featuring custom Terralith generation, [economy](../economy.md), [quests](../questing.md), [skill](../skill-leveling.md) [leveling](../skill-leveling.md), and a multitude of other [enhancements and tweaks ](./#tweaks)that stay true to the Minecraft experience.
 
 ### Spawn
 
@@ -34,7 +34,11 @@ Thanks to server & plugin magic, you can join without any special requirements a
 
 ### World generation
 
-This season we're excited to offer a world generated with [Terralith](https://www.stardustlabs.net/datapacks#Terralith), adding new world generation throughout over 85 new biomes so you can find the exact perfect place to live. Using all vanilla blocks, the project takes advantage of the games ability to set custom biome colors, adding all new kinds of creative biomes. It's based off vanilla generation and meant to compliment it, adding bigger and better caves, more diversity to generation, and more.
+This season we're excited to offer a world generated with a custom version of [Terralith](https://www.stardustlabs.net/datapacks#Terralith) and [Geophillic](https://www.curseforge.com/minecraft/mc-mods/geophilic), adding over 85 new biomes in addition to Vanilla ones. Terralith's new biomes and terrain types, including canyons, shattered biomes, floating islands, volcanos, and new cave types, provide endless exploration opportunities and ensure there is a perfect place for everyone.
+
+Using all vanilla blocks, the project takes advantage of the games ability to set custom biome colors, adding all new kinds of creative biomes, realistic and fantastical.
+
+In addition, [Geophillic](https://www.curseforge.com/minecraft/mc-mods/geophilic) enhances the Vanilla biomes with subtle yet impactful improvements. It adjusts the rarity and density of certain biome features like grass, ferns, and flowers, while adding elements like rocks, fallen trees, moss, tree stumps, a few new tree types, and bushes. These enhancements maintain the essence of Vanilla biomes while subtly updating them with a new depth of natural detail.
 
 <div>
 
@@ -56,7 +60,7 @@ This season we're excited to offer a world generated with [Terralith](https://ww
 
 ### World size
 
-The world is 35,000 x 35,000 blocks centered around spawn. Chunks past 30,000 blocks in any direction out from spawn are generated on 1.20.1. Chunks inside the 30k radius were generated on 1.19.4.
+The world is 30,000 x 30,000 blocks out from spawn and holds multiple strongholds.
 
 ### Entities & chunks
 
@@ -74,13 +78,13 @@ The smp runs on the base games normal difficulty, however some tweaks modify the
 
 ### Entering the world
 
-The primary way to enter the world is to random teleport using **`/rtp`**. RTP costs 50 vibecoin per use and can only be done once every 6 minutes. RTP will take you anywhere from 5,000-25,000 blocks from spawn. To significantly decrease the chances players rtp nearby your base, travel past 25k blocks from 547 -2892, as the outer 10k blocks past 25k blocks from spawn are out of RTP radius.
+The primary way to enter the world is through randomized teleportation using the **`/rtp`** command. RTPing costs 50 vibecoin per use and can only be done once every 6 minutes. RTP will take you anywhere from 5,000-20,000 blocks from spawn. To significantly decrease the chances players rtp nearby your base, travel past 20k blocks from 547 -2892, as the outer 10k blocks past 20k are out of RTP radius.
 
 {% hint style="success" %}
 For new players the first RTP will be free of charge.
 {% endhint %}
 
-If you are unable to afford a RTP, you can travel on foot from vibetown or the market. Learn how to [make vibecoin](../economy.md#making-money), and [vote every 24 hours](../../general/misc./voting.md) for 100 vibecoin among other rewards :)
+If you are unable to afford a RTP, you can travel on foot from vibetown or the market. Learn how to [make vibecoin](../economy.md#making-money), and [vote every 24 hours](../../general/misc./voting.md) for 50 vibecoin among other rewards :)
 
 ### Season based
 
@@ -89,7 +93,7 @@ The SMP operates on a season based rotation. Based on community retention (rough
 New seasons only affect the smp itself. Member or vip ranks, server level, profile information like your nickname, pronouns, preferences, etc. and content in creative plots and parkour are never reset in new seasons.
 
 {% hint style="info" %}
-The smp is currently in its 6th season, which began May 26, 2023
+The smp is currently in its 7th season, which began May 31, 2024
 {% endhint %}
 
 {% hint style="info" %}

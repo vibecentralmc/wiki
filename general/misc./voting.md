@@ -1,14 +1,14 @@
 # Voting
 
-Voting for vibe on any or all of the services every 24 hours is an easy way for players to support the server and get rewards in the process!
+Voting for vibe on PlanetMinecraft every 24 hours is an easy way for players to support the server and get rewards in the process!
 
-#### [See the vote links on the main website here](https://site.vibecentral.xyz/vote)
+[**Vote here!**](voting.md#rewards)
 
-### Rewards (cumulative)
+### Rewards
 
-* 100 [vibecoin](../../survival/economy.md)
+* 50 [vibecoin](../../survival/economy.md)
 * 150 [vibe experience](../leveling.md)
-* 2 [boost points](../../survival/boosters.md)
+* 1 [boost point](../../survival/boosters.md)
 
 ### Streaks
 

@@ -6,7 +6,7 @@ cover: .gitbook/assets/2023-05-27_21.33.32.png
 coverY: -277
 ---
 
-# Welcome
+# Vibe Wiki - Home
 
 {% hint style="success" %}
 **This site provides up-to-date information regarding the server and its features.**
@@ -16,8 +16,8 @@ If you have any questions, concerns, or would like to see something added, pleas
 
 ### Quick links
 
-{% content-ref url="survival/smp-survival-s6/" %}
-[smp-survival-s6](survival/smp-survival-s6/)
+{% content-ref url="survival/smp-survival-s7/" %}
+[smp-survival-s7](survival/smp-survival-s7/)
 {% endcontent-ref %}
 
 {% content-ref url="survival/tweak-list/" %}
