@@ -56,10 +56,10 @@
 * [The moon](the-moon.md)
 * Totem of undying works in any inventory slot
 * [Enchantment upgrade tables](enchantment-upgrade-tables.md)
-* Fully grown crops drop a small amount of xp when harvested
 * [Unlocked head slot](unlocked-head-slot.md)
 * [Toggleable PvP](toggleable-pvp.md)
 * [Axolotl variant display on buckets](axolotl-variant-display.md)
 * [Tool and armor statistics](tool-and-armor-statistics.md)
 * [Persistent crop and flora growth](persistent-crop-and-flora-growth.md)
 * [Crops have a 12.5% chance to drop XP when harvested](crops-drop-xp.md)
+* Firework explosions don't deal entity damage

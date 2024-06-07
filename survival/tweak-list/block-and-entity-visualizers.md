@@ -34,7 +34,7 @@ Interactable blocks and entities have special visualizers that add an extra leve
 
 </div>
 
-### Furnaces
+### Furnaces & Smokers
 
 <div align="left">
 
