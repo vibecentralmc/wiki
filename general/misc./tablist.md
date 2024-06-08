@@ -2,7 +2,7 @@
 
 The tablist can be opened by holding the TAB key. It shows all connected users and various information.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-07-17 212359.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-06-08 172843.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Breakdown
 
