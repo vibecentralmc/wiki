@@ -18,9 +18,10 @@ This summary is meant to provide a swift overview of our rules. Though, we highl
 * Always approach others with respect and consideration
 * Harassment, discrimination, and hate speech are strictly prohibited.
 * Keep all communication PG-13.
-* No dark or triggering topics.
+* No sexual, dark or potentially triggering references or topics.
 * Keep global chat in English for moderation and understanding by others.
-* Do not flood chat or evade filters.
+* Do not flood or spam chat.
+* Do not evade any chat filters.
 * Light swearing is permitted on a minimal basis. The use of strong profanities, slurs, or language that could be offensive or disrespectful is not allowed.
 * Do not reveal personal or identifying information about yourself or others.
 * Advertising related to vibe gameplay is permitted; other unrelated advertisements are not.
@@ -30,10 +31,15 @@ This summary is meant to provide a swift overview of our rules. Though, we highl
 ### **Gameplay**
 
 * Griefing, stealing, or otherwise modifying anyone's builds or land, even unclaimed, is not allowed unless you have explicit permission from the creator.
+* Low to medium effort builds made by inactive owners (1 or more months of inactivity) may have their ownership transferred off to a requesting player.
+* Very low effort builds may be demolished by staff without prior warning.&#x20;
+* Claims in shared spaces should be made mindfully. Claims may be resized by admins to be more reasonable, or removed all-together.
+* Do not create claims on land you do not intend to occupy and build in/nearby.
 * Be honest and transparent in all trades, scamming is prohibited.
 * PvP is only allowed if all parties involved have given their explicit consent.
-* Respect the natural environment of the world, and clean up temporary structures. Avoid uselessly or excessively damaging the landscape of the world, i.e. placing blocks under your feet as you travel, making dirt towers, etc.
-* No AFK farming beyond 12 hours in a 24 hour period. No use of auto-clicking or auto-movement.
+* Respect the natural environment of the main survival world, and clean up temporary structures. Avoid uselessly or excessively damaging the landscape of the main world, i.e. placing blocks under your feet as you travel, making dirt towers, etc.
+* No AFK farming beyond 12 hours in a 24 hour period.
+* No use of auto-clicking or auto-movement.
 * Be mindful in the market. Keep shops by spawn platforms small and get permission from staff to build very big shops. Do not build multiple shops next to each other, spread them throughout market. Get permission from staff before making any additional shops beyond 5 shops.
 * Auction house listings should be priced fairly and have value. Items of similar type should be bundled into a single auction instead of individually to prevent spam. Bundled auctions can be created using /ah sell -b
 
@@ -66,21 +72,23 @@ This summary is meant to provide a swift overview of our rules. Though, we highl
          \
 
 2. **Respect Privacy & Personal Information**
-   1. Personal privacy must always be respected. Do not share or request exceedingly personal or identifying information.
-   2. Never reveal another member’s personal details without their explicit consent.
-   3. You should always keep your personal information safe. Sharing sensitive details about yourself or excessive information about yourself within our community or the internet in general is strongly discouraged.\
+   1. Do not ask for or share exceedingly personal or identifying information about yourself or others.
+      1. Exceedingly personal information includes, but is not limited to, full names, phone numbers, addresses, email addresses, or any other details that can directly identify someone.
+   2. Others privacy must always be respected. Never reveal another member’s personal details, even privately, without their explicit consent.
+   3. It's important to protect yourself online and keep your your personal information secure. Sharing a lot of information about yourself, or sensitive details about yourself within our community and the internet in general is strongly discouraged. Stay safe!\
       \
 
 3. **Communication and content**
-   1. A significant portion of our community is under the age of 18. Please ensure your communication remains respectful and appropriate. Unless you know otherwise, assume that you're interacting with a younger audience.
-   2. Topics that are contentious, dark, triggering, or potentially distressing, such as explicit or graphic content, real-world violence, personal traumas, or unsettling events, should not be discussed.
-      1. Such topics should only be discussed if everyone involved has explicitly agreed to engage in the conversation. This helps ensure we maintain a respectful, safe, and inclusive environment for all community members.
-   3. As an English based server, public chat should be kept in English for effective moderation and understanding by all members.
+   1. As a general guide, all content and communication should be kept PG-13.
+      1. As an exception to this rule, light profanity is permitted on a minimal basis; however, the usage of strong profanities, slurs, or language that could be offensive or disrespectful is strictly prohibited.
+   2. A significant portion of our community is under the age of 18. Please ensure your communication remains respectful and appropriate. Unless you know otherwise, assume that you're interacting with a younger audience.
+   3. Topics or content that is inciteful, contentious, sexual or suggestive, likely offensive, dark, or potentially triggering or distressing, such as discussion of real-violence, personal traumas, etc. should not be publicly discussed.
+      1. Our aim is to maintain a respectful and inclusive environment for everyone and offer a place people can get away from the stress of the real world. References or discussions involving politics, religion, social issues, health and medicine, environmental concerns, economic policy, legal and criminal justice matters, current or past geopolitical conflicts, or other real-world disputes or controversies is not permitted.
+   4. As an English based server, public chat should be kept in English for effective moderation and understanding by all members.
       1. Private messaging or other means may be used to communicate in other languages.
-   4. Excessive use of capital letters, repetition of the same word or letter, or any other disruptive chat behavior should be avoided.
-   5. We have implemented several filters in our in-game chat and Discord server to prevent content that infringes on the rules. Any attempts to bypass these filters, whether by adding extra characters or using other methods, are not permitted.
+   5. Excessive use of capital letters, repetition of the same word or letter, spamming, or any other disruptive chat behavior is not permitted.
+   6. We have implemented several filters in our in-game chat and Discord server to prevent content that infringes on the rules. Any attempts to bypass these filters, whether by adding extra characters or using other methods, are not permitted.
       1. Despite our best efforts to employ highly accurate and effective filters in place both in-game and on our Discord server to catch rule-breaking content, it’s important to remember that no filter is infallible, and that the ultimate responsibility lies with the individual authoring the content to ensure it aligns with our rules.
-   6. Light swearing is permitted on a minimal basis; however, the usage of strong profanities, slurs, or language that could be offensive or disrespectful is strictly prohibited.
    7. Do not repeatedly ask or beg for items or other things in the server.\
       \
 
@@ -89,34 +97,31 @@ This summary is meant to provide a swift overview of our rules. Though, we highl
    2. You are allowed to promote your social media accounts, services, and other work in the #self-promo Discord channel.
    3. It’s important to ensure that any promotions do not result in flooding or spamming the chat.
    4. Other Minecraft server or community promotions are not allowed
-      1. Detailed references, information, or conversation about servers or communities with fewer than 10,000 members is considered a breach of this rule.\
+      1. Detailed references, information, or conversation about servers or communities with fewer than 10,000 members is considered a violation of this rule.\
          \
 
 5. **Nicknames and Representation**
    1. Nicknames should reflect your commonly used name and should not be changed frequently.
-   2. Nicknames with swears, strong language or references to disallowed topics are not allowed.
-   3. Using nicknames to impersonate others, even as a joke is not allowed\
-      \
-
-6. **Politics and Controversial Topics**
-   1. Making references to political topics or people or talking about issues involving government officials, political parties, religions, or geo-political disagreements is not allowed. The server or Discord is not a place for these kinds of discussions and topics.\
+   2. Nicknames with profanities, strong language or references to disallowed content are not allowed.
+   3. Using nicknames to impersonate somebody else, even as a joke is not allowed.\
       \
 
 
 ### Section 2 | Gameplay
 
-1. **Others' Builds and Spaces**
+1. **Builds and Spaces**
    1. Griefing, stealing, or otherwise modifying anyone's builds or land, even unclaimed, is not allowed unless you have explicit permission from the creator.
-      1. Ownership of land is determined by sufficient modification of the area, for example, through constructing a house, farm, or other meaningful structure.
-      2. Modifying land within a radius of 500 blocks from someone else's work could be considered a violation of this rule.
+      1. Everything in the resource world is fair game for everybody and is an exception to this rule. There is no claims or ownership of land in the resource world.
+      2. Ownership of land is determined by sufficient modification of the area, for example, through constructing a house, farm, or other meaningful structure.
+      3. Modifying land within a radius of 500 blocks from someone else's work could be considered a violation of this rule.
          1. Shared spaces like the market, vibetown, or other towns are not subject to this radius restriction. However, careful consideration should be given when deciding where to build in close proximity to others.
-   2. Naturally generated structures such as villages, strongholds, ruined portals, desert or jungle temples, or witch huts are not protected by this rule unless another player clearly inhabits them.
-   3. Failure to respect the guidelines clearly posted at shared locations, for example, community farms requesting replanting, etc., is considered a violation of the rule.
-   4. In the servers official town vibetown
-      1. Low effort homes or builds with inactive owners (1 or more months of inactivity) may be auctioned off to another player or demolished by staff to ensure the town stays lively.
-      2. Very low effort builds may be demolished by staff without prior warning.
-      3. Claims in vibetown may be resized to be more reasonable, or removed all-together if the situation calls for that.
-   5. If you are on another player’s property, you must respect their space and abide by their requests to leave or refrain from certain things within their space.
+      4. Naturally generated structures such as villages, strongholds, ruined portals, desert or jungle temples, or witch huts are not protected by this rule unless another player clearly inhabits them.
+      5. Failure to respect the guidelines clearly posted at shared locations, for example, community farms requesting replanting, etc., is considered a violation of the rule.
+   2. Low to medium effort builds made by inactive owners (1 or more months of inactivity) may have their ownership transferred off to a requesting player.
+   3. Very low effort builds may be demolished by staff without prior warning.&#x20;
+   4. Claims in shared spaces should be made mindfully. Claims may be resized by admins to be more reasonable, or removed all-together.
+   5. Do not create claims on land you do not intend to occupy and build in/nearby.
+   6. If you are on another player’s property, you must respect their space and abide by their requests to leave or refrain from certain actions within their space.
       1. You need permission from the property owner before you save a personal or community waypoint that is within 500 blocks\
          \
 
@@ -137,9 +142,8 @@ This summary is meant to provide a swift overview of our rules. Though, we highl
    6. Shop and shop chest guidelines do not apply to shops/shop chests set up outside of the market region.
    7. Shops with inactive owners (1 or more months of inactivity) may be auctioned off to another player or demolished by staff to ensure the market shops stay lively.
    8. Very low effort shops may be demolished by staff without prior warning.
-   9. Claims in the market may be resized to be more reasonable, or removed all-together if the situation calls for that.
-   10. We typically will contact you and request structures violating these rules to be demolished by you, but if it is not done in a timely manner or must be removed immediately, staff will handle the demolition and apply further sanctions if necessary.\
-       \
+   9. We typically will contact you and request structures violating these rules to be demolished by you, but if it is not done in a timely manner or must be removed immediately, staff will handle the demolition and apply further sanctions if necessary.\
+      \
 
 3. **Auction House Etiquette**
    1. Auction listings should be fairly priced and reflect the item's rarity and quantity
@@ -148,27 +152,26 @@ This summary is meant to provide a swift overview of our rules. Though, we highl
       \
 
 4. **Trading & Scamming**
-   1. Scamming or deceiving other players out of items, vibecoin, or other belongings in any way is not allowed\
-
+   1. Scamming or deceiving other players out of items, vibecoin, or other belongings in any way is not allowed
    2. All trades should be conducted honestly, with full disclosure and agreement from all parties involved.\
       \
 
 5. **PvP and Teaming**
    1. PvP in the survival world is only allowed if all parties involved have given their explicit permission.
       1. Simply having PvP toggled on is not sufficient as consent.
-   2. No teaming in the PvP arena or Party Games unless it is mutually agreed upon the whole lobby\
+   2. No teaming in the PvP arena or Party Games unless it is mutually agreed upon the whole lobby.\
       \
 
 6. **Environmental Responsibility**
-   1. Avoid uselessly or excessively damaging the landscape of the world, i.e. placing blocks under your feet as you travel, making dirt towers, etc.
-   2. Do not leave half-cut trees or hanging blocks.
-   3. If you create any temporary structures, like a one night dirt hut, placing a crafting table, or spawning a boat in the wilderness, dismantle them once you are done to keep the world clean.\
-      \
+   1. Avoid uselessly or excessively damaging the landscape of the world, i.e. placing blocks under your feet as you travel, leaving hat-cut trees or hanging blocks, making dirt towers, etc.
+      1. If you create any temporary structures, like a one night dirt hut, placing a crafting table, or spawning a boat in the wilderness, dismantle them once you are done to keep the world clean.
+      2. The resource world is fully exempt to this rule.\
+         \
 
 7. **Idling (AFKing)**
-   1. AFK farming for items in moderation is okay, but should never require any form of auto clicking or auto movement, including fish farms.
-   2. Cumulatively AFKing farming longer than 12 hours within a 24 hour period is considered excessive and is not allowed
-      1. Extended AFK periods past 12 hours are only allowed if not for farming purposes
+   1. AFKing farming in moderation is okay, but should never require any form of auto clicking or auto movement.
+   2. Cumulatively AFK farming longer than 12 hours within a 24 hour period is considered excessive and is not allowed
+      1. Extended AFK periods past 12 hours are only allowed if not for the purpose of farming. &#x20;
    3. Note that the server restarts daily at 4:50 AM EST.\
       \
 
@@ -211,5 +214,4 @@ This summary is meant to provide a swift overview of our rules. Though, we highl
       1. The preferable method for contacting staff is through our Discord ticket system. Join our /discord and link, then go to the #contact-staff channel to create a private channel with you and the staff team.
       2. For urgent situations, please try to pass your report to a player who has Discord access and can contact us directly through tickets.
       3. If you are unable to use Discord, you can contact staff in-game by checking if any online players have a blue ⌘ Staff icon and are either \[O] owner, \[A] admin, or \[H] helper/mod by holding down the TAB key to bring the player list up. You can contact them in chat, or by private messaging them using /msg \<name> \<msg>
-         1. If no staff are online, you can /mail send \<username> \<msg>\
-            For the username, send to both kiiix and olivifrog (you can press your up arrow after opening the chat box to load your last message into the text field)
+         1. If no staff are online, you can /mail send kiiix \<msg>
