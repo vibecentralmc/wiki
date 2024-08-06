@@ -20,15 +20,11 @@ For very large responses, Skye will send one message and tunicate it with a \[..
 \
 To prevent abuse, most nodes have per-player and or global cooldowns, and Skye will reject answering another question while actively replying to a different question.
 
-{% hint style="info" %}
-As of 9/3/23, Skye has 145 total Q\&A nodes!
-{% endhint %}
-
 As of 5/20/24, Skye received a major v5 update that leverages a fine tuned large language model for general dialogue in addition to the Q\&A library (previously referred to as the conversational library), now refined specifically for server knowledge and Q\&A instead of also including some conversational inputs and outputs. This hybrid approach keeps costs manageable and significantly enhances Skye's conversational abilities. Now, when chatting with Skye, if your input doesn't match any Q\&A conversational nodes, Skye queries the LLM to generate a response. Our long term goal for Skye is to fully integrate AI to answer both server questions and general conversation. However, currently the costs associated with a fully AI fledged Skye are too high.
 
 When chatting, Skye v5 stores up to 10 recent messages with you for LLM context. This allows Skye to take into account recent previous messages before writing new messages, making them more tailored. After 5 minutes of conversation inactivity, Skye's per user context is reset. Some additional metadata is sent&#x20;
 
-Skye LLM messages have per player and combined rate limits to prevent excessive usage and costs, and you will be notified if you or the server reaches the cap.
+Skye has numerous checks and limits in place to prevent misuse or reverse engineering.
 
 ## Usage disclaimer
 
