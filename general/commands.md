@@ -53,6 +53,9 @@
 * **`/discord`**\
   Shows the server's [Discord](discord.md) invite link\
 
+* **`/wiki`**\
+  Shows the wiki link\
+
 * **`/joinmsg`**\
   Pick your own join message from the options. Extra options available to [VIPs](ranks/vip.md)\
 
