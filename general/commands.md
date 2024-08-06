@@ -54,7 +54,7 @@
 * **`/quests`** **`/q`** Open the[ questing menu](../survival/questing.md)
 * **`/tasks`** Open the community tasks menu
 * **`/givepet`** Transfer [pet ownership](../survival/tweak-list/pet-ownership-transferring.md) to another player
-* **`/mobdex`** Open the [mobdex](../survival/mob-rarities-and-mobdex.md)
+* **`/mobdex`** Open the [mobdex](../survival/tweak-list/mob-rarities-and-mobdex.md)
 * **`/boost`** **`/boosters`** Open the [Boosters ](../survival/boosters.md)menu&#x20;
 * **`/tbt`** Toggle [biome titles](../survival/tweak-list/biome-titles.md) on or off
 
@@ -71,10 +71,10 @@
   ](../survival/tweak-list/community-waypoints.md)
 * **`/back`** Teleport to your previous location or death spot
 * **`/rtp`**[ Randomly teleport ](../survival/random-teleporting-rtp.md)in your current world
-* **`/sethome <name>`** **`/rsethome <name>`** Set a [personal waypoint](ranks/vip.md), or [resource waypoint](../survival/resource-world.md). _Limited to 5 for members,_ [_up to 32 for VIPs_](ranks/vip.md)
-* **`/home <name>`** **`/rhome <name>`** Teleport back to a [personal waypoint](../survival/tweak-list/personal-waypoints.md) or [resource waypoint](../survival/resource-world.md)
-* **`/delhome <name>`** **`/rdelhome <name>`** Delete a [personal waypoint](../survival/tweak-list/personal-waypoints.md) or [resource waypoint](../survival/resource-world.md)
-* **`/homes`** **`/rhomes`** See a list of your[ personal waypoints](../survival/tweak-list/personal-waypoints.md) or resource waypoints
+* **`/sethome <name>`** **`/rsethome <name>`** Set a [personal waypoint](ranks/vip.md)[, or resource waypoint](../survival/tweak-list/personal-waypoints.md). _Limited to 5 for members,_ [_up to 32 for VIPs_](ranks/vip.md)
+* **`/home <name>`** **`/rhome <name>`** Teleport back to a [personal waypoint](../survival/tweak-list/personal-waypoints.md) [or resource waypoint](../survival/tweak-list/personal-waypoints.md)
+* **`/delhome <name>`** **`/rdelhome <name>`** Delete a [personal waypoint](../survival/tweak-list/personal-waypoints.md) [or resource waypoint](../survival/tweak-list/personal-waypoints.md)
+* **`/homes`** **`/rhomes`** See a list of your[ personal waypoints](../survival/tweak-list/personal-waypoints.md) [or resource waypoints](../survival/tweak-list/personal-waypoints.md)
 
 ### Land claiming
 

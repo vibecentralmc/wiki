@@ -1,16 +1,12 @@
 # Personal waypoints
 
+Personal waypoints let you save locations and quickly teleport back to them. The amount of waypoints you can set is determined by your [rank](../../general/ranks/), limited to 5 for members, [up to 32 for VIPs](../../general/ranks/vip.md)\
+\
+Regular personal waypoints can be set in the main smp world, while resource waypoints (starting with R) can be set in the [resource world](../resource-world.md). The amount of resource waypoints that you can set matches your limit of regular sethomes. These limits are separate, so setting resource homes does not count toward your regular sethome limit, and vice versa.
+
 ### Commands
 
-* **`/sethome <name>`**\
-  Set a personal waypoint\
-  _Limited to 5 for_ [_members_](../../general/ranks/)_, and up to 32 for_ [_VIP_](../../general/ranks/vip.md)_s_\
-
-* **`/home <name>`**\
-  Teleport back to a personal waypoint\
-
-* **`/delhome <name>`**\
-  Delete a personal waypoint\
-
-* **`/homes`**\
-  See a list of your personal waypoints
+* **`/sethome <name>`** **`/rsethome <name>`** Set a [personal waypoint](../../general/ranks/vip.md), or [resource world](../resource-world.md) waypoint.&#x20;
+* **`/home <name>`** **`/rhome <name>`** Teleport back to a [personal waypoint](personal-waypoints.md) or [resource world](../resource-world.md) waypoint
+* **`/delhome <name>`** **`/rdelhome <name>`** Delete a [personal waypoint](personal-waypoints.md) or [resource world](../resource-world.md) waypoint
+* **`/homes`** **`/rhomes`** See a list of your[ personal waypoints](personal-waypoints.md) or [resource world](../resource-world.md) waypoints

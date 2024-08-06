@@ -20,7 +20,7 @@ _From left to right_
 * [Server sell shop tp](server-sell-shop.md)
 * [Vibetown tp](vibetown.md)
 * [Community tasks menu](community-tasks.md)
-* [Mobdex menu](mob-rarities-and-mobdex.md)
+* [Mobdex menu](tweak-list/mob-rarities-and-mobdex.md)
 * [Smileys library](../general/rich-chat/smileys.md)
 * [VIP](../general/ranks/vip.md) upgrade menu
 * [Vote](../general/misc./voting.md)

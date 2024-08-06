@@ -1,13 +1,17 @@
 # Resource World
 
-* introducing the resource world! this is a dedicated world for gathering fresh resources to your hearts content, intended to help preserve the main smp world and keep it tidy.
-  * the world dimensions are **10k x 10k** blocks from spawn
-  * RTPing costs a discounted price of ![:vibecoin:](https://cdn.discordapp.com/emojis/911676393371340801.webp?size=48\&quality=lossless)**15** vibecoin
-  * the world will be reset monthly or as needed
-  * your location in the resource world persists when you change worlds, so you can return back to the resource world and be in the same place you left off
-  * consistent with the main world, its generated with terralith + geophilic and there’s no mob griefing or fire spread
-  * no nether or end
-  * claiming, setting warps, sethomes, and using portals is disabled. additionally, crops will not grow, there is no day/night cycle, and all mobs are common rarity
-  * use `/warp resource` to get there! ![:cheemsheart:](https://cdn.discordapp.com/emojis/991543643682906152.webp?size=48\&quality=lossless)
+The resource world is a dedicated for gathering fresh resources to your hearts content, intended to help preserve the main smp world and keep it tidy. Some [quests](questing.md) are resource world specific, and offer extra rewards.
+
+Use **`/warp resource`** to get there! Run it again to return to the resource world spawn.
+
+* Resets monthly.
+* World dimensions are **10k x 10k** blocks from spawn.
+* Consistent with the main world, this world generated with Terralith + Geophilic, and there’s no mob griefing or fire spread.
+* RTPing costs a discounted price of **15** vibecoin.
+* [Resource sethomes/waypoints](tweak-list/personal-waypoints.md) allow you to save waypoints in the world.
+* Your location in the resource world persists when you change worlds, so you can return back to the resource world and be in the same place you left off.
+* Nether & end is shared with the main world ones.
+* Claiming, setting warps and regular sethomes is disabled. Additionally, crops will not grow there is no day/night cycle.
+* 50% reduced hostile mob spawns compared to the main world.
 
 \

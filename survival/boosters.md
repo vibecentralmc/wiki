@@ -6,6 +6,8 @@ All boosters are available in both a base tier and an upgraded tier, which offer
 
 Boosters can be viewed and purchased through the Booster menu using the `/boost` command
 
+<figure><img src="../.gitbook/assets/image.png" alt="" width="346"><figcaption></figcaption></figure>
+
 ### Acquiring Boost Points
 
 **Ⓑ** Boost points can be purchased in the boosters menu for 85 vibecoin and 8 XP levels each.  Boost points are non-tradeable, and unspent boost points will be lost at the end of the [smp season](smp-survival-s6/season-information.md).
@@ -21,22 +23,29 @@ You can get up to **2 free boost points** every day by [**voting**](../general/m
 
 Increases [utility fly](tweak-list/utility-flight.md) speed
 
-* Tier 1: 0.7x speed increase for 6 hours at 2 Ⓑ points
-* Tier 2: 1.0x speed increase for 24 hours at 5 Ⓑ points
+* Tier 1: Speed increase to .70 for 8 hours at 2 Ⓑ points
+* Tier 2: Speed increase 1 (creative fly speed) for 24 hours at 5 Ⓑ points
 
 ### **Movement Booster**
 
 Faster movement speed and jump height
 
-* Tier 1: 1.2x speed and 3x jump height for 6 hours at 1 Ⓑ point
-* Tier 2: 2x speed and 4x jump height for 24 hours at 2 Ⓑ points
+* Tier 1: +0.7x speed for 12 hours at 1 Ⓑ point
+* Tier 2: +1.3x speed and 2x jump height (2 blocks) for 24 hours at 2 Ⓑ points
+
+### Mining Booster
+
+Become a mining machine!
+
+* Tier 1: Persistent Haste 2 for 8 hours at 2 Ⓑ points
+* Tier 2: Persistent Haste 3 for 12 hours at  3 Ⓑ points
 
 ### **Vibe EXP Boost**
 
 Increases your Vibe EXP multiplier to progress your[ server level](../general/leveling.md) faster
 
-* Tier 1: +1x Vibe EXP multiplier for 6 hours at 2 Ⓑ points
-* Tier 2: +1x Vibe EXP multiplier for 24 hours at 4 Ⓑ points
+* Tier 1: +1x Vibe EXP multiplier for 6 hours at 1 Ⓑ point
+* Tier 2: +1x Vibe EXP multiplier for 24 hours at 3 Ⓑ points
 
 ### **Reserved Night Credits**
 
@@ -47,21 +56,21 @@ Prevents the night from being skipped. Can be redeemed in the [Reserve Night](tw
 
 ### **Skill XP Boost**
 
-* Tier 1: 2x skill XP multiplier for 6 hours at 3 Ⓑ points
-* Tier 2: 2x skill XP multiplier for 24 hours at 5 Ⓑ points
+* Tier 1: 2x skill XP multiplier for 6 hours at 1 Ⓑ point
+* Tier 2: 2x skill XP multiplier for 24 hours at 3 Ⓑ points
 
 ### **Insta-Smelt Credits**
 
 Allows instant smelting of any furnace contents
 
-* Standard: 5 use credits at 1 Ⓑ point
+* Standard: 6 use credits at 1 Ⓑ point
 * Bulk Deal: 25 use credits at 3 Ⓑ points
 
 ### **Auto-Replant Credits**
 
 Automatically replants crops after harvesting. Replants count towards quest replant goals.
 
-* Standard: 800 use credits at 2 Ⓑ points
+* Standard: 500 use credits at 1 Ⓑ point
 * Bulk Deal: 2000 use credits at 3 Ⓑ points
 
 ### **Hunger Lock**
@@ -69,9 +78,9 @@ Automatically replants crops after harvesting. Replants count towards quest repl
 Maintain 100% saturation
 
 * Tier 1: 12 hours at 1 Ⓑ point
-* Tier 2: 48 hours at 2 Ⓑ points
+* Tier 2: 48 hours at 3 Ⓑ points
 
 ### **Strength Boost**
 
-* Tier 1: +6 attack damage and +20% damage reduction for 6 hours at 1 Ⓑ point
-* Tier 2: +18 attack damage, +40% damage reduction, and boosted regeneration speed when fully saturated for 24 hours at 3 Ⓑ points
+* Tier 1: +6 attack damage and +20% damage reduction for 12 hours at 1 Ⓑ point
+* Tier 2: +18 attack damage, +40% damage reduction, and boosted regeneration speed when fully saturated for 48 hours at 3 Ⓑ points

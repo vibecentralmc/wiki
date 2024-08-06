@@ -1,8 +1,14 @@
 # Questing
 
+{% hint style="warning" %}
+**Outdated page**
+
+Some of the information and content on this page is outdated. Updates are pending!
+{% endhint %}
+
 We have tons of custom-made quests in various categories you can do for fun or a challenge. If you ever don't know what to do, quests are a great way to keep occupied!
 
-Each quest can be completely once every 7 days. Additionally, accessible every 24 hours, a new random daily quest will be available via the main menu.
+Each quest can be completely once every 7 days.
 
 ### Commands
 
@@ -21,12 +27,6 @@ Each quest can be completely once every 7 days. Additionally, accessible every 2
 Quest points are obtained by doing quests, and contribute to your ranking in the quest leaderboard! You can see the rankings for quest points and total quests completed at the [survival spawn](smp-survival-s6/#spawn) holograms. Each quest gives a different amount of quest points based on difficulty, time taken, etc.
 
 ## Available quests
-
-{% hint style="info" %}
-**Outdated content**
-
-Some of the content on this page may not be fully accurate. Updates are pending!
-{% endhint %}
 
 <details>
 
