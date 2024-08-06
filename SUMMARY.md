@@ -71,7 +71,7 @@
   * [Axolotl variant display](survival/tweak-list/axolotl-variant-display.md)
   * [Persistent crop and flora growth](survival/tweak-list/persistent-crop-and-flora-growth.md)
   * [Crops drop XP](survival/tweak-list/crops-drop-xp.md)
-  * [Mob rarities and mobdex](survival/tweak-list/mob-rarities-and-mobdex.md)
+  * [Mob rarities and mobdex](survival/mob-rarities-and-mobdex.md)
 * [Random Teleporting (RTP)](survival/random-teleporting-rtp.md)
 * [Resource World](survival/resource-world.md)
 * [Economy](survival/economy.md)

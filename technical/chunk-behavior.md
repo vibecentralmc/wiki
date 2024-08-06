@@ -9,11 +9,11 @@ Minecraft worlds are divided into a grid of 16x16x384 cubes called chunks. Your 
 
 ## **Summary**
 
-The server view distance is 20 chunks in all directions from players, making the maximum view distance of 480 blocks. Note that in order to prevent useless traffic this will match your personal view distance setting up to 20, so if your view distance is for example 8, you will only be sent chunk data for a view distance of 8.\
+The server view distance is 12 chunks in all directions from players, making the maximum view distance in one direction 192 blocks. Note that in order to prevent useless traffic this will match your personal view distance setting up to 12, so if your view distance is for example 8, you will only be sent chunk data for a view distance of 8.\
 \
 **Chunks within a 3 chunk radius (48 block radius) from players are fully physically ticked**. In fully physically ticked chunks mobs will spawn, liquids will flow, redstone will function, physics apply, and all other game mechanics work as usual.
 
-**Unlike Vanilla, fully unticked/unloaded chunks don't exist within vibe**. Mobs can spawn and interact with unticked chunks around the player as they use a [totally separate ticking system](entity-de-spawning-and-ai.md). Additionally, all growables and crops from wheat to vines will grow in unticked and even completely unloaded chunks, but at a lower tick speed than fully physically ticked chunks.\
+**Unlike Vanilla, fully unticked/unloaded chunks don't exist within vibe**. Growables and crops from wheat to vines will grow in unticked and even completely unloaded chunks, but at a lower tick speed than fully physically ticked chunks.\
 \
 **Unloaded** chunks refer to chunks that are beyond the view distance of 20 chunks. Unlike Vanilla, crops will continue to grow at a slower speed in unloaded chunks. Entities spawned when the chunk was ticking will persist within unloaded chunks with an exception of hostile entities (unless nametagged), but no entities spawn in unloaded chunks.
 

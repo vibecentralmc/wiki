@@ -54,7 +54,7 @@
 * **`/quests`** **`/q`** Open the[ questing menu](../survival/questing.md)
 * **`/tasks`** Open the community tasks menu
 * **`/givepet`** Transfer [pet ownership](../survival/tweak-list/pet-ownership-transferring.md) to another player
-* **`/mobdex`** Open the [mobdex](../survival/tweak-list/mob-rarities-and-mobdex.md)
+* **`/mobdex`** Open the [mobdex](../survival/mob-rarities-and-mobdex.md)
 * **`/boost`** **`/boosters`** Open the [Boosters ](../survival/boosters.md)menu&#x20;
 * **`/tbt`** Toggle [biome titles](../survival/tweak-list/biome-titles.md) on or off
 
