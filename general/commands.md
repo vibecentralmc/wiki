@@ -111,6 +111,10 @@
 
 ### General
 
+* **`/m`**\
+  **`/help`**\
+  Open the [SMP menu](../survival/smp-menu.md)\
+
 * **`/xpfly`**\
   [Fly in survival](../survival/tweak-list/utility-flight.md) (excluding the nether and end) at the cost of your xp\
 

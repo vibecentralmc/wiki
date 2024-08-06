@@ -4,23 +4,35 @@ Each component of player chat may be hovered or clicked for an upgraded chat exp
 
 ## Breakdown
 
-### This is the message we're using in the example
+### _This is the message we're using in the example_
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/msg.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+### Hover the letter prefix at the very start of the message to see the dimension it was sent from
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/image (27).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
 ### Hover the number to the left to see [leveling](../leveling.md) details
 
-<figure><img src="../../.gitbook/assets/msg2.png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/image (24).png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
 
 ### Hover the rank prefix to see the ranks full name
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/msg3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -28,7 +40,7 @@ Each component of player chat may be hovered or clicked for an upgraded chat exp
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/msg4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26).png" alt="" width="499"><figcaption></figcaption></figure>
 
 </div>
 

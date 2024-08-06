@@ -84,6 +84,7 @@
 * [Server Sell Shop](survival/server-sell-shop.md)
 * [Market](survival/market.md)
 * [Vibetown](survival/vibetown.md)
+* [SMP Menu](survival/smp-menu.md)
 
 ## 🪄 Creative plots
 
