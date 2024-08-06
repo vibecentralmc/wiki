@@ -90,7 +90,7 @@ The smp runs on the base games normal difficulty, however some tweaks modify the
 
 ### Entering the world
 
-The primary way to enter the world is through randomized teleportation using the **`/rtp`** command. RTPing costs 50 vibecoin per use and can only be done once every 6 minutes. RTP will take you anywhere from 5,000-20,000 blocks from spawn. To significantly decrease the chances players rtp nearby your base, travel past 20k blocks from 547 -2892, as the outer 10k blocks past 20k are out of RTP radius.
+The primary way to enter the world is through [randomized teleportation](../random-teleporting-rtp.md). To significantly decrease the chances players rtp nearby your base, travel past 20k blocks from 547 -2892, as the outer 10k blocks past 20k are out of RTP radius.
 
 {% hint style="success" %}
 For new players the first RTP will be free of charge.

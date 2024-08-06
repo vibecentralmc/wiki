@@ -18,7 +18,15 @@ Interactable blocks and entities have special visualizers that add an extra leve
 
 </div>
 
-### Crafting table
+### Items
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="554"><figcaption></figcaption></figure>
+
+</div>
+
+### Crafting tables
 
 <div align="left">
 
@@ -34,7 +42,7 @@ Interactable blocks and entities have special visualizers that add an extra leve
 
 </div>
 
-### Furnaces & Smokers
+### Furnaces & smokers
 
 <div align="left">
 

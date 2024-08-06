@@ -11,7 +11,7 @@ The SMP operates on a season based rotation. Based on community retention (rough
 New seasons only affect the smp itself. Players member or vip ranks, server level, and content in creative plots & parkour are never reset in new seasons. **Play time is season based, so it will be reset!**
 
 {% hint style="info" %}
-The smp is currently in its 6th season, which began May 26, 2023
+The smp is currently in its 7th season, which began May 31, 2024
 {% endhint %}
 
 ## **What isn't reset?**

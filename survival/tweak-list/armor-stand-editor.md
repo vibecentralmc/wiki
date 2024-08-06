@@ -8,7 +8,7 @@ Right click with flint on armor stands to adjust its settings in-depth for full 
 
 </div>
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (1).png>)
 
 {% hint style="info" %}
 **Pro tip**
