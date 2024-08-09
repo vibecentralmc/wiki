@@ -45,16 +45,20 @@ This summary is meant to provide a swift overview of our rules. Though, we highl
 
 ### **Server Etiquette & Fair Play**
 
-* Do not engage in activities that impair the server's performance or players' gameplay.
-* Exploitation of features or cheating of any kind or any modifications that give you an unfair advantage over those playing on vanilla is not allowed.
-* Optimization, cosmetic, and utility mods that do not give you an advantage to others on Vanilla are permitted (see full rules below for specific approved mods).
+* Do not intentionally impair the server's performance or players' gameplay.
+* Exploitation of features, cheating of any kind, or any modifications that give you an unfair advantage over those playing on vanilla is not allowed.
+* Only optimization, cosmetic, and utility game modifications that do not give you an advantage to others on Vanilla are allowed (see full rules below for specific approved mods).
 * Report bugs, glitches, or potential exploits to the staff.
 * Circumventing punishments or restrictions is prohibited.
 * Always provide accurate and honest information when reporting to staff.
 * If you observe any potential rule violations, report them to staff.\
 
 
-## Full rules
+## Full Rules
+
+_Last updated 8/9/24_
+
+***
 
 ### Section 1 | Conduct & Communication
 
@@ -67,7 +71,7 @@ This summary is meant to provide a swift overview of our rules. Though, we highl
          1. This rule is intended to promote respectful communication, not to enable unreasonable demands or requests that could negatively impact people and their gameplay, or go against fair play.
    2. If someone indicates they are uncomfortable with a certain conversation or situation, it’s every participating person's job to adjust their behavior and language in a respectful manner.
       1. This rule is intended to promote respectful and considerate communication and to accommodate genuine concerns, not to allow misuse or to enable disruption of community dialogue. It should not be used as a means to cease discussion arbitrarily.
-   3. Maintain a respectful and fair attitude when participating in competitive server activities, like party games or pvp.
+   3. Maintain a respectful and fair attitude when participating in competitive server activities, like party games or PvP.
       1. Toxic behavior, badmouthing or gloating, is not allowed.\
          \
 
@@ -78,7 +82,7 @@ This summary is meant to provide a swift overview of our rules. Though, we highl
    3. It's important to protect yourself online and keep your your personal information secure. Sharing a lot of information about yourself, or sensitive details about yourself within our community and the internet in general is strongly discouraged. Stay safe!\
       \
 
-3. **Communication and content**
+3. **Content and Communication**
    1. As a general guide, all content and communication should be kept PG-13.
       1. As an exception to this rule, light profanity is permitted on a minimal basis; however, the usage of strong profanities, slurs, or language that could be offensive or disrespectful is strictly prohibited.
    2. A significant portion of our community is under the age of 18. Please ensure your communication remains respectful and appropriate. Unless you know otherwise, assume that you're interacting with a younger audience.
@@ -92,7 +96,7 @@ This summary is meant to provide a swift overview of our rules. Though, we highl
    7. Do not repeatedly ask or beg for items or other things in the server.\
       \
 
-4. **Advertisements and promotions**
+4. **Advertisements and Promotions**
    1. Advertisements that are unrelated to server gameplay are not permitted in-game. Acceptable in-game promotions include those related to member's market shops, auction house listings, community waypoints, or other user-created content within the server.
    2. You are allowed to promote your social media accounts, services, and other work in the #self-promo Discord channel.
    3. It’s important to ensure that any promotions do not result in flooding or spamming the chat.
@@ -104,8 +108,9 @@ This summary is meant to provide a swift overview of our rules. Though, we highl
    1. Nicknames should reflect your commonly used name and should not be changed frequently.
    2. Nicknames with profanities, strong language or references to disallowed content are not allowed.
    3. Using nicknames to impersonate somebody else, even as a joke is not allowed.\
-      \
 
+
+***
 
 ### Section 2 | Gameplay
 
@@ -170,11 +175,12 @@ This summary is meant to provide a swift overview of our rules. Though, we highl
 
 7. **Idling (AFKing)**
    1. AFKing farming in moderation is okay, but should never require any form of auto clicking or auto movement.
-   2. Cumulatively AFK farming longer than 12 hours within a 24 hour period is considered excessive and is not allowed.
+   2. Cumulatively AFK farming longer than 12 hours within a 24 hour period is not allowed.
       1. Extended AFK periods past 12 hours are only allowed if not for the purpose of farming. &#x20;
    3. Note that the server restarts daily at 4:50 AM EST.\
-      \
 
+
+***
 
 ### **Section 3 | Server Etiquette & Fair Play**
 
@@ -213,5 +219,7 @@ This summary is meant to provide a swift overview of our rules. Though, we highl
    2. While staff do their best to monitor the community, we can’t catch everything and rely on the community to help us maintain a safe and enjoyable space on vibe. If you observe any actions or behaviors that you think might violate the server rules, appear questionable, or are inappropriate, please report them to the staff immediately.
       1. The preferable method for contacting staff is through our Discord ticket system. Join our /discord and link, then go to the #contact-staff channel to create a private channel with you and the staff team.
       2. For urgent situations, please try to pass your report to a player who has Discord access and can contact us directly through tickets.
-      3. If you are unable to use Discord, you can contact staff in-game by checking if any online players have a blue ⌘ Staff icon and are either \[O] owner, \[A] admin, or \[H] helper/mod by holding down the TAB key to bring the player list up. You can contact them in chat, or by private messaging them using /msg \<name> \<msg>.
+      3. If you are unable to use Discord, you can contact staff in-game by checking if any online players have a blue ⌘ Staff icon and are either \[O] Owner, \[A] Admin, or \[H] Helper/Mod by holding down the TAB key to bring the player list up. You can contact them in chat, or by private messaging them using /msg \<name> \<msg>.
          1. If no staff are online, you can /mail send kiiix \<msg>.
+
+***
