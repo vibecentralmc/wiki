@@ -1,6 +1,6 @@
 # Mob head drops
 
-All mob heads have a chance to drop when killed, supported up to 1.20.6 mobs (excluding new wolf variants). Looting bonus applies using **`drop chance + (looting level / 100)`**. Below shows all the obtainable heads and their base drop chances.
+All mob heads have a chance to drop when killed, supported up to 1.21 mobs (excluding new wolf variants from 1.20.6). Looting bonus applies using **`drop chance + (looting level / 100)`**. Below shows all the obtainable heads and their base drop chances.
 
 ![Obtainable heads as of 1.20.1](<../../.gitbook/assets/image (3) (2).png>)
 
@@ -84,4 +84,6 @@ All mob heads have a chance to drop when killed, supported up to 1.20.6 mobs (ex
 | Zombified Piglin | 0.5%                                                                                                                                                                                                                                                                                                                                                    |
 | Zombie Villager  | <p>50%<br>Variants for armorer, butcher, cartographer, cleric, farmer, fisherman, fletcher, leatherworker, librarian, mason, nitwit, none, shepherd, toolsmith, weaponsmith<br><br>No biome specific variants like Villagers</p>                                                                                                                        |
 | Armadillo        | 20%                                                                                                                                                                                                                                                                                                                                                     |
+| Bogged           | 0.5%                                                                                                                                                                                                                                                                                                                                                    |
+| Breeze           | 5%                                                                                                                                                                                                                                                                                                                                                      |
 
