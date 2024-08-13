@@ -15,7 +15,7 @@ Misc: 32 blocks
 
 Per dimension, within [physically ticked chunks](chunk-behavior.md) (3 chunk radius or 48 blocks in all directions around players) the server will spawn no more than a certain number of entities of particular types. Chunks are consistently being loaded & unloaded, meaning the cap for how many of these entities can spawn is constantly shifting. The total amount of entities spawned & observed in the world is much higher than these caps (this is what observed entities refers to). Entities spawned when the [chunk was ticking](chunk-behavior.md) will persist within unticked chunks with an exception of hostile entities at a certain distance unless nametagged (see [despawning ](entity-de-spawning-and-ai.md#despawning)section). No entities spawn in [unloaded chunks](chunk-behavior.md).
 
-Spawning is based per-player, meaning entities already existing around players are taken into account before spawning new ones. The server will favor spawning entities near players which are not around specific entity groups and are in spaces which meet those entities' spawning requirements over other players who are already around those entity types. This enables a more singleplayer-like and balanced spawning experience and distributes the entity resource load as much as possible.\
+Entities are spawned spread amongst all players until their cap is reached. This means at peak activity times, you'll notice less entities around you as they're more spread out. Already existing entities around players are taken into account before spawning new ones. The server will favor spawning entities near players which are not around specific entity groups and are in spaces which meet those entities' spawning requirements over other players who are already around those entity types. This enables a more singleplayer-like and balanced spawning experience while keeping resource use reasonable.\
 \
 Spawn rate refers to how frequently the server checks conditions around players as well as computes which applicable player the mob should spawn near. An entity is not always successfully spawned every spawn rate, for example when the cap is reached or there are no locations near players meeting the spawn requirements.\
 \
@@ -44,21 +44,11 @@ Spawn rate: 20 seconds
 
 ## Despawning
 
-Entities are primarily despawned based on their distance from players or their lifetime, though some entities are exclusively despawned based on how many reside within a particular radius of one another.
-
 ### **Range-based despawning**
 
-**Hostiles**\
+**Hostiles & sea creatures**\
 Chance to despawn when: >28 blocks\
-Immediately despawned when: >48 blocks
-
-**Axolotls**\
-Chance to despawn when: >32 blocks\
-Immediately despawned when: >128 blocks\
-\
-**Sea creatures**\
-Chance to despawn when: >28 blocks\
-Immediately despawned when: >48 blocks
+Immediately despawned when: >48 blocks horizontally, and >128 blocks vertically&#x20;
 
 ### **Radius-based (mob cap) despawning**
 
@@ -72,13 +62,6 @@ Immediately despawned when: >48 blocks
 
 * Radius is calculated from each mobs position, meaning you'll want to have a gap of at least the radius starting from the outermost mob
 {% endhint %}
-
-**Exclusive**\
-These entities are exclusively despawned by radius-based despawning
-
-<details>
-
-<summary>Expand</summary>
 
 **Animals (pig, cow, sheep, chicken)**\
 Main cap: 22\
@@ -140,9 +123,8 @@ Cap: 120\
 Within: 15x15 blocks\
 Exclusive to creative plots & the parkour course builder
 
-</details>
+### **Additional**
 
-**Additional**\
 These entities are despawned by range-based and radius-based despawning to fine tune their spawning behavior
 
 <details>
