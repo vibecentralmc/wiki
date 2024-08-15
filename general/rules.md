@@ -94,7 +94,8 @@ _Last updated 8/15/24_
    6. We have implemented several filters in our in-game chat and Discord server to prevent content that infringes on the rules. Any attempts to bypass these filters, whether by adding extra characters or using other methods, are not permitted.
       1. Despite our best efforts to employ highly accurate and effective filters in place both in-game and on our Discord server to catch rule-breaking content, it’s important to remember that no filter is infallible, and that the ultimate responsibility lies with the individual authoring the content to ensure it aligns with our rules.
       2. Staff members have the final say on interpreting the rules applicability to content, even if content passes through filters.
-   7. Do not repeatedly ask or beg for items or other things in the server.\
+   7. Always provide accurate and truthful information when interacting with others. Lying, spreading false information, or intentionally misleading others is not permitted.
+   8. Do not repeatedly ask or beg for items or other things in the server.\
       \
 
 4. **Advertisements and Promotions**
@@ -111,11 +112,10 @@ _Last updated 8/15/24_
    3. Using nicknames to impersonate somebody else, even as a joke is not allowed.\
       \
 
-6.  #### **Accountability by Association**
-
-    1. #### All users are expected to uphold the integrity of the server by not engaging in or supporting any rule-breaking behavior, either directly or indirectly.
-    2. #### If you knowingly collaborate with someone who is violating server rules, or knowingly benefit from such actions, you may be held equally accountable for the rule violation(s).
-       1. #### This applies to but is not limited to actions such as teaming up with a player using cheats, participating in or benefiting from stolen items, concealing rule-breaking activities, and encouraging others to break rules.
+6. #### **Accountability by Association**
+   1. All users are expected to uphold the integrity of the server by not engaging in or supporting any rule-breaking behavior, either directly or indirectly.
+   2. If you knowingly collaborate with someone who is violating server rules, or knowingly benefit from such actions, you may be held equally accountable for the rule violation(s).
+      1.  This applies to but is not limited to actions such as teaming up with a player using cheats, participating in or benefiting from stolen items, concealing rule-breaking activities, and encouraging others to break rules.
 
 
 
