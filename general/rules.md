@@ -115,7 +115,7 @@ _Last updated 8/15/24_
 6. #### **Accountability by Association**
    1. All users are expected to uphold the integrity of the server by not engaging in or supporting any rule-breaking behavior, either directly or indirectly.
    2. If you knowingly collaborate with someone who is violating server rules, or knowingly benefit from such actions, you may be held equally accountable for the rule violation(s).
-      1.  This applies to but is not limited to actions such as teaming up with a player using cheats, participating in or benefiting from stolen items, concealing rule-breaking activities, and encouraging others to break rules.
+      1.  This applies to but is not limited to actions such as teaming up with a player using cheats, benefiting from stolen items/blocks/entities, concealing rule-breaking activities, etc.
 
 
 
