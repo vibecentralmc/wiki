@@ -56,7 +56,7 @@ This summary is meant to provide a swift overview of our rules. Though, we highl
 
 ## Full Rules
 
-_Last updated 8/15/24_
+_Last updated 8/16/24_
 
 ***
 
@@ -128,7 +128,7 @@ _Last updated 8/15/24_
    6. **If you are on another player’s property, you must respect their space and abide by their requests to leave or refrain from certain actions within their space.**
       1. You need permission from the property owner before you save a personal or community waypoint that is within 500 blocks.
 2. **Waypoints**
-   1. **Setting community waypoints (warps) for personal purposes is not allowed. Community waypoints are specifically for public and notable locations like town spawns, shops, certain notable biomes or world generation, etc. intended to be shared with and utilized by the community. For private land like your base or mine, personal waypoints (sethomes) should be used instead.**
+   1. **Setting community waypoints (warps) for personal purposes is not allowed. Community waypoints are specifically for public and notable locations like town spawns, shops, certain notable biomes or world generation, etc. intended to be shared with and utilized by the community. For private land like your base, personal waypoints (sethomes) should be used instead.**
    2. **Community or personal waypoints can only be set on or nearby another's private land with the landowner's explicit permission.**
       1. Any land outside of shared spaces, such as towns or the market, and without a community waypoint (warp) set by the landowner, is considered private land.
       2. Setting a community or personal waypoint at or nearby somebody's private land without permission is considered intent to steal or grief and is treated as such.
