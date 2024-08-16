@@ -1,6 +1,6 @@
 # Creative Plots
 
-The plot world is a communal build space where everybody can get dedicated plots of land to build freely in creative, solo or with friends! Equip with intuitive plot controls and unmetered [WorldEdit](../general/misc./worldedit.md), the plot world is a great place to let your creativity shine. The modes flexibility also makes it an ideal place to prototype builds and designs before making them in the survival world.
+The plot world is a communal build space where everybody can get dedicated plots of land to build freely in creative, solo or with friends! Equip with intuitive plot controls and [WorldEdit](../general/misc./worldedit.md) with a 500,000 blocks per operation limit, the plot world is a great place to let your creativity shine. The modes flexibility also makes it an ideal place to prototype builds and designs before making them in the survival world.
 
 Use **`/creative`** to travel to the plot world!
 

@@ -2,9 +2,11 @@
 
 WorldEdit is a popular building tool developed by sk89q. It allows players the ability to mass edit large quantities of blocks through commands to assist in creative building.&#x20;
 
-We offer an enhanced and more user friendly version of WorldEdit available in [creative plots](../../creative-plots/creative-plots.md) & the [parkour builder](../../parkour/parkour.md) to help you speed up your building. Advanced WE features like brushes are not available to encourage more unique, carefully composed handmade builds. With the abilities available, we hope to reduce annoying grunt work such as filling big areas with the same block, clearing out large amounts of blocks, and so forth.
+We offer a more user friendly version of WorldEdit available in [creative plots](../../creative-plots/creative-plots.md) & the [parkour builder](../../parkour/parkour.md) to help you speed up your building. Advanced WE features like brushes are not available to encourage more unique, carefully composed handmade builds. With the abilities available, we hope to reduce annoying grunt work such as filling big areas with the same block, clearing out large amounts of blocks, and so forth.
 
 Operations are primarily applied on cuboid selections. Selections are visualized with purple particles, and other players' selections are visualized with orange flame particles. You can only create one selection at a time.
+
+A single operation can change up to 500,000 blocks or 500 tiles.
 
 ### Creating a selection
 
