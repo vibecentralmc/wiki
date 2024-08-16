@@ -127,7 +127,17 @@ _Last updated 8/15/24_
    5. **Do not create claims on land you do not intend to occupy and build in/nearby.**
    6. **If you are on another player’s property, you must respect their space and abide by their requests to leave or refrain from certain actions within their space.**
       1. You need permission from the property owner before you save a personal or community waypoint that is within 500 blocks.
-2. **Community Market Standards**
+2. **Waypoints**
+   1. **Setting community waypoints (warps) for personal purposes is not allowed. Community waypoints are specifically for public and notable locations like town spawns, shops, certain notable biomes or world generation, etc. intended to be shared with and utilized by the community. For private land like your base or mine, personal waypoints (sethomes) should be used instead.**
+   2. **Community or personal waypoints can only be set on or nearby another's private land with the landowner's explicit permission.**
+      1. Any land outside of shared spaces, such as towns or the market, and without a community waypoint (warp) set by the landowner, is considered private land.
+      2. Setting a community or personal waypoint at or nearby somebody's private land without permission is considered intent to steal or grief and is treated as such.
+      3. Land within towns, markets, or other shared areas is not considered private.
+         1. In this case, personal waypoints (sethomes) can be set closeby (but not directly at/in builds) without needing direct permission. For example, setting a personal waypoint (sethome) by your favorite market shop. However, community waypoints (warps) still cannot be set anywhere on another's non-private land without permission.&#x20;
+      4. Saving or exposing the world coordinates or location of private land as a substitute for setting a waypoint is not allowed and will be treated the same as setting an unauthorized waypoint.
+      5. Entering or returning to somebody's private land at a later time (ex. after being teleported there) by any means is not allowed without their explicit permission.
+   3. **Staff reserves the right to review or remove any waypoints as they see fit to uphold these rules. This may be done without prior warning or vcn refund (if its a warp).**
+3. **Community Market Standards**
    1. **Personal structures such as bases/homes, mines, farms, and similar constructions should be positioned away from the market area. This ensures the market space can be solely utilized for trade and commerce.**
       1. Any personal structures should be at least 600 blocks from any part of the market to allow for future expansion.
       2. Living in the market is not allowed.
@@ -145,22 +155,22 @@ _Last updated 8/15/24_
    7. **Shops with inactive owners (1 or more months of inactivity) may be auctioned off to another player or demolished by staff to ensure the market shops stay lively.**
    8. **Very low effort shops may be demolished by staff without prior warning.**
    9. **We typically will contact you and request structures violating these rules to be demolished by you, but if it is not done in a timely manner or must be removed immediately, staff will handle the demolition and apply further sanctions if necessary.**
-3. **Auction House Etiquette**
+4. **Auction House Etiquette**
    1. **Auction listings should be fairly priced and reflect the item's rarity and quantity.**
    2. **Auctions should have value, common items in small quantities should not be listed.**
    3. **Items of similar type should be bundled into a single auction instead of individually to prevent spam. Bundled auctions can be created using /ah sell \<price> -b.**
-4. **Trading & Scamming**
+5. **Trading & Scamming**
    1. **Scamming or deceiving other players out of items, vibecoin, or other belongings in any way is not allowed.**
    2. **All trades should be conducted honestly, with full disclosure and agreement from all parties involved.**
-5. **PvP and Teaming**
+6. **PvP and Teaming**
    1. **PvP in the survival world is only allowed if all parties involved have given their explicit permission.**
       1. Simply having PvP toggled on is not sufficient as consent.
    2. **No teaming in the PvP arena or Party Games unless it is mutually agreed upon the whole lobby.**
-6. **Environmental Responsibility**
+7. **Environmental Responsibility**
    1. **Avoid uselessly or excessively damaging the landscape of the world, i.e. placing blocks under your feet as you travel, leaving hat-cut trees or hanging blocks, making dirt towers, etc.**
       1. If you create any temporary structures, like a one night dirt hut, placing a crafting table, or spawning a boat in the wilderness, dismantle them once you are done to keep the world clean.
       2. The resource world is fully exempt to this rule.
-7. **Idling (AFKing)**
+8. **Idling (AFKing)**
    1. **AFKing farming in moderation is okay, but should never require any form of auto clicking or auto movement.**
    2. **Cumulatively AFK farming longer than 12 hours within a 24 hour period is not allowed.**
       1. Extended AFK periods past 12 hours are only allowed if not for the purpose of farming. &#x20;
