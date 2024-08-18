@@ -32,7 +32,7 @@ This summary is meant to provide a swift overview of our rules. Though, we highl
 
 * Griefing, stealing, or otherwise modifying anyone's builds or land, even unclaimed, is not allowed unless you have explicit permission from the creator.
 * Community or personal waypoints can only be set on or nearby another's private land with the landowner's explicit permission. Setting community waypoints (warps) for personal purposes is not allowed.
-* Low to medium effort builds made by inactive owners (1 or more months of inactivity) may have their ownership transferred off to a requesting player.
+* Builds made by inactive owners may have their ownership transferred off to a requesting player.
 * Very low effort builds may be demolished by staff without prior warning.&#x20;
 * Claims in shared spaces should be made mindfully. Claims may be resized by admins to be more reasonable, or removed all-together.
 * Do not create claims on land you do not intend to occupy and build in/nearby.
@@ -122,11 +122,14 @@ _Last updated 8/18/24_
          1. Shared spaces like the market, vibetown, or other towns are not subject to this radius restriction. However, careful consideration should be given when deciding where to build in close proximity to others.
       4. Naturally generated structures such as villages, strongholds, ruined portals, desert or jungle temples, or witch huts are not protected by this rule unless another player clearly inhabits them.
       5. Failure to respect the guidelines clearly posted at shared locations, for example, community farms requesting replanting, etc., is considered a violation of the rule.
-   2. **Builds made by inactive owners may have their ownership transferred off to a requesting player.**
-      1. **The period of needed inactivity for a build to be transferred is determined by staff discretion based off the effort involved in the build and the owners rank.**
-         1. **For members, the inactivity period required for a build to become eligible for transferring is 1 month minimum, but the actual needed inactivity duration is likely to be higher for work that involved a substantial amount of effort, ex. 3 months.**
-         2. **For VIP players of any tier, all non-shop builds are protected from transfer for 2 months minimum, but as mentioned above the actual needed inactivity duration is likely to be higher for work that involved a substantial amount of effort, ex. 5 months.**
-         3. **The inactivity period needed for shops to be transferred are different than other builds. See the Community Market Standards below for details.**
+   2. **Ownership of builds created by inactive players may be transferred to another player who requests it, either with the original player's permission or after a period of prolonged inactivity.**
+      1. **If you're in our Discord we'll contact (and ping) you requesting permission to transfer your build. You can deny the transfer request and we will respect your decision. However, if we don't hear back in 3 days, we will proceed with the transfer.**
+         1. **For members, the inactivity period required for a non-shop build to become eligible for transferring is 1 month minimum.**
+         2. **For VIP players of any tier, the inactivity period for a non-shop build to become eligible for transferring is 2 months minimum.**
+         3. **For Benefactors, all builds are non-transferrable despite inactivity.**&#x20;
+         4. **Staff reserve the right to deny transfers for special cases as they see fit.**
+         5. **Once a build is transferred, ownership of the land is also transferred.**
+         6. **The inactivity period needed for shops to be transferred are different than other builds. See the Community Market Standards below for details.**
    3. **Very low effort builds may be demolished by staff without prior warning.**&#x20;
    4. **Claims in shared spaces should be made mindfully. Claims may be resized by admins to be more reasonable, or removed all-together.**
    5. **Do not create claims on land you do not intend to occupy and build in/nearby.**
