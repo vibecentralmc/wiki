@@ -126,7 +126,7 @@ _Last updated 8/18/24_
       1. **If you're in our Discord we'll contact (and ping) you requesting permission to transfer your build. You can deny the transfer request and we will respect your decision. However, if we don't hear back in 3 days, we will proceed with the transfer.**
          1. **For members, the inactivity period required for a non-shop build to become eligible for transferring is 1 month minimum.**
          2. **For VIP players of any tier, the inactivity period for a non-shop build to become eligible for transferring is 2 months minimum.**
-         3. **For Benefactors, all builds are non-transferrable despite inactivity.**&#x20;
+         3. **For Benefactors or retired staff, all builds are non-transferrable despite inactivity.**&#x20;
          4. **Staff reserve the right to deny transfers for special cases as they see fit.**
          5. **Once a build is transferred, ownership of the land is also transferred.**
          6. **The inactivity period needed for shops to be transferred are different than other builds. See the Community Market Standards below for details.**
