@@ -32,7 +32,7 @@ This summary is meant to provide a swift overview of our rules. Though, we highl
 
 * Griefing, stealing, or otherwise modifying anyone's builds or land, even unclaimed, is not allowed unless you have explicit permission from the creator.
 * Community or personal waypoints can only be set on or nearby another's private land with the landowner's explicit permission. Setting community waypoints (warps) for personal purposes is not allowed.
-* Builds made by inactive owners may have their ownership transferred off to a requesting player.
+* Builds made by inactive owners may have their ownership transferred off to a requesting player with permission from the original owner or after a prolonged period of inactivity.
 * Very low effort builds may be demolished by staff without prior warning.&#x20;
 * Claims in shared spaces should be made mindfully. Claims may be resized by admins to be more reasonable, or removed all-together.
 * Do not create claims on land you do not intend to occupy and build in/nearby.
