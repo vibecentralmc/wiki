@@ -57,7 +57,7 @@ This summary is meant to provide a swift overview of our rules. Though, we highl
 
 ## Full Rules
 
-_Last updated 8/16/24_
+_Last updated 8/18/24_
 
 ***
 
@@ -122,7 +122,11 @@ _Last updated 8/16/24_
          1. Shared spaces like the market, vibetown, or other towns are not subject to this radius restriction. However, careful consideration should be given when deciding where to build in close proximity to others.
       4. Naturally generated structures such as villages, strongholds, ruined portals, desert or jungle temples, or witch huts are not protected by this rule unless another player clearly inhabits them.
       5. Failure to respect the guidelines clearly posted at shared locations, for example, community farms requesting replanting, etc., is considered a violation of the rule.
-   2. **Low to medium effort builds made by inactive owners (1 or more months of inactivity) may have their ownership transferred off to a requesting player.**
+   2. **Builds made by inactive owners may have their ownership transferred off to a requesting player.**
+      1. **The period of needed inactivity for a build to be transferred is determined by staff discretion based off the effort involved in the build and the owners rank.**
+         1. **For members, the inactivity period required for a build to become eligible for transferring is 1 month minimum, but the actual needed inactivity duration is likely to be higher for work that involved a substantial amount of effort, ex. 3 months.**
+         2. **For VIP players of any tier, all non-shop builds are protected from transfer for 2 months minimum, but as mentioned above the actual needed inactivity duration is likely to be higher for work that involved a substantial amount of effort, ex. 5 months.**
+         3. **The inactivity period needed for shops to be transferred are different than other builds. See the Community Market Standards below for details.**
    3. **Very low effort builds may be demolished by staff without prior warning.**&#x20;
    4. **Claims in shared spaces should be made mindfully. Claims may be resized by admins to be more reasonable, or removed all-together.**
    5. **Do not create claims on land you do not intend to occupy and build in/nearby.**
@@ -135,7 +139,7 @@ _Last updated 8/16/24_
       2. Setting a community or personal waypoint at or nearby somebody's private land without permission is considered intent to steal or grief and is treated as such.
       3. Land within towns, markets, or other shared areas is not considered private.
          1. In this case, personal waypoints (sethomes) can be set closeby (but not directly at/in builds) without needing direct permission. For example, setting a personal waypoint (sethome) by your favorite market shop. However, community waypoints (warps) still cannot be set anywhere on another's non-private land without permission.&#x20;
-      4. Saving or exposing the world coordinates or location of private land as a substitute for setting a waypoint is not allowed and will be treated the same as setting an unauthorized waypoint.
+      4. Saving or exposing the world coordinates or location of private land as a by any means, (ex. a client side waypoints mod) substitute for setting a waypoint is not allowed and is treated the same as setting an unauthorized personal/community waypoint.
       5. Entering or returning to somebody's private land at a later time (ex. after being teleported there) by any means is not allowed without their explicit permission.
    3. **Staff reserves the right to review or remove any waypoints as they see fit to uphold these rules. This may be done without prior warning or vcn refund (if its a warp).**
 3. **Community Market Standards**
