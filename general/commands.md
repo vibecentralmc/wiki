@@ -23,6 +23,8 @@
 * **`/discord`** Shows the server's [Discord](discord.md) invite link
 * **`/wiki`** Shows the wiki link
 * **`/joinmsg`** Pick your own join message from the options. Extra options available to [VIPs](ranks/vip.md)
+* **`/glows`** Select your glow color. VIP exclusive perk
+* **`/tags`** Select your nametag decoration. VIP exclusive perk
 * **`/level`** **`/lvl`** See your server level and the cost to [level up](leveling.md)
 * **`/leveltop`** **`/lvltop`** See highest [leveled](leveling.md) players
 * **`/cglb`** See the [chat games](rich-chat/chat-games.md) leaderboard & your stats
