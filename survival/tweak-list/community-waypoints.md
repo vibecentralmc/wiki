@@ -16,7 +16,7 @@ Warps let players can create public waypoints to notable locations like towns, s
 
 * **`/setwarp <name>`**\
   Set a new community waypoint at your location\
-  &#xNAN;_&#x4C;imited to 8 for_ [_members_](../../general/ranks.md)_, and up to 20 for_ [_VIP_](broken-reference)_s_\
+  &#xNAN;_&#x4C;imited to 8 for_ [_members_](../../general/ranks/)_, and up to 20 for_ [_VIP_](broken-reference)_s_\
 
 * **`/delwarp <name>`**\
   Delete one of your community waypoints\

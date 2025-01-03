@@ -1,6 +1,6 @@
 # Personal waypoints
 
-Personal waypoints let you save locations and quickly teleport back to them. The amount of waypoints you can set is determined by your [rank](../../general/ranks.md), limited to 5 for members, [up to 32 for VIPs](broken-reference)\
+Personal waypoints let you save locations and quickly teleport back to them. The amount of waypoints you can set is determined by your [rank](../../general/ranks/), limited to 5 for members, [up to 32 for VIPs](broken-reference)\
 \
 Regular personal waypoints can be set in the main smp world, while resource waypoints (starting with R) can be set in the [resource world](../resource-world.md). The amount of resource waypoints that you can set matches your limit of regular sethomes. These limits are separate, so setting resource homes does not count toward your regular sethome limit, and vice versa.
 

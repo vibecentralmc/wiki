@@ -38,7 +38,7 @@ Our mission is to provide a unique ever-evolving, polished and fine-tuned space 
 
 ### No-grief guarantee
 
-If you're griefed or stolen from, you may contact [staff](general/ranks.md#helper) on our [Discord ](general/discord.md)or in-game to have the damage completely reversed. We take extra care to [protect the community](technical/protecting-the-community.md) and ensure all your work is backed up and saved in the event it is lost.
+If you're griefed or stolen from, you may contact [staff](general/ranks/#helper) on our [Discord ](general/discord.md)or in-game to have the damage completely reversed. We take extra care to [protect the community](technical/protecting-the-community.md) and ensure all your work is backed up and saved in the event it is lost.
 
 ### A survival experience like no other
 

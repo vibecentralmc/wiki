@@ -1,6 +1,6 @@
 # Join messages
 
-You can select your own join message from a set of 26 available messages using **`/joinmsg`**. Join message selection requires the [Member rank](../ranks.md#member) or above. Some join messages are exclusive to [VIP](broken-reference) players.
+You can select your own join message from a set of 26 available messages using **`/joinmsg`**. Join message selection requires the [Member rank](../ranks/#member) or above. Some join messages are exclusive to [VIP](broken-reference) players.
 
 ## Available messages
 
