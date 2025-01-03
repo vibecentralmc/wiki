@@ -34,7 +34,7 @@ To access your course menu, use the chest button on the bottom right of the main
 
 ![](<../.gitbook/assets/image (2) (1) (1) (1).png>)
 
-Here, you can create and manage your courses, as well as access unpublished courses that have been shared with you. To create a course, you will be prompted to input a name and size. By default, you can only create a course 60x60 or smaller, down to 25x25. However, [VIP](../general/ranks/vip.md) players can create larger courses, up to 200x200 depending on your tier. As a newcomer, you can create 2 courses, but this limit increases to 8 as a member and goes up to 30 depending on VIP tier.
+Here, you can create and manage your courses, as well as access unpublished courses that have been shared with you. To create a course, you will be prompted to input a name and size. By default, you can only create a course 60x60 or smaller, down to 25x25. However, [VIP](broken-reference) players can create larger courses, up to 200x200 depending on your tier. As a newcomer, you can create 2 courses, but this limit increases to 8 as a member and goes up to 30 depending on VIP tier.
 
 ### The course builder
 

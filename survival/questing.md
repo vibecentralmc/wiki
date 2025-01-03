@@ -16,11 +16,7 @@ Each quest can be completely once every 7 days.
 **`/quest`**\
 **`/quests`**
 
-<div align="left">
-
-<img src="../.gitbook/assets/quest.png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/quest.png" alt=""></div>
 
 ## Ⓠ Quest points
 
@@ -810,7 +806,7 @@ Collect olivifrog's favorite flowers!\
 
 **Objectives**\
 \- Spider 25 spiders\
-_This was initially a typo in the quest description, but we decided to keep it_
+&#xNAN;_&#x54;his was initially a typo in the quest description, but we decided to keep it_
 
 ## Skeleton Hunter
 

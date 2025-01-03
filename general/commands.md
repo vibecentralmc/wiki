@@ -22,7 +22,7 @@
 * **`/seen <name>`** Shows how long its been since someone was online. Or, if they're actively online, how long they've been playing this session
 * **`/discord`** Shows the server's [Discord](discord.md) invite link
 * **`/wiki`** Shows the wiki link
-* **`/joinmsg`** Pick your own join message from the options. Extra options available to [VIPs](ranks/vip.md)
+* **`/joinmsg`** Pick your own join message from the options. Extra options available to [VIPs](broken-reference)
 * **`/level`** **`/lvl`** See your server level and the cost to [level up](leveling.md)
 * **`/leveltop`** **`/lvltop`** See highest [leveled](leveling.md) players
 * **`/cglb`** See the [chat games](rich-chat/chat-games.md) leaderboard & your stats
@@ -71,7 +71,7 @@
   ](../survival/tweak-list/community-waypoints.md)
 * **`/back`** Teleport to your previous location or death spot
 * **`/rtp`**[ Randomly teleport ](../survival/random-teleporting-rtp.md)in your current world
-* **`/sethome <name>`** **`/rsethome <name>`** Set a [personal waypoint](ranks/vip.md)[, or resource waypoint](../survival/tweak-list/personal-waypoints.md). _Limited to 5 for members,_ [_up to 32 for VIPs_](ranks/vip.md)
+* **`/sethome <name>`** **`/rsethome <name>`** Set a [personal waypoint](broken-reference)[, or resource waypoint](../survival/tweak-list/personal-waypoints.md). _Limited to 5 for members,_ [_up to 32 for VIPs_](broken-reference)
 * **`/home <name>`** **`/rhome <name>`** Teleport back to a [personal waypoint](../survival/tweak-list/personal-waypoints.md) [or resource waypoint](../survival/tweak-list/personal-waypoints.md)
 * **`/delhome <name>`** **`/rdelhome <name>`** Delete a [personal waypoint](../survival/tweak-list/personal-waypoints.md) [or resource waypoint](../survival/tweak-list/personal-waypoints.md)
 * **`/homes`** **`/rhomes`** See a list of your[ personal waypoints](../survival/tweak-list/personal-waypoints.md) [or resource waypoints](../survival/tweak-list/personal-waypoints.md)
@@ -94,9 +94,9 @@
 * **`/sales`** View your recent [chest shop (market)](../survival/market.md) sale history
 * **`/ah`** Open the [auction house](../survival/auction-house.md) menu
 
-### [VIP](ranks/vip.md) exclusive
+### [VIP](broken-reference) exclusive
 
-These commands require certain [VIP tiersr](ranks/vip.md) to use
+These commands require certain [VIP tiersr](broken-reference) to use
 
 * **`/fly`** Toggle infinite utility fly in survival (same as xp fly, minus the xp cost)
 * **`/enderchest`** **`/ec`** Instantly open your Enderchest

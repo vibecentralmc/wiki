@@ -5,8 +5,7 @@
 ## General
 
 * [Community guidelines](general/rules.md)
-* [Ranks](general/ranks/README.md)
-  * [VIP](general/ranks/vip.md)
+* [Ranks](general/ranks.md)
 * [Commands](general/commands.md)
 * [Leveling](general/leveling.md)
 * [Profile](general/profile.md)

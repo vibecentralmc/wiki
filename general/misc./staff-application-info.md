@@ -6,14 +6,14 @@ Moderators do all the same things as regular server members, but have additional
 
 If you're nearly meeting a requirement but not fully, we are likely to waive the full requirement for you. Requirements that can be waived if close to meeting are denoted with a \*
 
-* 16 or older**\***
-* Been actively part of the community for 3 or more months**\***
+* 16 or olde&#x72;**\***
+* Been actively part of the community for 3 or more month&#x73;**\***
 * 50 or more hours of play time on the server (AFK time does not count)**\***
 * Regularly active on the server and the Discord
 * Highly knowledgeable about the server, its features, rules, etc.
 * Generally well known by the community with good standing
 * Have no punishments, rule violations, or other infractions on your server record
-* Server level 50 or higher**\***
+* Server level 50 or highe&#x72;**\***
 
 ## Core responsibilities
 

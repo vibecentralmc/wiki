@@ -22,5 +22,5 @@ _From left to right_
 * [Community tasks menu](community-tasks.md)
 * [Mobdex menu](mob-rarities-and-mobdex.md)
 * [Smileys library](../general/rich-chat/smileys.md)
-* [VIP](../general/ranks/vip.md) upgrade menu
+* [VIP](broken-reference) upgrade menu
 * [Vote](../general/misc./voting.md)

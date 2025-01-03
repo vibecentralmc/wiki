@@ -13,7 +13,7 @@ Your server profile can be opened via **`/profile`**. It shows various statistic
 * View your [vibecoin](../survival/economy.md) balance
 * [Block/entity visualizer](../survival/tweak-list/block-and-entity-visualizers.md), [extra game sound](../survival/tweak-list/extra-game-sounds.md), and [biome title](../survival/tweak-list/biome-titles.md) preferences
 * View your [server level](leveling.md)
-* Your [VIP](ranks/vip.md) status
+* Your [VIP](broken-reference) status
 * A help button to report issues to the staff team
 
 <figure><img src="../.gitbook/assets/profile.png" alt=""><figcaption></figcaption></figure>

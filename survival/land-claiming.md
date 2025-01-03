@@ -9,7 +9,7 @@ Every hour of play time, your claimable block limit will increase by **350** blo
 {% hint style="success" %}
 ### No-grief guarantee
 
-Per the [rules](../general/rules.md), griefing & stealing is not allowed even on unclaimed land! If you're griefed or stolen from under any circumstance you may contact [staff](../general/ranks/#helper) on our [Discord ](../general/discord.md)or in-game to have the damage rolled back.
+Per the [rules](../general/rules.md), griefing & stealing is not allowed even on unclaimed land! If you're griefed or stolen from under any circumstance you may contact [staff](../general/ranks.md#helper) on our [Discord ](../general/discord.md)or in-game to have the damage rolled back.
 {% endhint %}
 
 ## Granting / revoking permissions
@@ -36,48 +36,34 @@ Permission management is done through the trust gui, opened after running the tr
 
 * **`/kit claim`**\
   Get a new claim shovel and claim checker \
-  _Cooldown: 30 minutes_\
+  &#xNAN;_&#x43;ooldown: 30 minutes_\
 
 
-<!---->
-
-* **`/abandonclaim`**\
+- **`/abandonclaim`**\
   Remove the claim you're currently standing in\
 
-
-<!---->
 
 * **`/trust <name>`**\
   Opens the trust menu to give someone access to your claim(s). Applies to the claim you're standing in, or if in no claim all your claims. Use "all" for the name if you wish to apply the permission to all members.\
 
 
-<!---->
-
-* **`/untrust <name>`**\
+- **`/untrust <name>`**\
   Remove someone's access to your claim(s). Applies to the claim you're standing in, or if in no claim all your claims\
 
-
-<!---->
 
 * **`/trustlist`**\
   Shows a list of the people you've granted claim permissions to\
 
 
-<!---->
-
-* **`/claimlist`**\
+- **`/claimlist`**\
   Shows a list of your claims and their locations\
 
-
-<!---->
 
 * **`/claimexplosions`**\
   Enables or disables explosions in the claim you're standing in\
 
 
-<!---->
-
-* **`/trapped`**\
+- **`/trapped`**\
   Teleport out of the land claim you're currently in if you're stuck
 
 </details>

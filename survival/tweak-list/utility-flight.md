@@ -1,6 +1,6 @@
 # Utility flight
 
-We provide xp-powered (or, free with [VIP 3+](../../general/ranks/vip.md)) flight at a reduced speed to aid you in building and maneuvering around areas. A single level of experience lasts roughly 30 seconds, putting 10 levels of xp at 5 minutes of flight.
+We provide xp-powered (or, free with [VIP 3+](broken-reference)) flight at a reduced speed to aid you in building and maneuvering around areas. A single level of experience lasts roughly 30 seconds, putting 10 levels of xp at 5 minutes of flight.
 
 Upon joining, if you're mid air (logged off flying) xp flight or free fly will be enabled automatically. If you have free fly, it will be automatically enabled when you join regardless if you're mid air (except if you have an elytra equipped) and when you move back into the flight height.
 
