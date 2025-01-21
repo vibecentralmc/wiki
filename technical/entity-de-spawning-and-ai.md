@@ -99,7 +99,7 @@ Cap: 8\
 Within: 15x15 blocks\
 \
 **Armor Stands**\
-Cap: 20\
+Cap: 35\
 Within: 6x6 blocks\
 \
 **Paintings**\
