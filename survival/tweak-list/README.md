@@ -49,6 +49,7 @@
 * Monthly end resets
 * The Enderdragon will always drop an egg when killed
 * [One player sleep](one-player-sleep.md)
+* No Phantom spawning (membrane can be acquired by upgrading fishing skill)
 * [Reserved nights](reserved-nights.md)
 * Left click on ageable mobs with a milk bucket to turn them into a baby
 * [Armor stand editor](armor-stand-editor.md)
