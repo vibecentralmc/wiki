@@ -70,6 +70,7 @@ _Last updated 8/18/24_
       3. Discriminatory language, offensive symbols, or promotion of intolerance is strictly forbidden. We strongly stand against behavior that marginalizes, stigmatizes, or disrespects individuals or groups.
       4. Respect others' requests to cease certain actions or shift the discussion topic.
          1. This rule is intended to promote respectful communication, not to enable unreasonable demands or requests that could negatively impact people and their gameplay, or go against fair play.
+      5. Sending messages intended to provoke or upset others, or messages that intentionally instigate disagreements solely to bother someone is not allowed.
    2. **If someone indicates they are uncomfortable with a certain conversation or situation, it’s every participating person's job to adjust their behavior and language in a respectful manner.**
       1. This rule is intended to promote respectful and considerate communication and to accommodate genuine concerns, not to allow misuse or to enable disruption of community dialogue. It should not be used as a means to cease discussion arbitrarily.
    3. **Maintain a respectful and fair attitude when participating in competitive server activities, like party games or PvP.**
@@ -103,12 +104,12 @@ _Last updated 8/18/24_
    1. **Nicknames should reflect your commonly used name and should not be changed frequently.**
    2. **Nicknames with profanities, strong language or references to disallowed content are not allowed.**
    3. **Using nicknames to impersonate somebody else, even as a joke is not allowed.**
-6. #### Accountability by Association
+   4. **To ensure nicknames are not confusing with server ranks, nicknames should not include prefixes, suffixes, or other custom titles.**
+      1. If your nickname itself may be commonly confused with a server rank, we may require you change or remove it. Staff reserve the right to limit and adjust nicknames as deemed necessary.
+6. **Accountability By Association**
    1. **All users are expected to uphold the integrity of the server by not engaging in or supporting any rule-breaking behavior, either directly or indirectly.**
    2. **If you knowingly collaborate with someone who is violating server rules, or knowingly benefit from such actions, you may be held equally accountable for the rule violation(s).**
-      1.  This applies to but is not limited to actions such as teaming up with a player using cheats, benefiting from stolen items/blocks/entities, concealing rule-breaking activities, etc.
-
-
+      1. This applies to but is not limited to actions such as teaming up with a player using cheats, benefiting from stolen items/blocks/entities, concealing rule-breaking activities, etc.
 
 ***
 
@@ -190,7 +191,7 @@ _Last updated 8/18/24_
 
 ### **Section 3 | Server Etiquette & Fair Play**
 
-1. **Do not impair the server performance or other player’s games**
+1. **Do not intentionally impair the server performance or other player’s games.**
    1. **The construction of any kind of redstone lag machines or other contraptions that are intended to impair the server or players is prohibited.**
    2. **Intentionally impacting server performance through actions intended to overload the server is strictly disallowed.**
    3. **Impacting other nearby players' games through actions that heavily impact their FPS or their server connectivity is strictly disallowed.**
