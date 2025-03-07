@@ -33,6 +33,7 @@
 * [Invisible item frames](invisible-item-frames.md)
 * [Rideable enderpearls](rideable-enderpearls.md)
 * [Rideable frogs](rideable-frogs.md)
+* Player stacking: right click with an empty hand to stack on another player
 * [Colorcodes on anvils & signs](color-on-item-names-and-signs.md)
 * [Right click beehives or nests to see inside](beehive-gui.md)
 * [Realistic flying block explosions](realistic-explosions.md)
