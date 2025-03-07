@@ -6,90 +6,46 @@ Interactable blocks and entities have special visualizers that add an extra leve
 
 ### Damage indicators & health bars
 
-<div align="left">
+<div align="left"><img src="../../.gitbook/assets/damage0.gif" alt=""></div>
 
-<img src="../../.gitbook/assets/damage0.gif" alt="">
-
-</div>
-
-<div align="left">
-
-<img src="../../.gitbook/assets/damage1.gif" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/damage1.gif" alt=""></div>
 
 ### Items
 
-<div align="left">
+Items emit a small glow for visibility 1.5 seconds after dropping. Valuable items will display a white alert particle 10 seconds prior to despawning.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="554"><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Stacked items appear with a 3 lined stack icon. Tools appear in italic</p></figcaption></figure></div>
 
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Valuable items will show a white alert particle 10 seconds prior to despawning</p></figcaption></figure></div>
 
 ### Crafting tables
 
-<div align="left">
-
-<img src="../../.gitbook/assets/Screenshot 2022-08-12 005418.png" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/Screenshot 2022-08-12 005418.png" alt=""></div>
 
 ### Chests
 
-<div align="left">
-
-<img src="../../.gitbook/assets/chest.png" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/chest.png" alt=""></div>
 
 ### Furnaces & smokers
 
-<div align="left">
-
-<img src="../../.gitbook/assets/furnace.png" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/furnace.png" alt=""></div>
 
 ### Enchantment tables
 
-<div align="left">
-
-<img src="../../.gitbook/assets/table (1).png" alt="">
-
- 
-
-<img src="../../.gitbook/assets/table2.png" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/table (1).png" alt=""> <img src="../../.gitbook/assets/table2.png" alt=""></div>
 
 ### Jukeboxes
 
-<div align="left">
-
-<img src="../../.gitbook/assets/Screenshot 2022-08-12 010907.png" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/Screenshot 2022-08-12 010907.png" alt=""></div>
 
 ### Anvils
 
-<div align="left">
-
-<img src="../../.gitbook/assets/Screenshot 2022-08-12 011324.png" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/Screenshot 2022-08-12 011324.png" alt=""></div>
 
 ### Lecterns
 
-<div align="left">
-
-<img src="../../.gitbook/assets/Screenshot 2022-08-12 011521.png" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/Screenshot 2022-08-12 011521.png" alt=""></div>
 
 ### Spawners
 
-<div align="left">
-
-<img src="../../.gitbook/assets/spawner.png" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/spawner.png" alt=""></div>

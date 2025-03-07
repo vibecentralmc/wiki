@@ -4,7 +4,7 @@ The plot world is a communal build space where everybody can get dedicated plots
 
 Use **`/creative`** to travel to the plot world!
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Plotworld as of Jan 2023</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Plotworld as of Jan 2023</p></figcaption></figure>
 
 ### Plot manage menu
 
@@ -34,11 +34,7 @@ WorldEdit is offered in the plot world. For in-depth information and commands, s
 
 Using the F key while holding an item will show blocks of similar type for you to easily grab them.
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/belt1.png" alt=""><figcaption><p>A belt produced by pressing F while holding oak planks</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/belt1.png" alt=""><figcaption><p>A belt produced by pressing F while holding oak planks</p></figcaption></figure></div>
 
 ### Commands
 
