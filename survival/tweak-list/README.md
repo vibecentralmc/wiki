@@ -15,7 +15,7 @@
 * No attack cooldown (1.8 pvp + sweeping)
 * Loot chests in structures regenerate 12 hours after looted for other players (1 chest per player)
 * [Extra game sounds](extra-game-sounds.md)
-* [Friendly Creepers](friendly-creepers.md)
+* [Friendly Creepers](friendly-creepers.md), except Charged Creepers
 * Fire spread is off
 * No creeper/enderman block damage in the overworld or in claims (unless [turned on](../land-claiming.md))
 * Pets have an increased breeding delay of 30 minutes
