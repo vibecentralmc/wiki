@@ -6,33 +6,11 @@ Vibe's main attraction: our vast, no-grief SMP world, generated on 1.20.6 featur
 
 You can return to spawn any time using the **`/spawn`** command.
 
-<div>
+<figure><img src="../../.gitbook/assets/2025-03-07_01.24.15.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/2024-06-01_02.57.09.png" alt=""><figcaption></figcaption></figure>
+<div><figure><img src="../../.gitbook/assets/2024-06-01_02.57.09.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/2024-06-02_14.27.47.png" alt=""><figcaption></figcaption></figure></div>
 
- 
-
-<figure><img src="../../.gitbook/assets/2024-06-02_14.27.47.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-<div>
-
-<figure><img src="../../.gitbook/assets/2024-06-02_13.45.42.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/2024-06-01_02.58.14.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/2024-06-01_02.57.37.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/2024-06-02_13.43.19.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/2024-06-02_13.45.42.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/2024-06-01_02.58.14.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/2024-06-01_02.57.37.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/2024-06-02_13.43.19.png" alt=""><figcaption></figcaption></figure></div>
 
 ### Tweaks
 
@@ -52,23 +30,7 @@ Using all vanilla blocks, the project takes advantage of the games ability to se
 
 In addition, [Geophillic](https://www.curseforge.com/minecraft/mc-mods/geophilic) enhances the Vanilla biomes with subtle yet impactful improvements. It adjusts the rarity and density of certain biome features like grass, ferns, and flowers, while adding elements like rocks, fallen trees, moss, tree stumps, a few new tree types, and bushes. These enhancements maintain the essence of Vanilla biomes while subtly updating them with a new depth of natural detail.
 
-<div>
-
-<figure><img src="../../.gitbook/assets/2023-05-15_23.57.29.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/2023-05-17_22.48.12.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/2023-05-24_22.58.53.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/2023-05-15_23.52.04.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/2023-05-15_23.57.29.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/2023-05-17_22.48.12.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/2023-05-24_22.58.53.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/2023-05-15_23.52.04.png" alt=""><figcaption></figcaption></figure></div>
 
 ### World size
 
