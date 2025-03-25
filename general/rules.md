@@ -51,13 +51,14 @@ This summary is meant to provide a swift overview of our rules. Though, we highl
 * Only optimization, cosmetic, and utility game modifications that do not give you an advantage to others on Vanilla are allowed (see full rules below for specific approved mods).
 * Report bugs, glitches, or potential exploits to the staff.
 * Circumventing punishments or restrictions is prohibited.
+* Playing or joining on alt accounts is not allowed without explicit staff permission.
 * Always provide accurate and honest information when reporting to staff.
 * If you observe any potential rule violations, report them to staff.\
 
 
 ## Full Rules
 
-_Last updated 8/18/24_
+_Last updated 3/25/25_
 
 ***
 
@@ -184,7 +185,7 @@ _Last updated 8/18/24_
    1. **AFKing farming in moderation is okay, but should never require any form of auto clicking or auto movement.**
    2. **Cumulatively AFK farming longer than 12 hours within a 24 hour period is not allowed.**
       1. Extended AFK periods past 12 hours are only allowed if not for the purpose of farming. &#x20;
-   3. **Note that the server restarts daily at 4:50 AM EST.**\
+   3. **Note that the server restarts daily at 4:50 AM EST, but you will be auto-reconnected once the restart finishes.**\
 
 
 ***
@@ -212,11 +213,17 @@ _Last updated 8/18/24_
    4. World maps and minimaps (cave finders are not permitted).
    5. Litematica for building assistance by previewing schematics (auto-building functions are not permitted).
    6. If you are unsure whether a specific game modification is allowed, please ask a staff member.
-5. **Attempting to circumvent any restrictions or punishments placed on you is prohibited**
+5. **Attempting to circumvent any restrictions or punishments placed on you is prohibited.**
    1. **This includes but is not limited to:**
-      1. Joining on an alternate account after being banned or jailed.
+      1. Joining on an alternate account after being restricted or punished, with intent to use restricted features on it.
       2. Using signs, books, or other methods to speak while muted.
-6. **Reports to staff**
+6. **Playing or joining on multiple Minecraft accounts dis not allowed without explicit staff permission.**
+   1. Multiple accounts that join under the same address are subject to investigation by staff to ensure fair use.
+   2. There are limited allowed uses for alt accounts. If you do not have staffs explicit permission to join and use an alt account for your specific purpose, it may be assumed you are using it for malicious purposes and punishments or restrictions will be applied to all associated accounts.
+      1. Using alts in any way to unfairly benefit yourself, such as storing money or combining rewards is disallowed.
+   3. Multiple accounts under the same address (i.e. playing with your sibling or friend at home on the same WiFi) are allowed and do not require staff permission.
+      1. We may ask for more details if more than a few individual accounts join from your address. Staff reserve the right to limit or disallow multiple accounts connecting from the same address under their discretion.
+7. **Reports to staff**
    1. **Provide accurate and honest information: all reports to staff are expected to be legitimate. Fabricating or exaggerating report details is not allowed.**
    2. **While staff do their best to monitor the community, we can’t catch everything and rely on the community to help us maintain a safe and enjoyable space on vibe. If you observe any actions or behaviors that you think might violate the server rules, appear questionable, or are inappropriate, please report them to the staff immediately.**
       1. The preferable method for contacting staff is through our Discord ticket system. Join our /discord and link, then go to the #contact-staff channel to create a private channel with you and the staff team.
