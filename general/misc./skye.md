@@ -18,14 +18,10 @@ For longer responses, Skye will break the content down into multiple messages, e
 
 For very large responses, Skye will send one message and tunicate it with a \[..hover to see full message..] hoverable that shows the full response. This is to prevent Skye flooding chat with a bunch of messages in big replies.\
 \
-To prevent abuse, most nodes have per-player and or global cooldowns, and Skye will reject answering another question while actively replying to a different question.
+To prevent abuse, most nodes have per-player and or global cooldowns, and Skye will reject answering another question while actively replying to a different question. Skye has numerous checks and limits in place to prevent misuse or reverse engineering.
 
-As of 5/20/24, Skye received a major v5 update that leverages a fine tuned large language model for general dialogue in addition to the Q\&A library (previously referred to as the conversational library), now refined specifically for server knowledge and Q\&A instead of also including some conversational inputs and outputs. This hybrid approach keeps costs manageable and significantly enhances Skye's conversational abilities. Now, when chatting with Skye, if your input doesn't match any Q\&A conversational nodes, Skye queries the LLM to generate a response. Our long term goal for Skye is to fully integrate AI to answer both server questions and general conversation. However, currently the costs associated with a fully AI fledged Skye are too high.
+As of 5/24, Skye received a major v5 update that leverages a fine tuned large language model for general dialogue in addition to the Q\&A library (previously referred to as the conversational library), now refined specifically for server knowledge and Q\&A instead of also including some conversational inputs and outputs. This hybrid approach keeps costs manageable and significantly enhances Skye's conversational abilities. Now, when chatting with Skye, if your input doesn't match any Q\&A conversational nodes, Skye queries the LLM to generate a response. Our long term goal for Skye is to fully integrate AI to answer both server questions and general conversation. However, currently the costs associated with a fully AI fledged Skye are too high.
 
-When chatting, Skye v5 stores up to 10 recent messages with you for LLM context. This allows Skye to take into account recent previous messages before writing new messages, making them more tailored. After 5 minutes of conversation inactivity, Skye's per user context is reset. Some additional metadata is sent&#x20;
+As of 3/25, Skye was updated to v5.8, which introduced new experimental features like periodic chat participation and retainment of a small rolling context window including public chat messages, level up, deaths, etc. to provide more contextual responses and engage across LLM sessions from users.
 
-Skye has numerous checks and limits in place to prevent misuse or reverse engineering.
-
-## Usage disclaimer
-
-By chatting with Skye on the server, you are agreeing to have some of your data processed (but not stored) by a 3rd party. The only time your chat messages leave the server is when you are directly engaged with Skye and ask something that isn't in Skyes server Q\&A library (which is local). The message you sent to Skye, along with some metadata about your player on vibe is sent to the LLM to generate a response. However, like all chat on vibe, all exchanges with Skye are saved on the server and may be reviewed by me for improving generations or for moderation purposes.
+You can choose to permanently opt-out of Skye usage & AI processing using the **/skyoptout** command.
