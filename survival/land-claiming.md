@@ -12,6 +12,13 @@ Every hour of play time, your claimable block limit will increase by **350** blo
 Per the [rules](../general/rules.md), griefing & stealing is not allowed even on unclaimed land! If you're griefed or stolen from under any circumstance you may contact [staff](../general/ranks/#helper) on our [Discord ](../general/discord.md)or in-game to have the damage rolled back.
 {% endhint %}
 
+## Checking claim bounds
+
+* Right click while holding a stick to highlight claims where you're looking
+* Shift + right click to highlight all nearby claims
+
+_The highlighted claim(s) will appear with gold blocks and glowstone on the corners_
+
 ## Granting / revoking permissions
 
 * **`/trust <name>`**\
