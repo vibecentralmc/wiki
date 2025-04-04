@@ -40,7 +40,7 @@
 * [Adjusted mob healths](mob-health-adjustments.md)
 * No crop trampling
 * [Pet ownership transferring](pet-ownership-transferring.md)
-* Horse max speed chance and jump height chance has been increased
+* Horses can spawn with slightly higher variable max speed and jump height. Skeleton horses always spawn with a faster max speed than regular horses, up to x3 the Vanilla max.
 * [Better compasses](better-compasses.md)
 * [Slabs, stairs, carpets, lily pads & dripleaves can be sat on by right clicking with an empty hand](sitting-laying-and-crawling.md)
 * [Sit, lay or crawl anywhere using /sit, /lay & /layflat](sitting-laying-and-crawling.md)
