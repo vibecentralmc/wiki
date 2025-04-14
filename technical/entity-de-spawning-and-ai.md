@@ -256,7 +256,7 @@ Misc. entities: 8 blocks
 ### DAB
 
 Begins ticking less frequently on a gradient when: >8 blocks away\
-Slowest tick frequency: every 30 ticks when at a distance of 20 or more blocks away\
+Slowest tick frequency: every 60 ticks when at a distance of 20 or more blocks away\
 \
 Ghast, Slime, and Endermen are exempt from DAB.\
 
