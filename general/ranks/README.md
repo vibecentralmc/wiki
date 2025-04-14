@@ -20,8 +20,8 @@ Automatically granted to players who have played 8 or more hours (AFK time is ex
 
 **Unlocks perks:**
 
-* [Custom nickname (display name)](../misc./nicknames.md)
-* [Join message selection](../misc./join-messages.md)
+* [Custom nickname (display name)](../profile-and-customization/nicknames.md)
+* [Join message selection](../profile-and-customization/join-messages.md)
 * [Community tasks](../../survival/community-tasks.md)
 * [Reservable nights](../../survival/tweak-list/reserved-nights.md)
 * [Parkour course](broken-reference) limit **2 > 8**
@@ -47,7 +47,7 @@ Vibe features six VIP tier ranks with an increasing amount of non pay to win exc
 * [Community waypoint](../../survival/tweak-list/community-waypoints.md) limit **8 > 10**
 * [Parkour course](broken-reference) limit **8 > 12**
 * [Parkour course](broken-reference) size limit **60x60 > 75x75**
-* Access to all [join messages](../misc./join-messages.md)
+* Access to all [join messages](../profile-and-customization/join-messages.md)
 * Extra[ community tasks](../../survival/community-tasks.md) slot for 2 concurrent listings
 * Access to VIP [Discord](../discord.md) channels
 * Sparking diamond next to your name in our [Discord](../discord.md)

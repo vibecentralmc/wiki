@@ -12,7 +12,7 @@ The tablist can be opened by holding the TAB key. It shows all connected users a
 * The gray abbreviation on the far left shows the players current location: S for Survival, C for creative plots, PG for party games, PvP for the pvp arena, H for hub, etc.
 * The number following the location abbreviation is the players [server level](../leveling.md).
 * The abbreviation in \[ ] brackets is the players [rank](../ranks/).
-* Following rank is the players chosen [nickname ](nicknames.md)/ display name.
+* Following rank is the players chosen [nickname ](../profile-and-customization/nicknames.md)/ display name.
 * Blue "zZz" text appears after display names if that player is AFK.
 * The gray text on the right is the players Minecraft username.
 * The yellow text furthest to the right shows the players ping to the server; the time in milliseconds it takes for the server to send data to that player and vice versa.

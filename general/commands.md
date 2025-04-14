@@ -11,12 +11,12 @@
 
 ## General commands
 
-* **`/profile`** Your [server profile](profile-and-customization.md); see your stats, and manage your settings across the board
+* **`/profile`** Your [server profile](profile-and-customization/); see your stats, and manage your settings across the board
 * **`/spawn`** Teleport back to the spawn of your current dimension
 * **`/msg <name> <message>`** Privately message somebody who is online
 * **`/r <message>`** Quickly reply to your last pm conversation
 * **`/mail send <name> <message>`** Private message somebody who is offline
-* **`/nickname`** Update your [display name](misc./nicknames.md) on the server
+* **`/nickname`** Update your [display name](profile-and-customization/nicknames.md) on the server
 * **`/realname <nickname>`** See the username behind a nickname. Also quickly viewable in the [tablist](misc./tablist.md)
 * **`/afk [optional reason]`** Announce to the server that you've gone AFK
 * **`/seen <name>`** Shows how long its been since someone was online. Or, if they're actively online, how long they've been playing this session
@@ -107,7 +107,7 @@ These commands require certain [VIP tiersr](broken-reference) to use
 * **`/trash`** Open a virtual trash bin
 * **`/firework`** Create an instant firework show around you
 * **`/glows`** **`/glow`** Opens the glow selector menu
-* **`/pp`** Open the [particle pack](misc./vibe-particle-pack.md) menu
+* **`/pp`** Open the [particle pack](profile-and-customization/vibe-particle-pack.md) menu
 * **`/glows`** Select your glow color
 * **`/tags`** Select your nametag decoration
 

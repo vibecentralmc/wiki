@@ -1,6 +1,6 @@
 # Block & entity visualizers
 
-Interactable blocks and entities have special visualizers that add an extra level of emersion. If you wish, you can turn most of these visualizers off using the[ profile menu](../../general/profile-and-customization.md).
+Interactable blocks and entities have special visualizers that add an extra level of emersion. If you wish, you can turn most of these visualizers off using the[ profile menu](../../general/profile-and-customization/).
 
 ## Visualizers
 
