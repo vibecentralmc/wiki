@@ -1,4 +1,8 @@
-# Profile
+# Profile and customization
+
+{% hint style="warning" %}
+Some of the information and content on this page is outdated. Updates are pending!
+{% endhint %}
 
 Your server profile can be opened via **`/profile`**. It shows various statistics and options including in a centralized place for easy management.
 

@@ -8,7 +8,7 @@
 * [Ranks](general/ranks/README.md)
 * [Commands](general/commands.md)
 * [Leveling](general/leveling.md)
-* [Profile](general/profile.md)
+* [Profile and customization](general/profile-and-customization.md)
 * [Pronoun display](general/pronoun-display.md)
 * [Rich chat](general/rich-chat/README.md)
   * [Chat games](general/rich-chat/chat-games.md)

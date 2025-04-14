@@ -1,5 +1,11 @@
 # Ranks
 
+
+
+{% hint style="warning" %}
+Some of the information and content on this page is outdated. Updates are pending!
+{% endhint %}
+
 ## Newcomer
 
 The initial server rank with no special privileges

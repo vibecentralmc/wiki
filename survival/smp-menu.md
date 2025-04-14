@@ -8,7 +8,7 @@ _From left to right_
 
 * [Server rules / community guidelines](../general/rules.md)
 * Server wiki (you're here!)
-* [Your profile](../general/profile.md)
+* [Your profile](../general/profile-and-customization.md)
 * [Resource world teleport](resource-world.md)
 * [Hub teleport](../general/misc./hub.md)
 * Command library, shows most [commands](../general/commands.md) in-game

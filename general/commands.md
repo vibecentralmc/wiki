@@ -11,7 +11,7 @@
 
 ## General commands
 
-* **`/profile`** Your [server profile](profile.md); see your stats, and manage your settings across the board
+* **`/profile`** Your [server profile](profile-and-customization.md); see your stats, and manage your settings across the board
 * **`/spawn`** Teleport back to the spawn of your current dimension
 * **`/msg <name> <message>`** Privately message somebody who is online
 * **`/r <message>`** Quickly reply to your last pm conversation

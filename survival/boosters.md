@@ -14,7 +14,7 @@ Boosters can be viewed and purchased through the Booster menu using the `/boost`
 
 {% hint style="success" %}
 **TIP**\
-You can get up to **2 free boost points** every day by [**voting**](../general/misc./voting.md) for the server!
+You can get up to **1 free boost point** every day by [**voting**](../general/misc./voting.md) for the server!
 {% endhint %}
 
 ## Boosters
