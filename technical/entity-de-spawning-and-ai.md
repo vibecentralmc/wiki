@@ -19,7 +19,7 @@ Entities are spawned spread amongst all players until their cap is reached. This
 \
 Spawn rate refers to how frequently the server checks conditions around players as well as computes which applicable player the mob should spawn near. An entity is not always successfully spawned every spawn rate, for example when the cap is reached or there are no locations near players meeting the spawn requirements.\
 \
-Consistent with Vanilla behavior, mobs will not spawn within a 24 block radius of players. With the other settings, this means auto farms cannot exceed a radius of 32 blocks for spawning. This also makes the ideal AFK position is just under 48 blocks away.\
+Consistent with Vanilla behavior, mobs will not spawn within a 24 block radius of players. With the other settings, this means auto farms cannot exceed a radius of 32 blocks for spawning. This makes the ideal AFK position just under 48 blocks away from the spawning zone (either above or below) vertically.\
 
 
 **Hostiles**\
