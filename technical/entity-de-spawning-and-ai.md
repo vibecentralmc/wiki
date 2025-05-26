@@ -7,9 +7,9 @@ As entities are one of the biggest server lag sources for multiplayer, the spawn
 Entities are only viewable to players while they're within a specific range of them. This is called their tracking range. Tracking range is entirely clientside, and helps reduce latency and improve FPS by only rendering entities that are closeby.\
 \
 Players: 145 blocks\
-Hostiles: 55 blocks\
-Animals: 48 blocks\
-Misc: 32 blocks
+Hostiles: 85 blocks\
+Animals: 85 blocks\
+Misc: 42 blocks
 
 ## Spawning
 
@@ -23,22 +23,18 @@ Consistent with Vanilla behavior, mobs will not spawn within a 24 block radius o
 
 
 **Hostiles**\
-Cap: 52\
 Observed entities (avg): 300-800\
 Spawn rate: 0.5 seconds
 
 **Animals**\
-Cap: 12\
 Observed entities (avg): 50-200\
 Spawn rate: 20 seconds
 
 **Axolotls**\
-Cap: 5\
 Observed entities (avg): 10-40\
 Spawn rate: 20 seconds\
 \
 **Sea creatures**\
-Cap: 8\
 Observed entities (avg): 20-90\
 Spawn rate: 20 seconds
 
@@ -247,7 +243,7 @@ In mob farms congested with entities, additional one-off algorithms selectively 
 ### EAR ranges
 
 Hostiles: 24 blocks\
-Animals: 16 blocks\
+Animals: 14 blocks\
 Villagers: 14 blocks\
 Raiders: 48 blocks\
 Water creatures: 32 blocks\
