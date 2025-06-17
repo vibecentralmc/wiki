@@ -2,8 +2,8 @@
 description: >-
   Welcome to vibe central's official wiki! Use the left navigation bar or search
   bar on the right to learn about the server
-cover: .gitbook/assets/2024-06-01_02.57.09.png
-coverY: 33.7660485021398
+cover: .gitbook/assets/2025-06-15_20.48.18.png
+coverY: 0
 ---
 
 # Vibe Wiki - Home
@@ -16,8 +16,8 @@ If you have any questions, concerns, or would like to see something added, pleas
 
 ### Quick links
 
-{% content-ref url="survival/smp-survival-s6/" %}
-[smp-survival-s6](survival/smp-survival-s6/)
+{% content-ref url="survival/smp-survival-s8/" %}
+[smp-survival-s8](survival/smp-survival-s8/)
 {% endcontent-ref %}
 
 {% content-ref url="survival/tweak-list/" %}

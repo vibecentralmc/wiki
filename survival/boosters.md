@@ -10,7 +10,7 @@ Boosters can be viewed and purchased through the Booster menu using the `/boost`
 
 ### Acquiring Boost Points
 
-**Ⓑ** Boost points can be purchased in the boosters menu for 85 vibecoin and 8 XP levels each.  Boost points are non-tradeable, and unspent boost points will be lost at the end of the [smp season](smp-survival-s6/season-information.md).
+**Ⓑ** Boost points can be purchased in the boosters menu for 85 vibecoin and 8 XP levels each.  Boost points are non-tradeable, and unspent boost points will be lost at the end of the [smp season](smp-survival-s8/season-information.md).
 
 {% hint style="success" %}
 **TIP**\

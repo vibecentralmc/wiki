@@ -42,7 +42,7 @@
 * **`/bonk <player>`** Bonk (alert) somebody with a noise. Please bonk responsibly!
 * **`/bonktoggle`** Toggle whether you can be bonked by others
 
-## [Survival](../survival/smp-survival-s6/) commands
+## [Survival](../survival/smp-survival-s8/) commands
 
 ### General
 
