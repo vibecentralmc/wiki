@@ -178,16 +178,16 @@ Exclusive to creative plots & the parkour course builder
 
 ### Lifetime-based despawning
 
-Arrows: 500 ticks - 25 seconds\
-Creative arrows: 200 ticks - 10 seconds\
-Tridents: 1200 ticks - 1 minute\
-Items: 1200 ticks - 1 minute ("junk" items despawn faster for server performance, see below)
+Arrows: 25 seconds\
+Creative arrows: 10 seconds\
+Tridents: 1 minute\
+Items: 3 minutes (select super common items despawn faster for server performance, see below)
 
 <details>
 
 <summary>Alternate item despawn times</summary>
 
-If an item is not listed, it uses the regular 1200 despawn time.
+If an item is not listed, it uses the regular 3 min despawn time.
 
 ```
 acacia_leaves: 200
