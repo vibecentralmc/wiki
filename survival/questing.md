@@ -366,9 +366,8 @@ Must be completed in an oak forest!\
 
 <summary>Mob Hunting</summary>
 
-## Sniper vs Sniper
+## Bone Voyage!
 
-Dual skeletons to the death using a bow!\
 Recommended to use /resnight\
 \
 **Time Limit**\
@@ -378,9 +377,38 @@ Recommended to use /resnight\
 \- Kill 50 skeletons with a bow\
 \
 **Rewards**\
-\- 175 vibecoin\
-\- 4 quest points\
+\- 135 vibecoin\
+\- 3 quest points\
 \- 230 vibe exp
+
+## Guardian's Abyss
+
+**Time limit**\
+15 minutes\
+\
+**Objectives**\
+\- Kill 15 guardians\
+\- Kill 1 elder guardian\
+\
+**Rewards**\
+\- 85 vibecoin\
+\- 3 quest point\
+\- 230 vibe exp
+
+## Sniper Duels
+
+Minecraft achievement, but harder.\
+\
+**Time limit**\
+15 minutes\
+\
+**Objectives**\
+\- Shoot and kill 10 skeletons 25+ blocks away using a bow\
+\
+**Rewards**\
+\- 100 vibecoin\
+\- 4 quest point\
+\- 245 vibe exp
 
 ## Sonic Boom!
 
@@ -393,48 +421,43 @@ How are these guys so fast?\
 \- Kill 25 creepers\
 \
 **Rewards**\
-\- 50 vibecoin\
+\- 40 vibecoin\
 \- 1 quest point\
 \- 115 vibe exp
 
-## Sniper Duels
+## Sonic Boom!
 
-Minecraft achievement, but harder.\
-\
-**Time Limit**\
-8 minutes\
-\
 **Objectives**\
-\- Shoot and kill 5 skeletons 25+ blocks away using a bow\
+\- Kill 10 Evokers\
 \
 **Rewards**\
-\- 100 vibecoin\
-\- 4 quest points\
-\- 245 vibe exp
-
-## So the Feast Begins
-
-**Time Limit**\
-1 hour\
-\
-**Objectives**\
-\- Hunt 10 cows\
-\- Hunt 10 sheep\
-\- Hunt 10 pigs\
-\- Cook 10 steak\
-\- Cook 10 mutton\
-\- Cook 10 porkchops\
-\- Display one of each on item frames\
-\
-**Rewards**\
-\- 135 vibecoin\
-\- 4 quest points\
+\- 75 vibecoin\
+\- 3 quest point\
 \- 230 vibe exp
+
+## Wither's End
+
+**Objectives**\
+\- Kill a Wither\
+\
+**Rewards**\
+\- 75 vibecoin\
+\- 1 quest point\
+\- 115 vibe exp
+
+## Ender Enigma
+
+**Objectives**\
+\- Kill 100 endermen\
+\
+**Rewards**\
+\- 75 vibecoin\
+\- 2 quest point\
+\- 115 vibe exp
 
 ## Undead Management
 
-Traverse the world and hunt down the undead plaguing the community.\
-Recommended to use /resnight and start at night\
+Traverse the world and hunt down the undead mobs plauging the world. Recommended to use /resnight and start at night!\
 \
 **Time Limit**\
 1 hour\
@@ -443,18 +466,26 @@ Recommended to use /resnight and start at night\
 \- Kill 50 zombies\
 \- Kill 50 skeletons\
 \- Kill 50 spiders\
-\- Traverse at least 2000 blocks\
+\- Traverse at least 2000 blocks on foot\
 \
 **Rewards**\
 \- 165 vibecoin\
 \- 4 quest points\
-\- 345 vibe exp
+\- 230 vibe exp
+
+## Sonic Boom!
+
+**Objectives**\
+\- Kill 50 blazes\
+\
+**Rewards**\
+\- 55 vibecoin\
+\- 2 quest point\
+\- 115 vibe exp
 
 ## Undead Management 2
 
-Teleport commands will be disabled!\
-Traverse the world and hunt down the undead plaguing the community.\
-Recommended to use /resnight and start at night\
+Traverse the world and hunt down the undead plaguing the community. Recommended to use /resnight and start at night\
 \
 **Time Limit**\
 1 hour 30 minutes\
@@ -464,12 +495,12 @@ Recommended to use /resnight and start at night\
 \- Kill 55 skeletons\
 \- Kill 55 spiders\
 \- Kill 55 creepers\
-\- Traverse at least 3500 blocks\
+\- Traverse at least 3500 blocks on foot\
 \
 **Rewards**\
 \- 255 vibecoin\
 \- 5 quest points\
-\- 435 vibe exp
+\- 345 vibe exp
 
 </details>
 
