@@ -55,10 +55,12 @@ A large majority of the markdown that will be helpful to know can be learned at:
 
 But for most purposes, you should be able to get the gist of it by just looking at existing pages on GitHub for reference and comparing their raw markdown and their rendered previews.
 
-{% hint style="info" %}
-GitBook also uses special formatting and tokens to represent things like hint boxes (the box this text is in), that GitHub does not support rendering in previews.
+### **Important info to know when making edits**
 
-You shouldn't worry or bog yourself down about the complex formattings and just focus on the content and accuracy of your contributions. Any special formattings can be added by staff later on - the content itself is what matters the most!
+{% hint style="success" %}
+* Don't worry or bog yourself down about the complex formattings. Just focus on the content and accuracy of your contributions. **Any complex formattings can be added and fixed by staff later on - the raw content itself is what matters the most!**
+* **Avoid adding your own images directly**, and opt for writing placeholders. ex. "\*image of menu here\*". This is so all screenshots across the entire wiki can be visually consistent and from the same game profile.
+* GitBook uses special formatting and tokens to represent things like hint boxes (the box this text is in), that GitHub does not support rendering in previews. You can ignore these special tokens in the GitHub editor.
 {% endhint %}
 
 **Now all that's left to do is find what you want to edit or add!**
