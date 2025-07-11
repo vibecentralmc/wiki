@@ -28,6 +28,8 @@
 * **`/cglb`** See the [chat games](rich-chat/chat-games.md) leaderboard & your stats
 * **`/rules`** Shows our [community guidelines](community-guidelines.md) link
 * **`/pmute <username>`** Temporarily silence messages from another player. Their messages will still appear in chat, but will be censored. To see the message content, hover over it with your mouse.
+* **`/firstjoin [username]`** See the exact first join date, time, and season of yourself or another online player
+* **`/profanity`** Toggle your chat profanity censoring off and on
 
 ## Fun & cosmetic commands
 
@@ -41,6 +43,7 @@
 * **`/hugtoggle`** Toggle whether you can receive hugs from others
 * **`/bonk <player>`** Bonk (alert) somebody with a noise. Please bonk responsibly!
 * **`/bonktoggle`** Toggle whether you can be bonked by others
+* **`/frog`** Become the true frog champ!
 
 ## [Survival](../survival/smp-survival-s8/) commands
 
@@ -52,11 +55,14 @@
 * **`/reservenight`** **`/resnight`**[ Reserve a night](../survival/tweak-list/reserved-nights.md) that may only be skipped by you
 * **`/pvptoggle`** Toggle your pvp settings
 * **`/quests`** **`/q`** Open the[ questing menu](../survival/questing.md)
+* **`/softrelog`** Perform a faster relog that can help fix visual or movement issues
 * **`/tasks`** Open the community tasks menu
 * **`/givepet`** Transfer [pet ownership](../survival/tweak-list/pet-ownership-transferring.md) to another player
 * **`/mobdex`** Open the [mobdex](../survival/tweak-list/mob-rarities-and-mobdex.md)
 * **`/boost`** **`/boosters`** Open the [Boosters ](../survival/boosters.md)menu&#x20;
-* **`/tbt`** Toggle [biome titles](../survival/tweak-list/biome-titles.md) on or off
+* **`/tbt`** Toggle [biome titles](../survival/tweak-list/biome-titles.md) off and on
+* **`/fishtoggle`** Toggle the bonus reward fishing minigame off and on
+* **`/fishlb`** See fishing leaderboards and stats
 
 ### Teleporting commands
 
@@ -65,16 +71,15 @@
 * **`/warps`** Open the [community made waypoints](../survival/tweak-list/community-waypoints.md) menu
 * **`/warp <name>`** **`/warp resource`** _for the_ [_resource world_](../survival/resource-world.md) **`/warp market`** _for a random of the_ [_market_](../survival/market.md) _warps._ Teleport to a [community waypoint ](../survival/tweak-list/community-waypoints.md)without using the menu
 * **`/setwarp <name>`** Set a new [community waypoint](../survival/tweak-list/community-waypoints.md) at your location
-* **`/delwarp <name>`** Delete one of your [community waypoints\
-  ](../survival/tweak-list/community-waypoints.md)
-* **`/setwarpdesc <warp> <warp description>`** Set the description of a [community waypoint\
-  ](../survival/tweak-list/community-waypoints.md)
+* **`/delwarp <name>`** Delete one of your [community waypoints](../survival/tweak-list/community-waypoints.md)
+* **`/setwarpdesc <warp> <warp description>`** Set the description of a [community waypoint](../survival/tweak-list/community-waypoints.md)
 * **`/back`** Teleport to your previous location or death spot
 * **`/rtp`**[ Randomly teleport ](../survival/random-teleporting-rtp.md)in your current world
-* **`/sethome <name>`** **`/rsethome <name>`** Set a [personal waypoint](broken-reference)[, or resource waypoint](../survival/tweak-list/personal-waypoints.md). _Limited to 5 for members,_ [_up to 32 for VIPs_](broken-reference)
+* **`/sethome <name>`** **`/rsethome <name>`** Set a [personal waypoint](../survival/tweak-list/personal-waypoints.md)[, or resource waypoint](../survival/tweak-list/personal-waypoints.md). _Limited to 5 for members,_ [_up to 32 for VIPs_](ranks.md#vip-tiers-1-6)
 * **`/home <name>`** **`/rhome <name>`** Teleport back to a [personal waypoint](../survival/tweak-list/personal-waypoints.md) [or resource waypoint](../survival/tweak-list/personal-waypoints.md)
 * **`/delhome <name>`** **`/rdelhome <name>`** Delete a [personal waypoint](../survival/tweak-list/personal-waypoints.md) [or resource waypoint](../survival/tweak-list/personal-waypoints.md)
 * **`/homes`** **`/rhomes`** See a list of your[ personal waypoints](../survival/tweak-list/personal-waypoints.md) [or resource waypoints](../survival/tweak-list/personal-waypoints.md)
+* **`/resource`** **`/rw`** Teleport to your last location in the [Resource world](../survival/resource-world.md). Run the command again while in the rw to return to the resource world spawn.
 
 ### Land claiming
 
@@ -94,9 +99,9 @@
 * **`/sales`** View your recent [chest shop (market)](../survival/market.md) sale history
 * **`/ah`** Open the [auction house](../survival/auction-house.md) menu
 
-### [VIP](broken-reference) exclusive
+### [VIP](ranks.md) exclusive
 
-These commands require certain [VIP tiersr](broken-reference) to use
+These commands require certain [VIP tier](ranks.md#vip-tiers-1-6) to use
 
 * **`/fly`** Toggle infinite utility fly in survival (same as xp fly, minus the xp cost)
 * **`/enderchest`** **`/ec`** Instantly open your Enderchest
