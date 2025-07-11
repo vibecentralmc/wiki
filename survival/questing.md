@@ -619,21 +619,34 @@ Must be completed in a snowy biome!\
 
 <summary>Expert</summary>
 
-## Dragon Slayer
+## Warden Wipeout
 
-Enter the end dimension and summon the Ender Dragon!\
+**Time Limit**\
+35 minutes\
+\
+**Objectives**\
+\- Kill 10 Wardens\
+\
+**Rewards**\
+\- 215 vibecoin\
+\- 4 quest points\
+\- 230 vibe exp
+
+## Hero of the End
+
+Enter the end dimension and take out the Dragon!\
 \
 **Time Limit**\
 5 minutes\
 \
 **Objectives**\
-\- Summon the Ender Dragon by placing 4 end crystals\
-\- Kill the Ender Dragon\
+\- Summon the Ender Dragon by placing 4 end crystals on the portal sides\
+\- Slay the Ender Dragon\
 \
 **Rewards**\
-\- 375 vibecoin\
-\- 8 quest points\
-\- 345 vibe exp
+\- 215 vibecoin\
+\- 5 quest points\
+\- 230 vibe exp
 
 </details>
 
