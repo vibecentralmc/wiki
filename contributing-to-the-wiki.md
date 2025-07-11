@@ -5,7 +5,9 @@ We're always looking for contributors to help get the wiki updated and in tip to
 {% hint style="success" %}
 **This guide assumes you have little to no experience with GitHub**
 
-For experienced folk, you can skip the explanation and simply [fork and edit the repo](https://github.com/vibecentralmc/wiki) as usual, then create a PR.
+For experienced folk, you can skip the explanation and simply [fork the repo](https://github.com/vibecentralmc/wiki) and edit it with your preferred editor.\
+\
+**Please review the** [**editing guidelines**](contributing-to-the-wiki.md#important-info-to-know-when-making-edits) **before making any edits!**
 {% endhint %}
 
 ## Step 1 - Access the wiki repository on GitHub
@@ -14,13 +16,17 @@ First, head over to the GitHub website and [create an account or login](https://
 
 Once you're logged in, you can head over to the Wiki repository at [https://github.com/vibecentralmc/wiki](https://github.com/vibecentralmc/wiki). This official repository page shows all the Wiki's most up-to-date page files and assets that are displayed nicely here on the GitBook frontend.
 
+{% hint style="info" %}
+For your privacy, we recommend going to [https://github.com/settings/emails](https://github.com/settings/emails) and enabling "**Keep my email addresses private**". This option uses a GitHub relay email to sign commits in place of your account email.
+{% endhint %}
+
 <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Step 2 - Create a fork of the repository
 
 A "fork" on GitHub is a personal copy of a repository. Your fork is a working copy of the wiki where you'll make all your proposed edits.
 
-To create your fork, simply hit the "Fork" button on the top right of the repository (see image above).
+To create your fork, simply click the "Fork" button on the top right of the repository (see image above).
 
 Your created fork of the wiki will live at _https://github.com/**`yourname`**/wiki_
 
@@ -77,7 +83,7 @@ You can find Table of Contents and quickly navigate to any existing wiki page by
 
 <figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-Once you open the page you'd like to edit, you'll see its preview opened. Hit the edit button in the top right to make it editable (highlighted in red).
+Once you open the page you'd like to edit, you'll see its preview opened. Click the edit button in the top right to make it editable (highlighted in red).
 
 <figure><img src=".gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
@@ -85,7 +91,7 @@ Now you can freely edit the page's markdown! Swap between "edit" and "preview" a
 
 <figure><img src=".gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
-After you've made edits, hit the green "commit changes" button in the top right and explain your changes. This will commit your edits to **your fork only** of the repository.
+After you've made edits, click the green "commit changes" button in the top right and explain your changes. This will commit your edits to **your fork only** of the repository.
 
 You can continue editing files like this and creating commits in your repository until you're ready to submit the changes to be merged into the live wiki.
 
@@ -131,7 +137,7 @@ When you're ready to submit your changes to the official wiki live at [https://w
 
 <figure><img src=".gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
-On the pull request page, just add a title and write a description of your changes, then hit "Create pull request". None of the options at the top need to be adjusted :)&#x20;
+On the pull request page, just add a title and write a description of your changes, then click "Create pull request". None of the options at the top need to be adjusted :)&#x20;
 
 When you create a pull request/PR, you're submitting your changes from your personal working copy / fork of the wiki to be merged or "pulled" into the official, main version.
 
@@ -140,9 +146,7 @@ PRs also serve as dedicated conversation threads. Staff members can reply in you
 And that's it! Thank you for taking interest in contributing to the wiki, seriously, you're awesome!!
 
 {% hint style="success" %}
-We recommend hitting the "Watch" button in your PR to ensure you receive email notifications for any activity in it.
-
-It's also recommended to Create a Ticket on our Discord to allow for easier communication regarding your PR. If it's your first PR, you can also request your Wiki Contributor badge in Discord once your PR is accepted!
+Keep an eye out on #wiki-updates in Discord for updates to your PR, or use the "Watch" button in GitHub to receive email notifications. If it's your first PR, you can also request your Wiki Contributor badge in Discord once your PR is accepted!
 {% endhint %}
 
 ## Using a text editor on your PC instead of GitHub's website
