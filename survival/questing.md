@@ -279,41 +279,39 @@ Quest points are obtained by doing quests, and contribute to your ranking in the
 
 <details>
 
-<summary>Environmental</summary>
-
-## Lawn Mower Simulator
-
-Geez... the grass is looking a little overgrown. Could you help tidy up some land?\
-Made to be completed in a plains biome!\
-\
-**Time Limit**\
-10 minutes\
-\
-**Objectives**\
-\- Mow 1000 grass\
-\
-**Rewards**\
-\- 45 vibecoin\
-\- 1 quest point\
-\- 115 vibe exp
+<summary>Nature and Wildlife</summary>
 
 ## Flower Picking: Plains
 
-Stroll about the plains and collect some pretty flowers. Maybe gift them to a friend?\
-Must be completed in a plains biome!\
+*Stroll about the plains and collect some pretty flowers. Maybe gift them to a friend?*\
+*Must be completed in a plains biome!*\
 \
 **Time Limit**\
-30 minutes\
+45 minutes\
 \
 **Objectives**\
-\- Collect 20 cornflowers\
+\- Collect 35 cornflowers\
 \- Collect 20 oxeye daisies\
-\- Collect 20 azure bluets\
-\- Collect 20 dandelions\
+\- Collect 35 dandelions\
 \- Collect 20 poppies\
 \
 **Rewards**\
 \- 65 vibecoin\
+\- 2 quest points\
+\- 115 vibe exp
+
+## Dead Bush Cleanup
+
+*Must be completed in a desert!*\
+\
+**Time limit**\
+10 minutes\
+\
+**Objectives**\
+\- Remove 200 dead bushes\
+\
+**Rewards**\
+\- 75 vibecoin\
 \- 3 quest points\
 \- 115 vibe exp
 
@@ -326,71 +324,40 @@ Must be completed in an oak forest!\
 30 minutes\
 \
 **Objectives**\
-\- Collect 20 lilacs\
-\- Collect 20 peonies\
-\- Collect 20 rose bushes\
-\- Collect 20 poppies\
-\- Collect 20 dandelions\
+\- Collect 35 lilacs\
+\- Collect 35 peonies\
+\- Collect 25 rose bushes\
+\- Collect 40 lily of the valley\
+\- Collect 3 dandelions\
 \
 **Rewards**\
-\- 65 vibecoin\
+\- 100 vibecoin\
 \- 3 quest points\
 \- 115 vibe exp
 
-## Good boys!
+## Did you shear that?
 
-There's quite a bit of stray dogs on the server... why not go tame them and give them a safe and loving home? :)\
-\
-Objectives\
-\- Tame 5 wolves\
-\
-Rewards\
-\- 85 vibecoin\
-\- 3 quest points\
-\- 230 vibe exp
-
-## Honey... ?
-
-Bees. These bad boys produce food for us! They're the only insects that are able to do this. Another fact? Bees will vibrate to warm up their hives when it gets cold! Bees!!\
-\
 **Objectives**\
-\- Harvest honeycombs 20 times\
-\- Harvest 20 honey bottles\
-\- Breed 8 bees\
+\- Shear 50 different sheep\
 \
 **Rewards**\
-\- 165 vibecoin\
-\- 4 quest points\
-\- 230 vibe exp
-
-## Dead Bush Cleanup
-
-Must be completed in a desert!\
-\
-**Time limit**\
-10 minutes\
-\
-**Objectives**\
-\- Remove 225 dead bushes\
-\
-**Rewards**\
-\- 50 vibecoin\
+\- 125 vibecoin\
 \- 2 quest points\
 \- 115 vibe exp
 
-## Snow Blower Simulator
+## Lawn Mower Simulator
 
-Made to be completed in a snowy biome!\
+*Made to be completed in a plains biome!*\
 \
 **Time Limit**\
-5 minutes\
+15 minutes\
 \
 **Objectives**\
-\- Plow 1000 snow\
+\- Mow 1500 grass\
 \
 **Rewards**\
-\- 65 vibecoin\
-\- 1 quest point\
+\- 55 vibecoin\
+\- 2 quest points\
 \- 115 vibe exp
 
 </details>
