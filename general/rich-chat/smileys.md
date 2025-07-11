@@ -4,11 +4,11 @@ We have a huge collection of unicode faces, symbols, and other icons you can use
 
 <figure><img src="../../.gitbook/assets/smileys1.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 You can hover a smiley in chat for easy access to it's key. You can also click on it to copy the key to your clipboard!
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="431"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="431"><figcaption></figcaption></figure>
 

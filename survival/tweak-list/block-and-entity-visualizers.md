@@ -14,9 +14,9 @@ Interactable blocks and entities have special visualizers that add an extra leve
 
 Items emit a small glow for visibility 1.5 seconds after dropping. Valuable items will display a white alert particle 10 seconds prior to despawning.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Stacked items appear with a 3 lined stack icon. Tools appear in italic</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Stacked items appear with a 3 lined stack icon. Tools appear in italic</p></figcaption></figure></div>
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Valuable items will show a white alert particle 10 seconds prior to despawning</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Valuable items will show a white alert particle 10 seconds prior to despawning</p></figcaption></figure></div>
 
 ### Crafting tables
 

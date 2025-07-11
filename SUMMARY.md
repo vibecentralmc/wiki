@@ -27,6 +27,10 @@
   * [PvP arena](general/misc./pvp-arena.md)
   * [Staff application info](general/misc./staff-application-info.md)
 
+***
+
+* [Contributing to the Wiki](contributing-to-the-wiki.md)
+
 ## 🌴 survival
 
 * [SMP Survival - S8](survival/smp-survival-s8/README.md)
