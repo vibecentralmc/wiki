@@ -632,86 +632,6 @@ Rewards\
 
 <details>
 
-<summary>Brewing &#x26; Wizardry</summary>
-
-**What's brewin' good lookin'?**\
-Potions must be upgraded with glowstone!\
-\
-**Time Limit**\
-1 hour\
-\
-**Objectives**\
-\- Brew 3 swiftness potions\
-\- Brew 3 jump boost potions\
-\- Brew 3 strength potions\
-\- Brew 3 regeneration potions\
-\
-**Rewards**\
-\- 145 vibecoin\
-\- 4 quest points\
-\- 230 vibe exp
-
-</details>
-
-<details>
-
-<summary>Cooking &#x26; Eating</summary>
-
-## To Open a Bakery
-
-Seems there's a little baker somewhere in the market!\
-Really? Who?\
-You!!\
-\
-**Time Limit**\
-30 minutes\
-\
-**Objectives**\
-\- Harvest 109 wheat, 3 eggs, 6 sugar cane, and 2 cocoa beans\
-\- Craft 32 bread, 3 cakes, and 16 cookies\
-\
-**Rewards**\
-\- 165 vibecoin\
-\- 3 quest points\
-\- 230 vibe exp
-
-## Cookie Mayhem
-
-It's cookie time.\
-\
-**Time Limit**\
-30 minutes\
-\
-**Objectives**\
-\- Harvest 12 cocoa beans\
-\- Harvest 64 wheat\
-\- Craft 4 stacks of cookies\
-\
-**Rewards**\
-\- 65 vibecoin\
-\- 2 quest points\
-\- 115 vibe exp
-
-## Old fashioned ice cream
-
-Get the job halfway done!\
-Must be completed in a snowy biome!\
-\
-**Time Limit**\
-30 minutes\
-\
-**Objectives**\
-\- Milk 5 cows\
-\
-**Rewards**\
-\- 55 vibecoin\
-\- 1 quest point\
-\- 115 vibe exp
-
-</details>
-
-<details>
-
 <summary>Expert</summary>
 
 ## Warden Wipeout
@@ -866,126 +786,16 @@ Prepare in advance!\
 
 <details>
 
-<summary>Specialty Quests</summary>
+<summary>Cooking &#x26; Eating</summary>
 
-## Flowers for Kiiix!
-
-Collect kiiix's favorite flowers!\
-\
-**Time Limit**\
-\- 30 minutes\
-\
-**Objectives**\
-\- Collect 35 dandelions\
-\- Collect 35 lilacs\
-\
-**Rewards**\
-\- 50 vibecoin\
-\- 6 quest points\
-\- 230 vibe exp
-
-## Flowers for Olivifrog!
-
-Collect olivifrog's favorite flowers!\
-\
-**Time Limit**\
-30 minutes\
-\
-**Objectives**\
-\- Collect 35 lily of the valleys\
-\- Collect 35 cornflowers\
-\
-**Rewards**\
-\- 50 vibecoin\
-\- 6 quest points\
-\- 230 vibe exp
+\- Coming Soon!
 
 </details>
 
 <details>
 
-<summary>Daily</summary>
+<summary>Brewing &#x26; Wizardry</summary>
 
-### Rewards
-
-* 50 vibecoin
-* 5 quest points
-* 115 vibe experience
-
-## Blacksmithery
-
-**Objectives**\
-\- Repair 8 damaged tools
-
-## Broken Pickaxe
-
-**Objectives**\
-\- Break 15 stone blocks with a stick
-
-## Is it hot in here?
-
-**Objectives**\
-\- Cumulatively burn for 2 minutes
-
-## Master Bargainer
-
-**Objectives**\
-\- Make a trade with 3 different villagers
-
-## Enchanter
-
-**Objectives**\
-\- Enchant 15 books
-
-## Explore by foot
-
-**Objectives**\
-\- Walk/sprint 2,000 blocks
-
-## Free Falling
-
-**Objectives**\
-\- Cumulatively fall 500m
-
-## BOING!
-
-**Objectives**\
-\- Jump 200 times
-
-## Skeleton Hunter
-
-**Objectives**\
-\- Kill 25 skeletons
-
-## Zombie Hunter
-
-**Objectives**\
-\- Kill 25 zombies
-
-## Spider Hunter
-
-**Objectives**\
-\- Spider 25 spiders\
-&#xNAN;_&#x54;his was initially a typo in the quest description, but we decided to keep it_
-
-## Skeleton Hunter
-
-**Objectives**\
-\- Kill 25 skeletons
-
-## Professional Cow Milker
-
-**Objectives**\
-\- Milk cows 30 times
-
-## Stone Miner
-
-**Objectives**\
-\- Mine 450 stone
-
-## A Good Nights Sleep
-
-**Objectives**\
-\- Sleep through a night
+\- Coming Soon!
 
 </details>
