@@ -1,9 +1,5 @@
 # Ranks
 
-{% hint style="warning" %}
-Some of the information and content on this page is outdated. Updates are pending!
-{% endhint %}
-
 ## Newcomer
 
 The initial server rank with no special privileges
@@ -87,10 +83,10 @@ Vibe features six VIP tier ranks with an increasing amount of non pay to win exc
 * **Creative plot limit 8 > 10**
 * **+.05** survival[ utility fly](../survival/tweak-list/utility-flight.md) speed
 * Custom colors for [nametag decorations](profile-and-customization/nametag-decorations.md)
-* **`/glow`** _Colored Outline_
-* **`/fly`** _Free_ [_utility fly_](../survival/tweak-list/utility-flight.md)_, no xp cost_\\
-* \&#xNAN;**`/nightvision`**_Infinite night vision_
-* **`/glow`** _Colored Outline_\
+
+- **`/fly`** Free [utility fly](../survival/tweak-list/utility-flight.md) with no xp cost
+- **`/nv`** Toggle infinite night vision on and off
+- **`/glow`** Select your colored outline color\
   \
   [Command descriptions](commands.md#vip-exclusive)
 
