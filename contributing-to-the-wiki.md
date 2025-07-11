@@ -131,6 +131,8 @@ And that's it! Thank you for taking interest in contributing to the wiki, seriou
 
 {% hint style="success" %}
 We recommend hitting the "Watch" button in your PR to ensure you receive email notifications for any activity in it.
+
+It's also recommended to Create a Ticket on our Discord to allow for easier communication regarding your PR. If it's your first PR, you can also request your Wiki Contributor badge in Discord once your PR is accepted!
 {% endhint %}
 
 ## Have any questions or need any help with anything?
