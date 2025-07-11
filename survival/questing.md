@@ -425,7 +425,7 @@ How are these guys so fast?\
 \- 1 quest point\
 \- 115 vibe exp
 
-## Sonic Boom!
+## Evoker Eviction
 
 **Objectives**\
 \- Kill 10 Evokers\
@@ -473,7 +473,7 @@ Traverse the world and hunt down the undead mobs plauging the world. Recommended
 \- 4 quest points\
 \- 230 vibe exp
 
-## Sonic Boom!
+## Inferno Fury
 
 **Objectives**\
 \- Kill 50 blazes\
@@ -506,6 +506,132 @@ Traverse the world and hunt down the undead plaguing the community. Recommended 
 
 <details>
 
+<summary>Fishing</summary>
+
+## Caught on a line
+
+Go out into the waters and catch some fish!\
+Tip: Use luck of the sea & lure for faster completion!\
+\
+**Objectives**\
+\- Catch 8 cod\
+\- Catch 4 salmon\
+\- Catch 1 pufferfish\
+\
+**Rewards**\
+\- 55 vibecoin\
+\- 2 quest points\
+\- 115 vibe exp
+
+## Void Fishing
+
+They shimmer oddly and make no ripples\
+You probably shouldn't eat them\
+Must be completed in the end!\
+\
+Objectives\
+\- Catch 10 cod in the End\
+\- Catch 6 salmon in the End\
+\
+Rewards\
+\- 75 vibecoin\
+\- 3 quest points\
+\- 230 vibe exp
+
+## Fisherman's delight
+
+A lovely haul from the sea\
+Tip: Use luck of the sea & lure for faster completion!\
+\
+Objectives\
+\- Catch 30 cod\
+\- Catch 15 salmon\
+\- Catch 6 pufferfish\
+\- Catch 1 tropical fish\
+\
+Rewards\
+\- 135 vibecoin\
+\- 4 quest points\
+\- 230 vibe exp
+
+## Rodception!
+
+Objectives\
+\- Reel in another Fishing Rod\
+\
+Rewards\
+\- 115 Vibecoin\
+\- 4 quest points\
+\- 230 vibe exp
+
+## Finding Nemo
+
+;o;\
+Tip: Use luck of the sea & lure for faster completion!\
+\
+Objectives\
+\- Reel in 1 tropical fish (AKA Nemo)\
+\
+Rewards\
+\- 45 vibecoin\
+\- 2 quest points\
+\- 115 vibe exp
+
+## Midnight Reel
+
+Cool air, quiet sea, calm mind.\
+Night is the fisher's friend.\
+/resnight is reccomended!\
+\
+Objectives\
+\- Catch 16 cod at night\
+\- Catch 8 salmon at night\
+\- Catch 3 pufferfish at night\
+\
+Rewards\
+\- 95 vibecoin\
+\- 4 quest points\
+\- 230 vibe exp
+
+## Ocean Cleanup
+
+How is all this junk getting in the ocean?!\
+\
+Objectives\
+\- Reel in 15 junk items\
+\
+Rewards\
+\- 135 vibecoin\
+\- 4 quest points\
+\- 230 vibe exp
+
+## Enchanted Catch
+
+Objectives\
+\- Reel in an Enchanted Book\
+\
+Rewards\
+\- 45 vibecoin\
+\- 2 quest points\
+\- 115 vibe exp
+
+## 0.8% chance
+
+Reel in the rarest fishing loot- a nametag!\
+Tip: Use luck of the sea & lure for faster completion!\
+\
+Objectives\
+\- Reel in 1 nametag\
+\
+Rewards\
+\- 135 vibecoin\
+\- 4 quest points\
+\- 230 vibe exp
+
+</details>
+
+<details>
+
 <summary>Brewing &#x26; Wizardry</summary>
 
 **What's brewin' good lookin'?**\
@@ -522,68 +648,6 @@ Potions must be upgraded with glowstone!\
 \
 **Rewards**\
 \- 145 vibecoin\
-\- 4 quest points\
-\- 230 vibe exp
-
-</details>
-
-<details>
-
-<summary>Fishing</summary>
-
-## Caught on a line
-
-Go out into the waters and catch some fish!\
-Tip: Use luck of the sea & lure for faster completion!\
-\
-**Objectives**\
-\- Catch 8 cod\
-\- Catch 4 salmon\
-\- Catch 1 pufferfish\
-\
-**Rewards**\
-\- 125 vibecoin\
-\- 3 quest points\
-\- 115 vibe exp
-
-## 0.8% chance
-
-Reel in the rarest fishing loot- a nametag!\
-Tip: Use luck of the sea & lure for faster completion!\
-\
-Objectives\
-\- Reel in a nametag\
-\
-Rewards\
-\- 150 vibecoin\
-\- 4 quest points\
-\- 230 vibe exp
-
-## Fisherman's delight
-
-A lovely haul from the sea\
-Tip: Use luck of the sea & lure for faster completion!\
-\
-Objectives\
-\- Catch 16 cod\
-\- Catch 8 salmon\
-\- Catch 4 pufferfish\
-\
-Rewards\
-\- 145 vibecoin\
-\- 4 quest points\
-\- 230 vibe exp
-
-## Finding Nemo
-
-;o;\
-Tip: Use luck of the sea & lure for faster completion!\
-\
-**Objectives**\
-\- Catch nemo (tropical fish)\
-\
-**Rewards**\
-\- 85 vibecoin\
 \- 4 quest points\
 \- 230 vibe exp
 
