@@ -632,6 +632,108 @@ Rewards\
 
 <details>
 
+<summary>Challenges &#x26; Misc.</summary>
+
+## Birds eye
+
+Grab some rockets and shoot for the skies!\
+\
+**Time Limit**\
+15 minutes\
+\
+**Objectives**\
+\- Fly 5000m with an elytra\
+\
+**Rewards**\
+\- 85 vibecoin\
+\- 4 quest points\
+\- 230 vibe exp
+
+## Extreme Free Falling
+
+&#x20;Teleport commands will be disabled!\
+\
+**Objectives**\
+\- Cumulatively fall 1500m\
+\
+**Rewards**\
+\- 75 vibecoin\
+\- 3 quest points\
+\- 115 vibe exp
+
+## Void Surfing
+
+Take a daring adventure on the line of the cosmic unknown.\
+\
+**Time Limit**\
+10 minutes\
+\
+**Objectives**\
+\- Fly 4500m with an Elytra in The End between Y -60 to -100 right before void damage begins\
+\
+**Rewards**\
+\- 75 vibecoin\
+\- 3 quest points\
+\- 115 vibe exp
+
+## Starlight Stroll
+
+Explore on foot under the stars.\
+Watch out for hostiles!\
+/resnight is reccomended!\
+\
+**Objectives**\
+\- Travel 2100m on foot at night\
+\- Slay 6 Zombies, Creepers, and Spiders\
+\
+**Rewards**\
+\- 135 vibecoin\
+\- 4 quest points\
+\- 230 vibe exp
+
+## Across the ocean!
+
+Ever wonder how a fish feels?\
+No? Okay, sorry.\
+\
+**Time Limit**\
+15 minutes\
+\
+**Objectives**\
+\- Swim 2500 blocks\
+\
+**Rewards**\
+\- 75 vibecoin\
+\- 3 quest points\
+\- 115 vibe exp
+
+## Extreme Jumping Jacks
+
+**Objectives**\
+\- Jump 500 times\
+\
+**Rewards**\
+\- 135 vibecoin\
+\- 4 quest points\
+\- 230 vibe exp
+
+## Setting Sail
+
+Nothing but you, the water, and the open sky.\
+Take a ride and enjoy the journey!\
+\
+**Objectives**\
+\- Boat 6000m\
+\
+**Rewards**\
+\- 125 vibecoin\
+\- 4 quest points\
+\- 230 vibe exp
+
+</details>
+
+<details>
+
 <summary>Expert</summary>
 
 ## Warden Wipeout
@@ -662,125 +764,6 @@ Enter the end dimension and take out the Dragon!\
 \- 215 vibecoin\
 \- 5 quest points\
 \- 230 vibe exp
-
-</details>
-
-<details>
-
-<summary>Challenges &#x26; Misc.</summary>
-
-## Birds eye
-
-What a view.\
-\
-**Time Limit**\
-5 minutes\
-\
-**Objectives**\
-\- Fly 5000m with an elytra\
-\
-**Rewards**\
-\- 85 vibecoin\
-\- 4 quest points\
-\- 230 vibe exp
-
-## Via pig
-
-No car? No problem\
-\
-**Objectives**\
-\- Travel 850m on a pig\
-\
-**Rewards**\
-\- 85 vibecoin\
-\- 4 quest points\
-\- 230 vibe exp
-
-## snzzz
-
-**Objectives**\
-\- Sleep through the night 5 times\
-\
-**Rewards**\
-\- 100 vibecoin\
-\- 5 quest points\
-\- 230 vibe exp
-
-### Extreme Free Falling
-
-&#x20;Teleport commands will be disabled!\
-\
-**Objectives**\
-\- Cumulatively fall 1500m\
-\
-**Rewards**\
-\- 115 vibecoin\
-\- 5 quest points\
-\- 230 vibe exp
-
-## Business Legend
-
-**Objectives**\
-\- Make a trade with villagers 45 times\
-\
-**Rewards**\
-\- 85 vibecoin\
-\- 3 quest points\
-\- 230 vibe exp
-
-## How far can this go?
-
-&#x20;Travel 100 blocks on every vehicle!\
-\
-**Time Limit**\
-1 hour\
-\
-**Objectives**\
-\- 100m on a boat\
-\- 100m on a horse\
-\- 100m on a donkey\
-\- 100m on a mule\
-\- 100m on a minecart\
-\- 100m on a pig\
-\
-**Rewards**\
-\- 200 vibecoin\
-\- 5 quest points\
-\- 230 vibe exp
-
-## Across the ocean!
-
-Ever wonder how a fish feels? No? Okay, sorry.\
-Must be completed in any ocean biome!\
-\
-**Time Limit**\
-15 minutes\
-\
-**Objectives**\
-\- Swim 3000 blocks\
-\
-**Rewards**\
-\- 85 vibecoin\
-\- 4 quest points\
-\- 230 vibe exp
-
-## need sammich FAST
-
-Gather ingredients and make a chicken sandwich\
-Prepare in advance!\
-\
-**Time Limit**\
-1 minute\
-\
-**Objectives**\
-\- Harvest 6 wheat\
-\- Make two bread\
-\- Hunt & cook a chicken\
-\
-**Rewards**\
-\- 75 vibecoin\
-\- 4 quest points\
-\- 115 vibe exp
 
 </details>
 
