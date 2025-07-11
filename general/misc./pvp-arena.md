@@ -4,5 +4,5 @@ The server features a set-kit pvp arena with no respawn penalty, kill streaks, f
 \
 Use **`/pvp`** to teleport to the arena!
 
-# *Image needs to be updated**
+ *Image needs to be updated* *
 <figure><img src="../../.gitbook/assets/arena.png" alt=""><figcaption></figcaption></figure>
