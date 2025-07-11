@@ -34,12 +34,12 @@ You can ensure you're on your fork by looking at the top - note how it says "for
 
 Note the section near the top that shows "This branch is up to date with vibecentralmc/wiki:main". This means that both the official wiki repository and your fork are currently identical. As you or others make changes, this status will update. For example:
 
-* "This branch is 3 commits ahead of vibecentralmc" means you have made and saved three changes to your fork that are not yet in the official wiki.
-* "This branch is 1 commit behind vibecentralmc" means the official wiki has one change that your fork doesn't yet have, and you'll need to sync your fork to get it using the "Sync fork" button.
+* "This branch is 3 commits ahead of vibecentralmc" means you have made and saved three changesets/commits to your fork that are not yet in the official wiki.
+* "This branch is 1 commit behind vibecentralmc" means the official wiki has one changeset/commit that your fork doesn't yet have, and you'll need to sync your fork to get it using the "Sync fork" button.
 
 ### **Understanding commits**
 
-In version control systems like Git, which are often used for codebases and other collaborative projects like wikis, a 'commit' is essentially a group of one or more edits you made to the project at a specific point in time. You can think of it like saving a document and taking a snapshot of just those changes.
+In version control systems like Git, which are often used for codebases and other collaborative projects like wikis, a 'commit' or 'changeset' is essentially a group of one or more edits you made to the project at a specific point in time. You can think of it like saving a document and taking a snapshot of just those changes.
 
 * **On GitHub, when you 'commit' changes,** you're packaging up a set of all your most recent changes since your last commit (like adding a new sentence, fixing a typo, etc.) and giving it a brief name & description of your primary changes, like "Fix typo in rules page" or "Create Skills page".
 * **In GitHub, each commit builds on the previous one,** creating a chronological history of all edits to the project. This ensures everything is tracked and can be reverted or referenced if needed. You can explore all the commit history by clicking on "commits" in the top right of the project, and even browse the entire repository as a snapshot when a specific commit was made.
