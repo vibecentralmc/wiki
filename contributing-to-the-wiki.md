@@ -55,10 +55,12 @@ A large majority of the markdown that will be helpful to know can be learned at:
 
 But for most purposes, you should be able to get the gist of it by just looking at existing pages on GitHub for reference and comparing their raw markdown and their rendered previews.
 
-{% hint style="info" %}
-GitBook also uses special formatting and tokens to represent things like hint boxes (the box this text is in), that GitHub does not support rendering in previews.
+### **Important info to know when making edits**
 
-You shouldn't worry or bog yourself down about the complex formattings and just focus on the content and accuracy of your contributions. Any special formattings can be added by staff later on - the content itself is what matters the most!
+{% hint style="success" %}
+* Don't worry or bog yourself down about the complex formattings. Just focus on the content and accuracy of your contributions. **Any complex formattings can be added and fixed by staff later on - the raw content itself is what matters the most!**
+* **Avoid adding your own images directly**, and opt for writing placeholders. ex. "\*image of menu here\*". This is so all screenshots across the entire wiki can be visually consistent and from the same game profile.
+* GitBook uses special formatting and tokens to represent things like hint boxes (the box this text is in), that GitHub does not support rendering in previews. You can ignore these special tokens in the GitHub editor.
 {% endhint %}
 
 **Now all that's left to do is find what you want to edit or add!**
@@ -87,6 +89,32 @@ You can continue editing files like this and creating commits in your repository
 
 To create a new wiki page or section, navigate to the section where you'd like it to be, (ex. in the "survival" folder/section) and use the "Add file" button at the top right. Remember to name pages with the ".md" file extension!
 
+{% hint style="success" %}
+Copy and paste the new wiki page template below to get a solid base to work from for adding new pages.
+
+All pages should follow this basic starting format, including the page title, description, and section headings with subheadings with respective empty lines.
+{% endhint %}
+
+```markup
+# Page Title
+
+A short description explaining what the feature is that this page is about
+
+## Section Heading
+
+Section content
+
+### Section subheading
+
+Subheading content
+
+## Another Section Heading
+
+More paragraph content, oh look a list!
+* Bullet point item 1
+* Bullet point item 2
+```
+
 ## Step 4 - Submit your contributions to be merged into the live Wiki
 
 When you're ready to submit your changes to the official wiki live at [https://wiki.vibecentral.xyz](https://wiki.vibecentral.xyz/), head back to your fork's main page at _https://github.com/**`yourname`**/wiki_ and click the "Contribute" button, then "Open Pull Request"&#x20;
@@ -107,6 +135,8 @@ And that's it! Thank you for taking interest in contributing to the wiki, seriou
 
 {% hint style="success" %}
 We recommend hitting the "Watch" button in your PR to ensure you receive email notifications for any activity in it.
+
+It's also recommended to Create a Ticket on our Discord to allow for easier communication regarding your PR. If it's your first PR, you can also request your Wiki Contributor badge in Discord once your PR is accepted!
 {% endhint %}
 
 ## Have any questions or need any help with anything?
