@@ -89,8 +89,8 @@ Vibe features six VIP tier ranks with an increasing amount of non pay to win exc
 * Custom colors for [nametag decorations](profile-and-customization/nametag-decorations.md)
 * **`/glow`** _Colored Outline_
 * **`/fly`** _Free_ [_utility fly_](../survival/tweak-list/utility-flight.md)_, no xp cost_\
-  &#xNAN;**`/nightvision`**_Infinite night vision_
-  **`/glow`** _Colored Outline_\
+* &#xNAN;**`/nightvision`**_Infinite night vision_
+* **`/glow`** _Colored Outline_\
   \
   [Command descriptions](commands.md#vip-exclusive)
 
