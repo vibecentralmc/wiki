@@ -34,7 +34,7 @@ Vibe features six VIP tier ranks with an increasing amount of non pay to win exc
 
 <summary>Expand</summary>
 
-### VIP Tier 1
+#### VIP Tier 1
 
 <img src="../.gitbook/assets/vip1.png" alt="" data-size="original">
 
@@ -56,7 +56,7 @@ Vibe features six VIP tier ranks with an increasing amount of non pay to win exc
   \
   [Command descriptions](commands.md#vip-exclusive)
 
-### VIP Tier 2
+#### VIP Tier 2
 
 <img src="../.gitbook/assets/vip2.png" alt="" data-size="original">
 
@@ -73,7 +73,7 @@ Vibe features six VIP tier ranks with an increasing amount of non pay to win exc
   \
   [Command descriptions](commands.md#vip-exclusive)
 
-### Vip Tier 3
+#### Vip Tier 3
 
 <img src="../.gitbook/assets/vip3.png" alt="" data-size="original">
 
@@ -88,13 +88,13 @@ Vibe features six VIP tier ranks with an increasing amount of non pay to win exc
 * **+.05** survival[ utility fly](../survival/tweak-list/utility-flight.md) speed
 * Custom colors for [nametag decorations](profile-and-customization/nametag-decorations.md)
 * **`/glow`** _Colored Outline_
-* **`/fly`** _Free_ [_utility fly_](../survival/tweak-list/utility-flight.md)_, no xp cost_\
-* &#xNAN;**`/nightvision`**_Infinite night vision_
+* **`/fly`** _Free_ [_utility fly_](../survival/tweak-list/utility-flight.md)_, no xp cost_\\
+* \&#xNAN;**`/nightvision`**_Infinite night vision_
 * **`/glow`** _Colored Outline_\
   \
   [Command descriptions](commands.md#vip-exclusive)
 
-### Vip Tier 4
+#### Vip Tier 4
 
 <img src="../.gitbook/assets/vip4.png" alt="" data-size="original">
 
@@ -109,7 +109,7 @@ Vibe features six VIP tier ranks with an increasing amount of non pay to win exc
 * **+.10** survival [utility fly](../survival/tweak-list/utility-flight.md) speed
 * **5%** less [vibecoin respawn fee](../survival/economy.md)
 
-### Vip Tier 5
+#### Vip Tier 5
 
 <img src="../.gitbook/assets/vip5.png" alt="" data-size="original">
 
@@ -124,11 +124,11 @@ Vibe features six VIP tier ranks with an increasing amount of non pay to win exc
 * **+.15** survival [utility fly](../survival/tweak-list/utility-flight.md) speed
 * **10%** less [vibecoin respawn fee](../survival/economy.md)
 * **`/enderchest`** _Open your enderchest anywhere_
-* **`/pp`** _Manage your [Particle Packs](general/profile-and-customization/vibe-particle-pack.md)_\
+* **`/pp`** _Manage your_ [_Particle Packs_](general/profile-and-customization/vibe-particle-pack.md)\
   \
   [Command descriptions](commands.md#vip-exclusive)
 
-### Vip Tier 6
+#### Vip Tier 6
 
 <img src="../.gitbook/assets/vip6.png" alt="" data-size="original">
 

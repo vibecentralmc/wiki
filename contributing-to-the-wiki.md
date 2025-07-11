@@ -30,7 +30,7 @@ If you enjoy extra organization, you can leave your base fork free of edits and 
 
 But, if you don't mind always building off the same working copy, or prefer a simpler experience, it's totally fine to not worry about branches and leave everything as is!
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can ensure you're on your fork by looking at the top - note how it says "forked from vibecentralmc/wiki".
 

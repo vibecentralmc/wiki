@@ -1,11 +1,5 @@
 # Questing
 
-{% hint style="warning" %}
-**Outdated page**
-
-Some of the information and content on this page is outdated. Updates are pending!
-{% endhint %}
-
 We have tons of custom-made quests in various categories you can do for fun or a challenge. If you ever don't know what to do, quests are a great way to keep occupied!
 
 Each quest can be completely once every 7 days.
@@ -13,10 +7,10 @@ Each quest can be completely once every 7 days.
 ### Commands
 
 **`/q`**\
-**`/quest`**\
-**`/quests`**
+&#xNAN;**`/quest`**\
+&#xNAN;**`/quests`**
 
-<div align="left"><img src="../.gitbook/assets/quest.png" alt=""></div>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Ⓠ Quest points
 
@@ -28,7 +22,7 @@ Quest points are obtained by doing quests, and contribute to your ranking in the
 
 <summary>Farming</summary>
 
-## Beet That!
+### Beet That!
 
 **Objectives**\
 \- Harvest & replant 1000 beetroots\
@@ -38,9 +32,9 @@ Quest points are obtained by doing quests, and contribute to your ranking in the
 \- 4 quest points\
 \- 230 vibe exp
 
-## Potato Plantation
+### Potato Plantation
 
-*This quest is sponsored by wingwom™*\
+_This quest is sponsored by wingwom™_\
 \
 **Objectives**\
 \- Harvest & replant 2000 potatoes\
@@ -50,7 +44,7 @@ Quest points are obtained by doing quests, and contribute to your ranking in the
 \- 4 quest points\
 \- 230 vibe exp
 
-## Cocoa Farming
+### Cocoa Farming
 
 **Objectives**\
 \- Harvest & replant 350 grown cocoa beans\
@@ -60,7 +54,7 @@ Quest points are obtained by doing quests, and contribute to your ranking in the
 \- 2 quest points\
 \- 115 vibe exp
 
-## Papers, please!
+### Papers, please!
 
 **Objectives**\
 \- Harvest 1500 sugar cane\
@@ -70,7 +64,7 @@ Quest points are obtained by doing quests, and contribute to your ranking in the
 \- 2 quest points\
 \- 115 vibe exp
 
-## Berry Crazy
+### Berry Crazy
 
 **Objectives**\
 \- Harvest 350 sweet berries\
@@ -80,7 +74,7 @@ Quest points are obtained by doing quests, and contribute to your ranking in the
 \- 2 quest points\
 \- 115 vibe exp
 
-## Pumpkin Farming
+### Pumpkin Farming
 
 **Objectives**\
 \- Harvest 1000 grown pumpkins\
@@ -90,7 +84,7 @@ Quest points are obtained by doing quests, and contribute to your ranking in the
 \- 2 quest points\
 \- 230 vibe exp
 
-## Nether Wart Farming
+### Nether Wart Farming
 
 **Objectives**\
 \- Harvest & replant 500 nether warts\
@@ -100,7 +94,7 @@ Quest points are obtained by doing quests, and contribute to your ranking in the
 \- 3 quest points\
 \- 115 vibe exp
 
-## Prickle Patch Prowl
+### Prickle Patch Prowl
 
 **Objectives**\
 \- Harvest 400 cactus blocks\
@@ -110,9 +104,9 @@ Quest points are obtained by doing quests, and contribute to your ranking in the
 \- 2 quest points\
 \- 115 vibe exp
 
-## Carrot Plantation
+### Carrot Plantation
 
-&#x20;Harvest way too many carrots
+Harvest way too many carrots
 
 **Objectives**\
 \- Harvest & replant 4000 grown carrots\
@@ -122,7 +116,7 @@ Quest points are obtained by doing quests, and contribute to your ranking in the
 \- 5 quest points\
 \- 345 vibe exp
 
-## SUGAR RUSH!
+### SUGAR RUSH!
 
 **Objectives**\
 \- Harvest 4000 sugar cane\
@@ -132,7 +126,7 @@ Quest points are obtained by doing quests, and contribute to your ranking in the
 \- 3 quest points\
 \- 230 vibe exp
 
-## Melon Farming
+### Melon Farming
 
 **Objectives**\
 \- Harvest 1000 grown melons\
@@ -142,7 +136,7 @@ Quest points are obtained by doing quests, and contribute to your ranking in the
 \- 2 quest points\
 \- 115 vibe exp
 
-## Bamboo Farming
+### Bamboo Farming
 
 **Objectives**\
 \- Harvest 8500 Bamboo\
@@ -152,7 +146,7 @@ Quest points are obtained by doing quests, and contribute to your ranking in the
 \- 3 quest points\
 \- 115 vibe exp
 
-## Glow berry Picking
+### Glow berry Picking
 
 **Objectives**\
 \- Harvest 250 glowberries\
@@ -162,7 +156,7 @@ Quest points are obtained by doing quests, and contribute to your ranking in the
 \- 2 quest points\
 \- 115 vibe exp
 
-## This is (s)wheat
+### This is (s)wheat
 
 **Objectives**\
 \- Harvest & replant 2000 wheat\
@@ -178,10 +172,10 @@ Quest points are obtained by doing quests, and contribute to your ranking in the
 
 <summary>Mining</summary>
 
-## Copper Collect
+### Copper Collect
 
-*TIP: Sell to /warp servershop for vc*\
-*TIP: Use the mining /booster*\
+_TIP: Sell to /warp servershop for vc_\
+&#xNAN;_&#x54;IP: Use the mining /booster_\
 \
 **Time Limit**\
 1 hour\
@@ -194,9 +188,9 @@ Quest points are obtained by doing quests, and contribute to your ranking in the
 \- 4 quest point\
 \- 115 vibe exp
 
-## Diamond Depths
+### Diamond Depths
 
-*Venture deep into the world and mine the valuable gems*\
+_Venture deep into the world and mine the valuable gems_\
 \
 **Time Limit**\
 1 hour 15 minutes\
@@ -214,11 +208,11 @@ Quest points are obtained by doing quests, and contribute to your ranking in the
 \- 6 quest points\
 \- 245 vibe exp
 
-## Grayrock Gala
+### Grayrock Gala
 
-*Andesite caves biome reccomended!*\
-*TIP: Sell the andesite to /warp servershop for vc*\
-*TIP: Use the mining /booster*\
+_Andesite caves biome reccomended!_\
+&#xNAN;_&#x54;IP: Sell the andesite to /warp servershop for vc_\
+&#xNAN;_&#x54;IP: Use the mining /booster_\
 \
 **Objectives**\
 \- Mine 2000 andesite\
@@ -228,9 +222,9 @@ Quest points are obtained by doing quests, and contribute to your ranking in the
 \- 4 quest points\
 \- 230 vibe exp
 
-## Geode Hunting
+### Geode Hunting
 
-*Find and mine a medium to large sized geode*\
+_Find and mine a medium to large sized geode_\
 \
 **Objectives**\
 \- Mine 280 amethyst blocks\
@@ -241,9 +235,9 @@ Quest points are obtained by doing quests, and contribute to your ranking in the
 \- 4 quest point\
 \- 115 vibe exp
 
-## Quick Trip
+### Quick Trip
 
-*Regular ores only, deepslate is not accepted!*\
+_Regular ores only, deepslate is not accepted!_\
 \
 **Time Limit**\
 45 minutes\
@@ -257,10 +251,10 @@ Quest points are obtained by doing quests, and contribute to your ranking in the
 \- 2 quest point\
 \- 115 vibe exp
 
-## Deep into hell
+### Deep into hell
 
-*Head into the nether and mine some of its greatest treasures!*\
-*Recommended to mine at Y 13 using a blast mining method!*\
+_Head into the nether and mine some of its greatest treasures!_\
+&#xNAN;_&#x52;ecommended to mine at Y 13 using a blast mining method!_\
 \
 **Time Limit**\
 2 hours\
@@ -281,10 +275,10 @@ Quest points are obtained by doing quests, and contribute to your ranking in the
 
 <summary>Nature and Wildlife</summary>
 
-## Flower Picking: Plains
+### Flower Picking: Plains
 
-*Stroll about the plains and collect some pretty flowers. Maybe gift them to a friend?*\
-*Must be completed in a plains biome!*\
+_Stroll about the plains and collect some pretty flowers. Maybe gift them to a friend?_\
+&#xNAN;_&#x4D;ust be completed in a plains biome!_\
 \
 **Time Limit**\
 45 minutes\
@@ -300,9 +294,9 @@ Quest points are obtained by doing quests, and contribute to your ranking in the
 \- 2 quest points\
 \- 115 vibe exp
 
-## Dead Bush Cleanup
+### Dead Bush Cleanup
 
-*Must be completed in a desert!*\
+_Must be completed in a desert!_\
 \
 **Time limit**\
 10 minutes\
@@ -315,7 +309,7 @@ Quest points are obtained by doing quests, and contribute to your ranking in the
 \- 3 quest points\
 \- 115 vibe exp
 
-## Flower Picking: Oak Forest
+### Flower Picking: Oak Forest
 
 Stroll about an oak forest and collect some pretty flowers. Maybe gift them to a friend?\
 Must be completed in an oak forest!\
@@ -335,7 +329,7 @@ Must be completed in an oak forest!\
 \- 3 quest points\
 \- 115 vibe exp
 
-## Did you shear that?
+### Did you shear that?
 
 **Objectives**\
 \- Shear 50 different sheep\
@@ -345,9 +339,9 @@ Must be completed in an oak forest!\
 \- 2 quest points\
 \- 115 vibe exp
 
-## Lawn Mower Simulator
+### Lawn Mower Simulator
 
-*Made to be completed in a plains biome!*\
+_Made to be completed in a plains biome!_\
 \
 **Time Limit**\
 15 minutes\
@@ -366,7 +360,7 @@ Must be completed in an oak forest!\
 
 <summary>Mob Hunting</summary>
 
-## Bone Voyage!
+### Bone Voyage!
 
 Recommended to use /resnight\
 \
@@ -381,7 +375,7 @@ Recommended to use /resnight\
 \- 3 quest points\
 \- 230 vibe exp
 
-## Guardian's Abyss
+### Guardian's Abyss
 
 **Time limit**\
 15 minutes\
@@ -395,7 +389,7 @@ Recommended to use /resnight\
 \- 3 quest point\
 \- 230 vibe exp
 
-## Sniper Duels
+### Sniper Duels
 
 Minecraft achievement, but harder.\
 \
@@ -410,7 +404,7 @@ Minecraft achievement, but harder.\
 \- 4 quest point\
 \- 245 vibe exp
 
-## Sonic Boom!
+### Sonic Boom!
 
 How are these guys so fast?\
 \
@@ -425,7 +419,7 @@ How are these guys so fast?\
 \- 1 quest point\
 \- 115 vibe exp
 
-## Evoker Eviction
+### Evoker Eviction
 
 **Objectives**\
 \- Kill 10 Evokers\
@@ -435,7 +429,7 @@ How are these guys so fast?\
 \- 3 quest point\
 \- 230 vibe exp
 
-## Wither's End
+### Wither's End
 
 **Objectives**\
 \- Kill a Wither\
@@ -445,7 +439,7 @@ How are these guys so fast?\
 \- 1 quest point\
 \- 115 vibe exp
 
-## Ender Enigma
+### Ender Enigma
 
 **Objectives**\
 \- Kill 100 endermen\
@@ -455,7 +449,7 @@ How are these guys so fast?\
 \- 2 quest point\
 \- 115 vibe exp
 
-## Undead Management
+### Undead Management
 
 Traverse the world and hunt down the undead mobs plauging the world. Recommended to use /resnight and start at night!\
 \
@@ -473,7 +467,7 @@ Traverse the world and hunt down the undead mobs plauging the world. Recommended
 \- 4 quest points\
 \- 230 vibe exp
 
-## Inferno Fury
+### Inferno Fury
 
 **Objectives**\
 \- Kill 50 blazes\
@@ -483,7 +477,7 @@ Traverse the world and hunt down the undead mobs plauging the world. Recommended
 \- 2 quest point\
 \- 115 vibe exp
 
-## Undead Management 2
+### Undead Management 2
 
 Traverse the world and hunt down the undead plaguing the community. Recommended to use /resnight and start at night\
 \
@@ -508,7 +502,7 @@ Traverse the world and hunt down the undead plaguing the community. Recommended 
 
 <summary>Fishing</summary>
 
-## Caught on a line
+### Caught on a line
 
 Go out into the waters and catch some fish!\
 Tip: Use luck of the sea & lure for faster completion!\
@@ -523,7 +517,7 @@ Tip: Use luck of the sea & lure for faster completion!\
 \- 2 quest points\
 \- 115 vibe exp
 
-## Void Fishing
+### Void Fishing
 
 They shimmer oddly and make no ripples\
 You probably shouldn't eat them\
@@ -538,7 +532,7 @@ Rewards\
 \- 3 quest points\
 \- 230 vibe exp
 
-## Fisherman's delight
+### Fisherman's delight
 
 A lovely haul from the sea\
 Tip: Use luck of the sea & lure for faster completion!\
@@ -554,7 +548,7 @@ Rewards\
 \- 4 quest points\
 \- 230 vibe exp
 
-## Rodception!
+### Rodception!
 
 Objectives\
 \- Reel in another Fishing Rod\
@@ -564,7 +558,7 @@ Rewards\
 \- 4 quest points\
 \- 230 vibe exp
 
-## Finding Nemo
+### Finding Nemo
 
 ;o;\
 Tip: Use luck of the sea & lure for faster completion!\
@@ -577,7 +571,7 @@ Rewards\
 \- 2 quest points\
 \- 115 vibe exp
 
-## Midnight Reel
+### Midnight Reel
 
 Cool air, quiet sea, calm mind.\
 Night is the fisher's friend.\
@@ -593,7 +587,7 @@ Rewards\
 \- 4 quest points\
 \- 230 vibe exp
 
-## Ocean Cleanup
+### Ocean Cleanup
 
 How is all this junk getting in the ocean?!\
 \
@@ -605,7 +599,7 @@ Rewards\
 \- 4 quest points\
 \- 230 vibe exp
 
-## Enchanted Catch
+### Enchanted Catch
 
 Objectives\
 \- Reel in an Enchanted Book\
@@ -615,7 +609,7 @@ Rewards\
 \- 2 quest points\
 \- 115 vibe exp
 
-## 0.8% chance
+### 0.8% chance
 
 Reel in the rarest fishing loot- a nametag!\
 Tip: Use luck of the sea & lure for faster completion!\
@@ -634,7 +628,7 @@ Rewards\
 
 <summary>Challenges &#x26; Misc.</summary>
 
-## Birds eye
+### Birds eye
 
 Grab some rockets and shoot for the skies!\
 \
@@ -649,9 +643,9 @@ Grab some rockets and shoot for the skies!\
 \- 4 quest points\
 \- 230 vibe exp
 
-## Extreme Free Falling
+### Extreme Free Falling
 
-&#x20;Teleport commands will be disabled!\
+Teleport commands will be disabled!\
 \
 **Objectives**\
 \- Cumulatively fall 1500m\
@@ -661,7 +655,7 @@ Grab some rockets and shoot for the skies!\
 \- 3 quest points\
 \- 115 vibe exp
 
-## Void Surfing
+### Void Surfing
 
 Take a daring adventure on the line of the cosmic unknown.\
 \
@@ -676,7 +670,7 @@ Take a daring adventure on the line of the cosmic unknown.\
 \- 3 quest points\
 \- 115 vibe exp
 
-## Starlight Stroll
+### Starlight Stroll
 
 Explore on foot under the stars.\
 Watch out for hostiles!\
@@ -691,7 +685,7 @@ Watch out for hostiles!\
 \- 4 quest points\
 \- 230 vibe exp
 
-## Across the ocean!
+### Across the ocean!
 
 Ever wonder how a fish feels?\
 No? Okay, sorry.\
@@ -707,7 +701,7 @@ No? Okay, sorry.\
 \- 3 quest points\
 \- 115 vibe exp
 
-## Extreme Jumping Jacks
+### Extreme Jumping Jacks
 
 **Objectives**\
 \- Jump 500 times\
@@ -717,7 +711,7 @@ No? Okay, sorry.\
 \- 4 quest points\
 \- 230 vibe exp
 
-## Setting Sail
+### Setting Sail
 
 Nothing but you, the water, and the open sky.\
 Take a ride and enjoy the journey!\
@@ -736,7 +730,7 @@ Take a ride and enjoy the journey!\
 
 <summary>Expert</summary>
 
-## Warden Wipeout
+### Warden Wipeout
 
 **Time Limit**\
 35 minutes\
@@ -749,7 +743,7 @@ Take a ride and enjoy the journey!\
 \- 4 quest points\
 \- 230 vibe exp
 
-## Hero of the End
+### Hero of the End
 
 Enter the end dimension and take out the Dragon!\
 \
@@ -764,6 +758,155 @@ Enter the end dimension and take out the Dragon!\
 \- 215 vibecoin\
 \- 5 quest points\
 \- 230 vibe exp
+
+</details>
+
+<details>
+
+<summary>Resource Gathering<br><br>These quests can only exclusively be done in the <a href="resource-world.md">resource world</a>, and give a special additional reward of xp orb bottles</summary>
+
+### Spruce it up!
+
+**Objectives**\
+\- Harvest 36 stacks of spruce logs \[\~25-200 trees]\
+\
+**Rewards**\
+\- 150 vibecoin\
+\- 4 quest points\
+\- 230 vibe exp\
+\- 64x xp orb bottles
+
+### Oak Overload
+
+**Objectives**\
+\- Harvest 9 stacks of oak logs \[\~90 trees]\
+\
+**Rewards**\
+\- 115 vibecoin\
+\- 3 quest points\
+\- 115 vibe exp\
+\- 32x xp orb bottles
+
+### Dark Oak Dream
+
+**Objectives**\
+\- Harvest 36 stacks of spruce logs \[\~45 trees]\
+\
+**Rewards**\
+\- 150 vibecoin\
+\- 4 quest points\
+\- 230 vibe exp\
+\- 64x xp orb bottles
+
+### Gravel Grind
+
+**Objectives**\
+\- Mine 1,000 gravel blocks\
+\
+**Rewards**\
+\- 125 vibecoin\
+\- 4 quest points\
+\- 230 vibe exp\
+\- 32x xp orb bottles
+
+### Tropic Timber Trek
+
+**Objectives**\
+\- Harvest 36 stacks of jungle logs \[\~25-200 trees]\
+\
+**Rewards**\
+\- 150 vibecoin\
+\- 4 quest points\
+\- 230 vibe exp\
+\- 64x xp orb bottles
+
+### Icebreaker
+
+**Objectives**\
+\- Mine 1,500 ice blocks\
+\
+**Rewards**\
+\- 135 vibecoin\
+\- 4 quest points\
+\- 230 vibe exp\
+\- 64x xp orb bottles
+
+### Soil Savior!
+
+**Objectives**\
+\- Mine 5,000 dirt/grass blocks\
+\
+**Rewards**\
+\- 245 vibecoin\
+\- 5 quest points\
+\- 345 vibe exp\
+\- 128x xp orb bottles
+
+### Granular Grandeur
+
+**Objectives**\
+\- Mine 1,000 sand blocks\
+\
+**Rewards**\
+\- 125 vibecoin\
+\- 4 quest points\
+\- 230 vibe exp\
+\- 32x xp orb bottles
+
+### Moss Mayhem
+
+**Objectives**\
+\- Mine 850 moss blocks\
+\
+**Rewards**\
+\- 125 vibecoin\
+\- 4 quest points\
+\- 230 vibe exp\
+\- 32x xp orb bottles
+
+### Birch Bonanza
+
+**Objectives**\
+\- Harvest 9 stacks of birch logs \[\~70-100 trees]\
+\
+**Rewards**\
+\- 115 vibecoin\
+\- 3 quest points\
+\- 115 vibe exp\
+\- 32x xp orb bottles
+
+### Cherry Charmed
+
+**Objectives**\
+\- Harvest 4.5 stacks of cherry logs \[\~15 trees]\
+\
+**Rewards**\
+\- 55 vibecoin\
+\- 1 quest points\
+\- 115 vibe exp\
+\- 16x xp orb bottles
+
+### Mud Muddle Madness
+
+**Objectives**\
+\- Mine 1,000 mud blocks\
+\
+**Rewards**\
+\- 65 vibecoin\
+\- 2 quest points\
+\- 115 vibe exp\
+\- 32x xp orb bottles
+
+### Rock n Roll
+
+**Objectives**\
+\- Mine 3,500 stone blocks\
+\
+**Rewards**\
+\- 155 vibecoin\
+\- 5 quest points\
+\- 230 vibe exp\
+\- 128x xp orb bottles
 
 </details>
 
