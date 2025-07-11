@@ -22,4 +22,4 @@ Your server profile can be opened via **`/profile`**. It shows various statistic
 * Your [VIP](broken-reference) status
 * A help button to report issues to the staff team
 
-<figure><img src="../../.gitbook/assets/ProfileNew.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Profile_New.png" alt=""><figcaption></figcaption></figure>
