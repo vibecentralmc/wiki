@@ -13,5 +13,3 @@ Use **`/warp resource`** to return to your last location in the resource world (
 * Nether & end is shared with the main world ones
 * Claiming, setting warps and regular sethomes is disabled
 * 50% reduced hostile mob spawns compared to the main world
-
-\
