@@ -1,13 +1,9 @@
 # Party Games
 
-{% hint style="warning" %}
-This page is a work in progress and is not completed. If you'd like to contribute, feel free to reach out with your content in a ticket on our [**Discord**](../general/discord.md)!\
-\
-**Needed content:**\
-\* General summary of the mode
-{% endhint %}
+Party Games is a fun Competition game that features 21 minigames. The game needs a minimum of 3 players to start, there will be 8 minigames selected out of the 21 minigames every time when the game starts. 
 
-
+To win, the player needs to have the most amount of Points.  
+    Every time a round ends the top 3 players will gain points (3 points for the 1st, 2 points for the 2nd and 1 points for the 3rd)
 
 <figure><img src="../.gitbook/assets/2023-09-03_01.35.20.png" alt=""><figcaption></figcaption></figure>
 
