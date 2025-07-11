@@ -28,89 +28,149 @@ Quest points are obtained by doing quests, and contribute to your ranking in the
 
 <summary>Farming</summary>
 
+## Beet That!
+
+**Objectives**\
+\- Harvest & replant 1000 beetroots\
+\
+**Rewards**\
+\- 115 vibecoin\
+\- 4 quest points\
+\- 230 vibe exp
+
 ## Potato Plantation
 
-This quest is sponsored by wingwom\
+*This quest is sponsored by wingwom™*\
 \
 **Objectives**\
-\- Harvest 200 potatos\
+\- Harvest & replant 2000 potatoes\
 \
 **Rewards**\
-\- 130 vibecoin\
+\- 150 vibecoin\
 \- 4 quest points\
 \- 230 vibe exp
 
-## This is (s)wheat
+## Cocoa Farming
 
 **Objectives**\
-\- Harvest 200 wheat\
+\- Harvest & replant 350 grown cocoa beans\
 \
 **Rewards**\
-\- 185 vibecoin\
-\- 4 quest points\
-\- 230 vibe exp
+\- 85 vibecoin\
+\- 2 quest points\
+\- 115 vibe exp
 
 ## Papers, please!
 
 **Objectives**\
-\- Harvest 200 sugar cane\
+\- Harvest 1500 sugar cane\
+\
+**Rewards**\
+\- 55 vibecoin\
+\- 2 quest points\
+\- 115 vibe exp
+
+## Berry Crazy
+
+**Objectives**\
+\- Harvest 350 sweet berries\
 \
 **Rewards**\
 \- 65 vibecoin\
 \- 2 quest points\
 \- 115 vibe exp
 
-## Shear Crazy
+## Pumpkin Farming
 
 **Objectives**\
-Shear 50 different sheep\
+\- Harvest 1000 grown pumpkins\
 \
 **Rewards**\
-\- 65 vibecoin\
+\- 85 vibecoin\
+\- 2 quest points\
+\- 230 vibe exp
+
+## Nether Wart Farming
+
+**Objectives**\
+\- Harvest & replant 500 nether warts\
+\
+**Rewards**\
+\- 75 vibecoin\
 \- 3 quest points\
 \- 115 vibe exp
 
-## Cocoa Farm
+## Prickle Patch Prowl
 
 **Objectives**\
-\- Harvest 150 grown cocoa beans\
+\- Harvest 400 cactus blocks\
 \
 **Rewards**\
-\- 100 vibecoin\
+\- 75 vibecoin\
 \- 2 quest points\
 \- 115 vibe exp
-
-## Pumpkin Farm
-
-**Objectives**\
-\- Harvest 250 grown pumpkins\
-\
-**Rewards**\
-\- 115 vibecoin\
-\- 3 quest points\
-\- 230 vibe exp
-
-## Melon Farm
-
-**Objectives**\
-\- Harvest 250 grown melons\
-\
-**Rewards**\
-\- 115 vibecoin\
-\- 3 quest points\
-\- 230 vibe exp
 
 ## Carrot Plantation
 
 &#x20;Harvest way too many carrots
 
 **Objectives**\
-\- Harvest 3000 grown carrots\
+\- Harvest & replant 4000 grown carrots\
 \
 **Rewards**\
-\- 385 vibecoin\
-\- 6 quest points\
+\- 335 vibecoin\
+\- 5 quest points\
 \- 345 vibe exp
+
+## SUGAR RUSH!
+
+**Objectives**\
+\- Harvest 4000 sugar cane\
+\
+**Rewards**\
+\- 135 vibecoin\
+\- 3 quest points\
+\- 230 vibe exp
+
+## Melon Farming
+
+**Objectives**\
+\- Harvest 1000 grown melons\
+\
+**Rewards**\
+\- 85 vibecoin\
+\- 2 quest points\
+\- 115 vibe exp
+
+## Bamboo Farming
+
+**Objectives**\
+\- Harvest 8500 Bamboo\
+\
+**Rewards**\
+\- 115 vibecoin\
+\- 3 quest points\
+\- 115 vibe exp
+
+## Glow berry Picking
+
+**Objectives**\
+\- Harvest 250 glowberries\
+\
+**Rewards**\
+\- 75 vibecoin\
+\- 2 quest points\
+\- 115 vibe exp
+
+## This is (s)wheat
+
+**Objectives**\
+\- Harvest & replant 2000 wheat\
+\
+**Rewards**\
+\- 150 vibecoin\
+\- 4 quest points\
+\- 230 vibe exp
 
 </details>
 
