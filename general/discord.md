@@ -1,5 +1,18 @@
-# Community Discord
-The Official Community Discord is a place to have conversations with other people and a place to see Announcements and Updates aswell as Joining Giveaways that usually have rewards like Free Booster Points, Free VIP and such more.
+# Discord
 
-# Discord Leveling
-The Community Discord has a Leveling System that increases per message. Users can check their level by typing ".r" in the **`#disc-level-check`** Channel.
+Our Discord server helps keep the community connected. By joining, you'll unlock access to tons of dedicated channels where you can connect with other members, share screenshots and projects, make suggestions, get the latest server announcements, and so much more!
+
+> [**Join the Discord server here**](https://discord.gg/7rKgmygxrE)
+
+### Linking
+
+In order to access our full collection of Discord channels and chat with the community, you'll need to connect your Minecraft and Discord accounts in Vibe.
+
+Linking helps keep everybody safe and recognizable within the community, and lets us automagically sync and manage roles, display name, and other info.
+
+**Steps to link accounts**
+
+1. Ensure you're online vibe in MC!
+2. Join the Discord using the invite link above
+3. Send your Minecraft username in #link-with-mc in Discord
+4. Run the /dclink command Skye DMs you in-game on vibe
