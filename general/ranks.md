@@ -87,8 +87,10 @@ Vibe features six VIP tier ranks with an increasing amount of non pay to win exc
 * **Creative plot limit 8 > 10**
 * **+.05** survival[ utility fly](../survival/tweak-list/utility-flight.md) speed
 * Custom colors for [nametag decorations](profile-and-customization/nametag-decorations.md)
+* **`/glow`** _Colored Outline_
 * **`/fly`** _Free_ [_utility fly_](../survival/tweak-list/utility-flight.md)_, no xp cost_\
-  &#xNAN;**`/nightvision`**_Infinite night vision_\
+* &#xNAN;**`/nightvision`**_Infinite night vision_
+* **`/glow`** _Colored Outline_\
   \
   [Command descriptions](commands.md#vip-exclusive)
 
@@ -121,7 +123,8 @@ Vibe features six VIP tier ranks with an increasing amount of non pay to win exc
 * [Creative plot](../creative-plots/creative-plots.md) limit **13 > 16**
 * **+.15** survival [utility fly](../survival/tweak-list/utility-flight.md) speed
 * **10%** less [vibecoin respawn fee](../survival/economy.md)
-* **`/enderchest`** _Open your enderchest anywhere_\
+* **`/enderchest`** _Open your enderchest anywhere_
+* **`/pp`** _Manage your [Particle Packs](general/profile-and-customization/vibe-particle-pack.md)_\
   \
   [Command descriptions](commands.md#vip-exclusive)
 
