@@ -124,7 +124,7 @@ Vibe features six VIP tier ranks with an increasing amount of non pay to win exc
 * **+.15** survival [utility fly](../survival/tweak-list/utility-flight.md) speed
 * **10%** less [vibecoin respawn fee](../survival/economy.md)
 * **`/enderchest`** _Open your enderchest anywhere_
-* **`/pp`** _Custom [Particle Packs](general/profile-and-customization/vibe-particle-pack.md)_\
+* **`/pp`** _Manage your [Particle Packs](general/profile-and-customization/vibe-particle-pack.md)_\
   \
   [Command descriptions](commands.md#vip-exclusive)
 
