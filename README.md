@@ -11,7 +11,7 @@ coverY: 0
 {% hint style="success" %}
 **This site provides up-to-date information regarding the server and its features.**
 
-If you have any questions, concerns, or would like to see something added, please don't hesitate to reach out to a member of our staff team, or even contribute your own content/edits! :)
+If you have any questions, concerns, or would like to see something added, please don't hesitate to reach out to a member of our staff team, or even [contribute your own content/edits](contributing-to-the-wiki.md)! :)
 {% endhint %}
 
 ### Quick links
