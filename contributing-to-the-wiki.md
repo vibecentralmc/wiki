@@ -26,6 +26,10 @@ Your created fork of the wiki will live at _https://github.com/**`yourname`**/wi
 
 Even for multiple contributions over time, you'll always use the same fork. GitHub provides options (as outlined below) to sync your fork with the latest updates from the main repository as needed.
 
+If you enjoy extra organization, you can leave your base fork free of edits and create a new branch to work in instead. Branches are essentially forks of your fork, and allow you to have separate working copies of the wiki for each of your pull requests. You can create and swap branches by using the dropdown in the top left, by default titled "main".
+
+But, if you don't mind always building off the same working copy, or prefer a simpler experience, it's totally fine to not worry about branches and leave everything as is!
+
 <figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can ensure you're on your fork by looking at the top - note how it says "forked from vibecentralmc/wiki".
@@ -126,8 +130,6 @@ When you're ready to submit your changes to the official wiki live at [https://w
 <figure><img src=".gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src=".gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
 On the pull request page, just add a title and write a description of your changes, then hit "Create pull request". None of the options at the top need to be adjusted :)&#x20;
 
