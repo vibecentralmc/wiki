@@ -1,11 +1,5 @@
 # Discord
+The Official Community Discord is a place to have conversations with other people and a place to see Announcements and Updates aswell as Joining Giveaways that usually have rewards like Free Booster Points, Free VIP and such more.
 
-{% hint style="warning" %}
-This page is a work in progress and is not completed. If you'd like to contribute, feel free to reach out with your content in a ticket on our [**Discord**](discord.md)!\
-\
-**Needed content:**\
-\* General summary\
-\* Discord leveling
-{% endhint %}
-
-### [https://site.vibecentral.xyz/dc](https://site.vibecentral.xyz/dc)
+#Discord Leveling
+The Community Discord has a Leveling System that increases per message. Users can check their level by typing ".r" in the #disc-level-check Channel.
