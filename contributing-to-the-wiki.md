@@ -1,6 +1,6 @@
 # Contributing to the Wiki
 
-We're always looking for contributors to help get the wiki updated and in tip top shape. As of 7/1/25, if you've found something missing, outdated or incorrect, you can help us improve the Wiki by editing it directly on GitHub! This page explains how to get started and make your first contribution.
+We're always looking for contributors to help get the wiki updated and in tip top shape. As of 7/10/25, if you've found something missing, outdated or incorrect, you can help us improve the Wiki by editing it directly on GitHub! This page explains how to get started and make your first contribution.
 
 {% hint style="success" %}
 **This guide assumes you have little to no experience with GitHub**
