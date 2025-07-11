@@ -19,6 +19,7 @@
   * [Chat games](general/rich-chat/chat-games.md)
   * [Smileys](general/rich-chat/smileys.md)
 * [Discord](general/discord.md)
+* [Contributing to the Wiki](general/contributing-to-the-wiki.md)
 * [Misc.](general/misc./README.md)
   * [Skye](general/misc./skye.md)
   * [Voting](general/misc./voting.md)
@@ -28,14 +29,11 @@
   * [PvP arena](general/misc./pvp-arena.md)
   * [Staff application info](general/misc./staff-application-info.md)
 
-***
-
-* [Contributing to the Wiki](contributing-to-the-wiki.md)
-
 ## 🌴 survival
 
 * [SMP Survival - S8](survival/smp-survival-s8/README.md)
   * [Season information](survival/smp-survival-s8/season-information.md)
+  * [Dimension Details & Reset Schedule](survival/smp-survival-s8/dimension-details-and-reset-schedule.md)
 * [Tweak list](survival/tweak-list/README.md)
   * [Tree feller](survival/tweak-list/tree-feller.md)
   * [Vein miner](survival/tweak-list/vein-miner.md)
