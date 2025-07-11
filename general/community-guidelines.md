@@ -217,7 +217,7 @@ _Last updated 3/25/25_
    1. **This includes but is not limited to:**
       1. Joining on an alternate account after being restricted or punished, with intent to use restricted features on it.
       2. Using signs, books, or other methods to speak while muted.
-6. **Playing or joining on multiple Minecraft accounts dis not allowed without explicit staff permission.**
+6. **Playing or joining on multiple Minecraft accounts is not allowed without explicit staff permission.**
    1. Multiple accounts that join under the same address are subject to investigation by staff to ensure fair use.
    2. There are limited allowed uses for alt accounts. If you do not have staffs explicit permission to join and use an alt account for your specific purpose, it may be assumed you are using it for malicious purposes and punishments or restrictions will be applied to all associated accounts.
       1. Using alts in any way to unfairly benefit yourself, such as storing money or combining rewards is disallowed.
