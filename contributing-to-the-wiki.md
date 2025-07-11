@@ -115,6 +115,10 @@ More paragraph content, oh look a list!
 * Bullet point item 2
 ```
 
+{% hint style="warning" %}
+If you create a new page, it has to be added to the `SUMMARY.md` file!
+{% endhint %}
+
 ## Step 4 - Submit your contributions to be merged into the live Wiki
 
 When you're ready to submit your changes to the official wiki live at [https://wiki.vibecentral.xyz](https://wiki.vibecentral.xyz/), head back to your fork's main page at _https://github.com/**`yourname`**/wiki_ and click the "Contribute" button, then "Open Pull Request"&#x20;
