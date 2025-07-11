@@ -28,6 +28,7 @@
 * **`/cglb`** See the [chat games](rich-chat/chat-games.md) leaderboard & your stats
 * **`/rules`** Shows our [community guidelines](community-guidelines.md) link
 * **`/pmute <username>`** Temporarily silence messages from another player. Their messages will still appear in chat, but will be censored. To see the message content, hover over it with your mouse.
+* **`/firstjoin <username>`** Lets you see your or anyone else onlines exact join season, date and time down to the millisecond
 
 ## Fun & cosmetic commands
 
