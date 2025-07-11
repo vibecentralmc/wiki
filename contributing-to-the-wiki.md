@@ -88,9 +88,9 @@ You can continue editing files like this and creating commits in your repository
 To create a new wiki page or section, navigate to the section where you'd like it to be, (ex. in the "survival" folder/section) and use the "Add file" button at the top right. Remember to name pages with the ".md" file extension!
 
 {% hint style="success" %}
-**Copy and paste the new wiki page template below to get a solid base to work from for adding new pages.**
+Copy and paste the new wiki page template below to get a solid base to work from for adding new pages.
 
-**All pages should follow this basic starting format, including the page title, description, and section headings with subheadings with respective empty lines.**
+All pages should follow this basic starting format, including the page title, description, and section headings with subheadings with respective empty lines.
 {% endhint %}
 
 ```markup
@@ -104,9 +104,11 @@ Section content
 
 ### Section subheading
 
+Subheading content
+
 ## Another Section Heading
 
-Section content, with a list!
+More paragraph content, oh look a list!
 * Bullet point item 1
 * Bullet point item 2
 ```
