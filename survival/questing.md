@@ -1,11 +1,5 @@
 # Questing
 
-{% hint style="warning" %}
-**Outdated page**
-
-Some of the information and content on this page is outdated. Updates are pending!
-{% endhint %}
-
 We have tons of custom-made quests in various categories you can do for fun or a challenge. If you ever don't know what to do, quests are a great way to keep occupied!
 
 Each quest can be completely once every 7 days.
@@ -13,10 +7,10 @@ Each quest can be completely once every 7 days.
 ### Commands
 
 **`/q`**\
-**`/quest`**\
-**`/quests`**
+&#xNAN;**`/quest`**\
+&#xNAN;**`/quests`**
 
-<div align="left"><img src="../.gitbook/assets/quest.png" alt=""></div>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Ⓠ Quest points
 
@@ -28,89 +22,149 @@ Quest points are obtained by doing quests, and contribute to your ranking in the
 
 <summary>Farming</summary>
 
-## Potato Plantation
+### Beet That!
 
-This quest is sponsored by wingwom\
-\
 **Objectives**\
-\- Harvest 200 potatos\
+\- Harvest & replant 1000 beetroots\
 \
 **Rewards**\
-\- 130 vibecoin\
+\- 115 vibecoin\
 \- 4 quest points\
 \- 230 vibe exp
 
-## This is (s)wheat
+### Potato Plantation
 
+_This quest is sponsored by wingwom™_\
+\
 **Objectives**\
-\- Harvest 200 wheat\
+\- Harvest & replant 2000 potatoes\
 \
 **Rewards**\
-\- 185 vibecoin\
+\- 150 vibecoin\
 \- 4 quest points\
 \- 230 vibe exp
 
-## Papers, please!
+### Cocoa Farming
 
 **Objectives**\
-\- Harvest 200 sugar cane\
+\- Harvest & replant 350 grown cocoa beans\
+\
+**Rewards**\
+\- 85 vibecoin\
+\- 2 quest points\
+\- 115 vibe exp
+
+### Papers, please!
+
+**Objectives**\
+\- Harvest 1500 sugar cane\
+\
+**Rewards**\
+\- 55 vibecoin\
+\- 2 quest points\
+\- 115 vibe exp
+
+### Berry Crazy
+
+**Objectives**\
+\- Harvest 350 sweet berries\
 \
 **Rewards**\
 \- 65 vibecoin\
 \- 2 quest points\
 \- 115 vibe exp
 
-## Shear Crazy
+### Pumpkin Farming
 
 **Objectives**\
-Shear 50 different sheep\
+\- Harvest 1000 grown pumpkins\
 \
 **Rewards**\
-\- 65 vibecoin\
+\- 85 vibecoin\
+\- 2 quest points\
+\- 230 vibe exp
+
+### Nether Wart Farming
+
+**Objectives**\
+\- Harvest & replant 500 nether warts\
+\
+**Rewards**\
+\- 75 vibecoin\
 \- 3 quest points\
 \- 115 vibe exp
 
-## Cocoa Farm
+### Prickle Patch Prowl
 
 **Objectives**\
-\- Harvest 150 grown cocoa beans\
+\- Harvest 400 cactus blocks\
 \
 **Rewards**\
-\- 100 vibecoin\
+\- 75 vibecoin\
 \- 2 quest points\
 \- 115 vibe exp
 
-## Pumpkin Farm
+### Carrot Plantation
+
+Harvest way too many carrots
 
 **Objectives**\
-\- Harvest 250 grown pumpkins\
+\- Harvest & replant 4000 grown carrots\
 \
 **Rewards**\
-\- 115 vibecoin\
-\- 3 quest points\
-\- 230 vibe exp
-
-## Melon Farm
-
-**Objectives**\
-\- Harvest 250 grown melons\
-\
-**Rewards**\
-\- 115 vibecoin\
-\- 3 quest points\
-\- 230 vibe exp
-
-## Carrot Plantation
-
-&#x20;Harvest way too many carrots
-
-**Objectives**\
-\- Harvest 3000 grown carrots\
-\
-**Rewards**\
-\- 385 vibecoin\
-\- 6 quest points\
+\- 335 vibecoin\
+\- 5 quest points\
 \- 345 vibe exp
+
+### SUGAR RUSH!
+
+**Objectives**\
+\- Harvest 4000 sugar cane\
+\
+**Rewards**\
+\- 135 vibecoin\
+\- 3 quest points\
+\- 230 vibe exp
+
+### Melon Farming
+
+**Objectives**\
+\- Harvest 1000 grown melons\
+\
+**Rewards**\
+\- 85 vibecoin\
+\- 2 quest points\
+\- 115 vibe exp
+
+### Bamboo Farming
+
+**Objectives**\
+\- Harvest 8500 Bamboo\
+\
+**Rewards**\
+\- 115 vibecoin\
+\- 3 quest points\
+\- 115 vibe exp
+
+### Glow berry Picking
+
+**Objectives**\
+\- Harvest 250 glowberries\
+\
+**Rewards**\
+\- 75 vibecoin\
+\- 2 quest points\
+\- 115 vibe exp
+
+### This is (s)wheat
+
+**Objectives**\
+\- Harvest & replant 2000 wheat\
+\
+**Rewards**\
+\- 150 vibecoin\
+\- 4 quest points\
+\- 230 vibe exp
 
 </details>
 
@@ -118,45 +172,25 @@ Shear 50 different sheep\
 
 <summary>Mining</summary>
 
-## Quick Trip
+### Copper Collect
 
-Go on a quick trip into a cave!\
-Regular ores only, deepslate is not accepted\
+_TIP: Sell to /warp servershop for vc_\
+&#xNAN;_&#x54;IP: Use the mining /booster_\
 \
 **Time Limit**\
-20 minutes\
+1 hour\
 \
 **Objectives**\
-\- Mine 250 stone\
-\- Mine 64 coal ore\
-\- Mine 64 iron ore\
+\- Mine 500 Copper Ore\
 \
 **Rewards**\
-\- 65 vibecoin\
-\- 1 quest point\
+\- 115 vibecoin\
+\- 4 quest point\
 \- 115 vibe exp
 
-## Deep into hell
+### Diamond Depths
 
-Head into the nether and mine some of its greatest treasures!\
-Recommended to mine at Y-13 using a blast mining method!\
-\
-**Time Limit**\
-2 hours\
-\
-**Objectives**\
-\- Mine 192 nether gold ore\
-\- Mine 192 nether quartz ore\
-\- Mine 32 ancient debris\
-\
-**Rewards**\
-\- 425 vibecoin\
-\- 6 quest points\
-\- 500 vibe exp
-
-## Diamond Depths
-
-Venture deep into the world and mine the valuable gems\
+_Venture deep into the world and mine the valuable gems_\
 \
 **Time Limit**\
 1 hour 15 minutes\
@@ -171,68 +205,111 @@ Venture deep into the world and mine the valuable gems\
 \
 **Rewards**\
 \- 215 vibecoin\
-\- 4 quest points\
+\- 6 quest points\
 \- 245 vibe exp
 
-## Gold Rush
+### Grayrock Gala
 
-Gather nether gold ore quick and earn lots\
-Elytra with rockets recommended!\
-\
-**Time Limit**\
-15 minutes\
+_Andesite caves biome reccomended!_\
+&#xNAN;_&#x54;IP: Sell the andesite to /warp servershop for vc_\
+&#xNAN;_&#x54;IP: Use the mining /booster_\
 \
 **Objectives**\
-\- Mine 215 nether gold ore\
+\- Mine 2000 andesite\
 \
 **Rewards**\
-\- 185 vibecoin\
+\- 125 vibecoin\
 \- 4 quest points\
 \- 230 vibe exp
+
+### Geode Hunting
+
+_Find and mine a medium to large sized geode_\
+\
+**Objectives**\
+\- Mine 280 amethyst blocks\
+\- Mine 6 fully grown amethyst clusters\
+\
+**Rewards**\
+\- 115 vibecoin\
+\- 4 quest point\
+\- 115 vibe exp
+
+### Quick Trip
+
+_Regular ores only, deepslate is not accepted!_\
+\
+**Time Limit**\
+45 minutes\
+\
+**Objectives**\
+\- Mine 250 stone\
+\- Mine 64 coal ore & 64 iron ore\
+\
+**Rewards**\
+\- 115 vibecoin\
+\- 2 quest point\
+\- 115 vibe exp
+
+### Deep into hell
+
+_Head into the nether and mine some of its greatest treasures!_\
+&#xNAN;_&#x52;ecommended to mine at Y 13 using a blast mining method!_\
+\
+**Time Limit**\
+2 hours\
+\
+**Objectives**\
+\- Mine 192 nether gold ore\
+\- Mine 192 nether quartz ore\
+\- Mine 32 ancient debris\
+\
+**Rewards**\
+\- 315 vibecoin\
+\- 6 quest points\
+\- 345 vibe exp
 
 </details>
 
 <details>
 
-<summary>Environmental</summary>
+<summary>Nature and Wildlife</summary>
 
-## Lawn Mower Simulator
+### Flower Picking: Plains
 
-Geez... the grass is looking a little overgrown. Could you help tidy up some land?\
-Made to be completed in a plains biome!\
+_Stroll about the plains and collect some pretty flowers. Maybe gift them to a friend?_\
+&#xNAN;_&#x4D;ust be completed in a plains biome!_\
 \
 **Time Limit**\
-10 minutes\
+45 minutes\
 \
 **Objectives**\
-\- Mow 1000 grass\
-\
-**Rewards**\
-\- 45 vibecoin\
-\- 1 quest point\
-\- 115 vibe exp
-
-## Flower Picking: Plains
-
-Stroll about the plains and collect some pretty flowers. Maybe gift them to a friend?\
-Must be completed in a plains biome!\
-\
-**Time Limit**\
-30 minutes\
-\
-**Objectives**\
-\- Collect 20 cornflowers\
+\- Collect 35 cornflowers\
 \- Collect 20 oxeye daisies\
-\- Collect 20 azure bluets\
-\- Collect 20 dandelions\
+\- Collect 35 dandelions\
 \- Collect 20 poppies\
 \
 **Rewards**\
 \- 65 vibecoin\
+\- 2 quest points\
+\- 115 vibe exp
+
+### Dead Bush Cleanup
+
+_Must be completed in a desert!_\
+\
+**Time limit**\
+10 minutes\
+\
+**Objectives**\
+\- Remove 200 dead bushes\
+\
+**Rewards**\
+\- 75 vibecoin\
 \- 3 quest points\
 \- 115 vibe exp
 
-## Flower Picking: Oak Forest
+### Flower Picking: Oak Forest
 
 Stroll about an oak forest and collect some pretty flowers. Maybe gift them to a friend?\
 Must be completed in an oak forest!\
@@ -241,71 +318,40 @@ Must be completed in an oak forest!\
 30 minutes\
 \
 **Objectives**\
-\- Collect 20 lilacs\
-\- Collect 20 peonies\
-\- Collect 20 rose bushes\
-\- Collect 20 poppies\
-\- Collect 20 dandelions\
+\- Collect 35 lilacs\
+\- Collect 35 peonies\
+\- Collect 25 rose bushes\
+\- Collect 40 lily of the valley\
+\- Collect 3 dandelions\
 \
 **Rewards**\
-\- 65 vibecoin\
+\- 100 vibecoin\
 \- 3 quest points\
 \- 115 vibe exp
 
-## Good boys!
+### Did you shear that?
 
-There's quite a bit of stray dogs on the server... why not go tame them and give them a safe and loving home? :)\
-\
-Objectives\
-\- Tame 5 wolves\
-\
-Rewards\
-\- 85 vibecoin\
-\- 3 quest points\
-\- 230 vibe exp
-
-## Honey... ?
-
-Bees. These bad boys produce food for us! They're the only insects that are able to do this. Another fact? Bees will vibrate to warm up their hives when it gets cold! Bees!!\
-\
 **Objectives**\
-\- Harvest honeycombs 20 times\
-\- Harvest 20 honey bottles\
-\- Breed 8 bees\
+\- Shear 50 different sheep\
 \
 **Rewards**\
-\- 165 vibecoin\
-\- 4 quest points\
-\- 230 vibe exp
-
-## Dead Bush Cleanup
-
-Must be completed in a desert!\
-\
-**Time limit**\
-10 minutes\
-\
-**Objectives**\
-\- Remove 225 dead bushes\
-\
-**Rewards**\
-\- 50 vibecoin\
+\- 125 vibecoin\
 \- 2 quest points\
 \- 115 vibe exp
 
-## Snow Blower Simulator
+### Lawn Mower Simulator
 
-Made to be completed in a snowy biome!\
+_Made to be completed in a plains biome!_\
 \
 **Time Limit**\
-5 minutes\
+15 minutes\
 \
 **Objectives**\
-\- Plow 1000 snow\
+\- Mow 1500 grass\
 \
 **Rewards**\
-\- 65 vibecoin\
-\- 1 quest point\
+\- 55 vibecoin\
+\- 2 quest points\
 \- 115 vibe exp
 
 </details>
@@ -314,9 +360,8 @@ Made to be completed in a snowy biome!\
 
 <summary>Mob Hunting</summary>
 
-## Sniper vs Sniper
+### Bone Voyage!
 
-Dual skeletons to the death using a bow!\
 Recommended to use /resnight\
 \
 **Time Limit**\
@@ -326,11 +371,40 @@ Recommended to use /resnight\
 \- Kill 50 skeletons with a bow\
 \
 **Rewards**\
-\- 175 vibecoin\
-\- 4 quest points\
+\- 135 vibecoin\
+\- 3 quest points\
 \- 230 vibe exp
 
-## Sonic Boom!
+### Guardian's Abyss
+
+**Time limit**\
+15 minutes\
+\
+**Objectives**\
+\- Kill 15 guardians\
+\- Kill 1 elder guardian\
+\
+**Rewards**\
+\- 85 vibecoin\
+\- 3 quest point\
+\- 230 vibe exp
+
+### Sniper Duels
+
+Minecraft achievement, but harder.\
+\
+**Time limit**\
+15 minutes\
+\
+**Objectives**\
+\- Shoot and kill 10 skeletons 25+ blocks away using a bow\
+\
+**Rewards**\
+\- 100 vibecoin\
+\- 4 quest point\
+\- 245 vibe exp
+
+### Sonic Boom!
 
 How are these guys so fast?\
 \
@@ -341,48 +415,43 @@ How are these guys so fast?\
 \- Kill 25 creepers\
 \
 **Rewards**\
-\- 50 vibecoin\
+\- 40 vibecoin\
 \- 1 quest point\
 \- 115 vibe exp
 
-## Sniper Duels
+### Evoker Eviction
 
-Minecraft achievement, but harder.\
-\
-**Time Limit**\
-8 minutes\
-\
 **Objectives**\
-\- Shoot and kill 5 skeletons 25+ blocks away using a bow\
+\- Kill 10 Evokers\
 \
 **Rewards**\
-\- 100 vibecoin\
-\- 4 quest points\
-\- 245 vibe exp
-
-## So the Feast Begins
-
-**Time Limit**\
-1 hour\
-\
-**Objectives**\
-\- Hunt 10 cows\
-\- Hunt 10 sheep\
-\- Hunt 10 pigs\
-\- Cook 10 steak\
-\- Cook 10 mutton\
-\- Cook 10 porkchops\
-\- Display one of each on item frames\
-\
-**Rewards**\
-\- 135 vibecoin\
-\- 4 quest points\
+\- 75 vibecoin\
+\- 3 quest point\
 \- 230 vibe exp
 
-## Undead Management
+### Wither's End
 
-Traverse the world and hunt down the undead plaguing the community.\
-Recommended to use /resnight and start at night\
+**Objectives**\
+\- Kill a Wither\
+\
+**Rewards**\
+\- 75 vibecoin\
+\- 1 quest point\
+\- 115 vibe exp
+
+### Ender Enigma
+
+**Objectives**\
+\- Kill 100 endermen\
+\
+**Rewards**\
+\- 75 vibecoin\
+\- 2 quest point\
+\- 115 vibe exp
+
+### Undead Management
+
+Traverse the world and hunt down the undead mobs plauging the world. Recommended to use /resnight and start at night!\
 \
 **Time Limit**\
 1 hour\
@@ -391,18 +460,26 @@ Recommended to use /resnight and start at night\
 \- Kill 50 zombies\
 \- Kill 50 skeletons\
 \- Kill 50 spiders\
-\- Traverse at least 2000 blocks\
+\- Traverse at least 2000 blocks on foot\
 \
 **Rewards**\
 \- 165 vibecoin\
 \- 4 quest points\
-\- 345 vibe exp
+\- 230 vibe exp
 
-## Undead Management 2
+### Inferno Fury
 
-Teleport commands will be disabled!\
-Traverse the world and hunt down the undead plaguing the community.\
-Recommended to use /resnight and start at night\
+**Objectives**\
+\- Kill 50 blazes\
+\
+**Rewards**\
+\- 55 vibecoin\
+\- 2 quest point\
+\- 115 vibe exp
+
+### Undead Management 2
+
+Traverse the world and hunt down the undead plaguing the community. Recommended to use /resnight and start at night\
 \
 **Time Limit**\
 1 hour 30 minutes\
@@ -412,35 +489,12 @@ Recommended to use /resnight and start at night\
 \- Kill 55 skeletons\
 \- Kill 55 spiders\
 \- Kill 55 creepers\
-\- Traverse at least 3500 blocks\
+\- Traverse at least 3500 blocks on foot\
 \
 **Rewards**\
 \- 255 vibecoin\
 \- 5 quest points\
-\- 435 vibe exp
-
-</details>
-
-<details>
-
-<summary>Brewing &#x26; Wizardry</summary>
-
-**What's brewin' good lookin'?**\
-Potions must be upgraded with glowstone!\
-\
-**Time Limit**\
-1 hour\
-\
-**Objectives**\
-\- Brew 3 swiftness potions\
-\- Brew 3 jump boost potions\
-\- Brew 3 strength potions\
-\- Brew 3 regeneration potions\
-\
-**Rewards**\
-\- 145 vibecoin\
-\- 4 quest points\
-\- 230 vibe exp
+\- 345 vibe exp
 
 </details>
 
@@ -448,7 +502,7 @@ Potions must be upgraded with glowstone!\
 
 <summary>Fishing</summary>
 
-## Caught on a line
+### Caught on a line
 
 Go out into the waters and catch some fish!\
 Tip: Use luck of the sea & lure for faster completion!\
@@ -459,129 +513,114 @@ Tip: Use luck of the sea & lure for faster completion!\
 \- Catch 1 pufferfish\
 \
 **Rewards**\
-\- 125 vibecoin\
-\- 3 quest points\
+\- 55 vibecoin\
+\- 2 quest points\
 \- 115 vibe exp
 
-## 0.8% chance
+### Void Fishing
 
-Reel in the rarest fishing loot- a nametag!\
-Tip: Use luck of the sea & lure for faster completion!\
+They shimmer oddly and make no ripples\
+You probably shouldn't eat them\
+Must be completed in the end!\
 \
 Objectives\
-\- Reel in a nametag\
+\- Catch 10 cod in the End\
+\- Catch 6 salmon in the End\
 \
 Rewards\
-\- 150 vibecoin\
-\- 4 quest points\
+\- 75 vibecoin\
+\- 3 quest points\
 \- 230 vibe exp
 
-## Fisherman's delight
+### Fisherman's delight
 
 A lovely haul from the sea\
 Tip: Use luck of the sea & lure for faster completion!\
 \
 Objectives\
-\- Catch 16 cod\
-\- Catch 8 salmon\
-\- Catch 4 pufferfish\
+\- Catch 30 cod\
+\- Catch 15 salmon\
+\- Catch 6 pufferfish\
+\- Catch 1 tropical fish\
 \
 Rewards\
-\- 145 vibecoin\
+\- 135 vibecoin\
 \- 4 quest points\
 \- 230 vibe exp
 
-## Finding Nemo
+### Rodception!
+
+Objectives\
+\- Reel in another Fishing Rod\
+\
+Rewards\
+\- 115 Vibecoin\
+\- 4 quest points\
+\- 230 vibe exp
+
+### Finding Nemo
 
 ;o;\
 Tip: Use luck of the sea & lure for faster completion!\
 \
-**Objectives**\
-\- Catch nemo (tropical fish)\
+Objectives\
+\- Reel in 1 tropical fish (AKA Nemo)\
 \
-**Rewards**\
-\- 85 vibecoin\
-\- 4 quest points\
-\- 230 vibe exp
-
-</details>
-
-<details>
-
-<summary>Cooking &#x26; Eating</summary>
-
-## To Open a Bakery
-
-Seems there's a little baker somewhere in the market!\
-Really? Who?\
-You!!\
-\
-**Time Limit**\
-30 minutes\
-\
-**Objectives**\
-\- Harvest 109 wheat, 3 eggs, 6 sugar cane, and 2 cocoa beans\
-\- Craft 32 bread, 3 cakes, and 16 cookies\
-\
-**Rewards**\
-\- 165 vibecoin\
-\- 3 quest points\
-\- 230 vibe exp
-
-## Cookie Mayhem
-
-It's cookie time.\
-\
-**Time Limit**\
-30 minutes\
-\
-**Objectives**\
-\- Harvest 12 cocoa beans\
-\- Harvest 64 wheat\
-\- Craft 4 stacks of cookies\
-\
-**Rewards**\
-\- 65 vibecoin\
+Rewards\
+\- 45 vibecoin\
 \- 2 quest points\
 \- 115 vibe exp
 
-## Old fashioned ice cream
+### Midnight Reel
 
-Get the job halfway done!\
-Must be completed in a snowy biome!\
+Cool air, quiet sea, calm mind.\
+Night is the fisher's friend.\
+/resnight is reccomended!\
 \
-**Time Limit**\
-30 minutes\
+Objectives\
+\- Catch 16 cod at night\
+\- Catch 8 salmon at night\
+\- Catch 3 pufferfish at night\
 \
-**Objectives**\
-\- Milk 5 cows\
+Rewards\
+\- 95 vibecoin\
+\- 4 quest points\
+\- 230 vibe exp
+
+### Ocean Cleanup
+
+How is all this junk getting in the ocean?!\
 \
-**Rewards**\
-\- 55 vibecoin\
-\- 1 quest point\
+Objectives\
+\- Reel in 15 junk items\
+\
+Rewards\
+\- 135 vibecoin\
+\- 4 quest points\
+\- 230 vibe exp
+
+### Enchanted Catch
+
+Objectives\
+\- Reel in an Enchanted Book\
+\
+Rewards\
+\- 45 vibecoin\
+\- 2 quest points\
 \- 115 vibe exp
 
-</details>
+### 0.8% chance
 
-<details>
-
-<summary>Expert</summary>
-
-## Dragon Slayer
-
-Enter the end dimension and summon the Ender Dragon!\
+Reel in the rarest fishing loot- a nametag!\
+Tip: Use luck of the sea & lure for faster completion!\
 \
-**Time Limit**\
-5 minutes\
+Objectives\
+\- Reel in 1 nametag\
 \
-**Objectives**\
-\- Summon the Ender Dragon by placing 4 end crystals\
-\- Kill the Ender Dragon\
-\
-**Rewards**\
-\- 375 vibecoin\
-\- 8 quest points\
-\- 345 vibe exp
+Rewards\
+\- 135 vibecoin\
+\- 4 quest points\
+\- 230 vibe exp
 
 </details>
 
@@ -589,12 +628,12 @@ Enter the end dimension and summon the Ender Dragon!\
 
 <summary>Challenges &#x26; Misc.</summary>
 
-## Birds eye
+### Birds eye
 
-What a view.\
+Grab some rockets and shoot for the skies!\
 \
 **Time Limit**\
-5 minutes\
+15 minutes\
 \
 **Objectives**\
 \- Fly 5000m with an elytra\
@@ -604,228 +643,285 @@ What a view.\
 \- 4 quest points\
 \- 230 vibe exp
 
-## Via pig
-
-No car? No problem\
-\
-**Objectives**\
-\- Travel 850m on a pig\
-\
-**Rewards**\
-\- 85 vibecoin\
-\- 4 quest points\
-\- 230 vibe exp
-
-## snzzz
-
-**Objectives**\
-\- Sleep through the night 5 times\
-\
-**Rewards**\
-\- 100 vibecoin\
-\- 5 quest points\
-\- 230 vibe exp
-
 ### Extreme Free Falling
 
-&#x20;Teleport commands will be disabled!\
+Teleport commands will be disabled!\
 \
 **Objectives**\
 \- Cumulatively fall 1500m\
 \
 **Rewards**\
-\- 115 vibecoin\
-\- 5 quest points\
-\- 230 vibe exp
-
-## Business Legend
-
-**Objectives**\
-\- Make a trade with villagers 45 times\
-\
-**Rewards**\
-\- 85 vibecoin\
+\- 75 vibecoin\
 \- 3 quest points\
-\- 230 vibe exp
+\- 115 vibe exp
 
-## How far can this go?
+### Void Surfing
 
-&#x20;Travel 100 blocks on every vehicle!\
+Take a daring adventure on the line of the cosmic unknown.\
 \
 **Time Limit**\
-1 hour\
+10 minutes\
 \
 **Objectives**\
-\- 100m on a boat\
-\- 100m on a horse\
-\- 100m on a donkey\
-\- 100m on a mule\
-\- 100m on a minecart\
-\- 100m on a pig\
+\- Fly 4500m with an Elytra in The End between Y -60 to -100 right before void damage begins\
 \
 **Rewards**\
-\- 200 vibecoin\
-\- 5 quest points\
+\- 75 vibecoin\
+\- 3 quest points\
+\- 115 vibe exp
+
+### Starlight Stroll
+
+Explore on foot under the stars.\
+Watch out for hostiles!\
+/resnight is reccomended!\
+\
+**Objectives**\
+\- Travel 2100m on foot at night\
+\- Slay 6 Zombies, Creepers, and Spiders\
+\
+**Rewards**\
+\- 135 vibecoin\
+\- 4 quest points\
 \- 230 vibe exp
 
-## Across the ocean!
+### Across the ocean!
 
-Ever wonder how a fish feels? No? Okay, sorry.\
-Must be completed in any ocean biome!\
+Ever wonder how a fish feels?\
+No? Okay, sorry.\
 \
 **Time Limit**\
 15 minutes\
 \
 **Objectives**\
-\- Swim 3000 blocks\
-\
-**Rewards**\
-\- 85 vibecoin\
-\- 4 quest points\
-\- 230 vibe exp
-
-## need sammich FAST
-
-Gather ingredients and make a chicken sandwich\
-Prepare in advance!\
-\
-**Time Limit**\
-1 minute\
-\
-**Objectives**\
-\- Harvest 6 wheat\
-\- Make two bread\
-\- Hunt & cook a chicken\
+\- Swim 2500 blocks\
 \
 **Rewards**\
 \- 75 vibecoin\
-\- 4 quest points\
+\- 3 quest points\
 \- 115 vibe exp
 
-</details>
+### Extreme Jumping Jacks
 
-<details>
-
-<summary>Specialty Quests</summary>
-
-## Flowers for Kiiix!
-
-Collect kiiix's favorite flowers!\
-\
-**Time Limit**\
-\- 30 minutes\
-\
 **Objectives**\
-\- Collect 35 dandelions\
-\- Collect 35 lilacs\
+\- Jump 500 times\
 \
 **Rewards**\
-\- 50 vibecoin\
-\- 6 quest points\
+\- 135 vibecoin\
+\- 4 quest points\
 \- 230 vibe exp
 
-## Flowers for Olivifrog!
+### Setting Sail
 
-Collect olivifrog's favorite flowers!\
-\
-**Time Limit**\
-30 minutes\
+Nothing but you, the water, and the open sky.\
+Take a ride and enjoy the journey!\
 \
 **Objectives**\
-\- Collect 35 lily of the valleys\
-\- Collect 35 cornflowers\
+\- Boat 6000m\
 \
 **Rewards**\
-\- 50 vibecoin\
-\- 6 quest points\
+\- 125 vibecoin\
+\- 4 quest points\
 \- 230 vibe exp
 
 </details>
 
 <details>
 
-<summary>Daily</summary>
+<summary>Expert</summary>
 
-### Rewards
+### Warden Wipeout
 
-* 50 vibecoin
-* 5 quest points
-* 115 vibe experience
+**Time Limit**\
+35 minutes\
+\
+**Objectives**\
+\- Kill 10 Wardens\
+\
+**Rewards**\
+\- 215 vibecoin\
+\- 4 quest points\
+\- 230 vibe exp
 
-## Blacksmithery
+### Hero of the End
+
+Enter the end dimension and take out the Dragon!\
+\
+**Time Limit**\
+5 minutes\
+\
+**Objectives**\
+\- Summon the Ender Dragon by placing 4 end crystals on the portal sides\
+\- Slay the Ender Dragon\
+\
+**Rewards**\
+\- 215 vibecoin\
+\- 5 quest points\
+\- 230 vibe exp
+
+</details>
+
+<details>
+
+<summary>Resource Gathering<br><br>These quests can only exclusively be done in the <a href="resource-world.md">resource world</a>, and give a special additional reward of xp orb bottles</summary>
+
+### Spruce it up!
 
 **Objectives**\
-\- Repair 8 damaged tools
+\- Harvest 36 stacks of spruce logs \[\~25-200 trees]\
+\
+**Rewards**\
+\- 150 vibecoin\
+\- 4 quest points\
+\- 230 vibe exp\
+\- 64x xp orb bottles
 
-## Broken Pickaxe
-
-**Objectives**\
-\- Break 15 stone blocks with a stick
-
-## Is it hot in here?
-
-**Objectives**\
-\- Cumulatively burn for 2 minutes
-
-## Master Bargainer
+### Oak Overload
 
 **Objectives**\
-\- Make a trade with 3 different villagers
+\- Harvest 9 stacks of oak logs \[\~90 trees]\
+\
+**Rewards**\
+\- 115 vibecoin\
+\- 3 quest points\
+\- 115 vibe exp\
+\- 32x xp orb bottles
 
-## Enchanter
-
-**Objectives**\
-\- Enchant 15 books
-
-## Explore by foot
-
-**Objectives**\
-\- Walk/sprint 2,000 blocks
-
-## Free Falling
+### Dark Oak Dream
 
 **Objectives**\
-\- Cumulatively fall 500m
+\- Harvest 36 stacks of spruce logs \[\~45 trees]\
+\
+**Rewards**\
+\- 150 vibecoin\
+\- 4 quest points\
+\- 230 vibe exp\
+\- 64x xp orb bottles
 
-## BOING!
-
-**Objectives**\
-\- Jump 200 times
-
-## Skeleton Hunter
-
-**Objectives**\
-\- Kill 25 skeletons
-
-## Zombie Hunter
+### Gravel Grind
 
 **Objectives**\
-\- Kill 25 zombies
+\- Mine 1,000 gravel blocks\
+\
+**Rewards**\
+\- 125 vibecoin\
+\- 4 quest points\
+\- 230 vibe exp\
+\- 32x xp orb bottles
 
-## Spider Hunter
-
-**Objectives**\
-\- Spider 25 spiders\
-&#xNAN;_&#x54;his was initially a typo in the quest description, but we decided to keep it_
-
-## Skeleton Hunter
-
-**Objectives**\
-\- Kill 25 skeletons
-
-## Professional Cow Milker
+### Tropic Timber Trek
 
 **Objectives**\
-\- Milk cows 30 times
+\- Harvest 36 stacks of jungle logs \[\~25-200 trees]\
+\
+**Rewards**\
+\- 150 vibecoin\
+\- 4 quest points\
+\- 230 vibe exp\
+\- 64x xp orb bottles
 
-## Stone Miner
+### Icebreaker
 
 **Objectives**\
-\- Mine 450 stone
+\- Mine 1,500 ice blocks\
+\
+**Rewards**\
+\- 135 vibecoin\
+\- 4 quest points\
+\- 230 vibe exp\
+\- 64x xp orb bottles
 
-## A Good Nights Sleep
+### Soil Savior!
 
 **Objectives**\
-\- Sleep through a night
+\- Mine 5,000 dirt/grass blocks\
+\
+**Rewards**\
+\- 245 vibecoin\
+\- 5 quest points\
+\- 345 vibe exp\
+\- 128x xp orb bottles
+
+### Granular Grandeur
+
+**Objectives**\
+\- Mine 1,000 sand blocks\
+\
+**Rewards**\
+\- 125 vibecoin\
+\- 4 quest points\
+\- 230 vibe exp\
+\- 32x xp orb bottles
+
+### Moss Mayhem
+
+**Objectives**\
+\- Mine 850 moss blocks\
+\
+**Rewards**\
+\- 125 vibecoin\
+\- 4 quest points\
+\- 230 vibe exp\
+\- 32x xp orb bottles
+
+### Birch Bonanza
+
+**Objectives**\
+\- Harvest 9 stacks of birch logs \[\~70-100 trees]\
+\
+**Rewards**\
+\- 115 vibecoin\
+\- 3 quest points\
+\- 115 vibe exp\
+\- 32x xp orb bottles
+
+### Cherry Charmed
+
+**Objectives**\
+\- Harvest 4.5 stacks of cherry logs \[\~15 trees]\
+\
+**Rewards**\
+\- 55 vibecoin\
+\- 1 quest points\
+\- 115 vibe exp\
+\- 16x xp orb bottles
+
+### Mud Muddle Madness
+
+**Objectives**\
+\- Mine 1,000 mud blocks\
+\
+**Rewards**\
+\- 65 vibecoin\
+\- 2 quest points\
+\- 115 vibe exp\
+\- 32x xp orb bottles
+
+### Rock n Roll
+
+**Objectives**\
+\- Mine 3,500 stone blocks\
+\
+**Rewards**\
+\- 155 vibecoin\
+\- 5 quest points\
+\- 230 vibe exp\
+\- 128x xp orb bottles
+
+</details>
+
+<details>
+
+<summary>Cooking &#x26; Eating</summary>
+
+\- Coming Soon!
+
+</details>
+
+<details>
+
+<summary>Brewing &#x26; Wizardry</summary>
+
+\- Coming Soon!
 
 </details>

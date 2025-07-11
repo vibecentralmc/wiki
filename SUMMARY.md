@@ -76,6 +76,7 @@
   * [Persistent crop and flora growth](survival/tweak-list/persistent-crop-and-flora-growth.md)
   * [Crops drop XP](survival/tweak-list/crops-drop-xp.md)
   * [Mob rarities and mobdex](survival/tweak-list/mob-rarities-and-mobdex.md)
+  * [Elytra speed meter](survival/tweak-list/elytra-speed-meter.md)
 * [Random Teleporting (RTP)](survival/random-teleporting-rtp.md)
 * [Resource World](survival/resource-world.md)
 * [Economy](survival/economy.md)

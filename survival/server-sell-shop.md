@@ -1,8 +1,8 @@
 # Server Sell Shop
 
-Every SMP Season World comes with a servershop that's set up along with the player market in a nice landscape. Here u can sell many of the ressources you will end up with from farming, mining and ressource quests. This is one of the ways to earn [Vibecoins](survival/economy.md).
+Every SMP Season World comes with a servershop that's set up along with the player market in a nice landscape. Here you can sell many of the ressources you will end up with from farming, mining and ressource quests. This is one of the primary ways to earn [Vibecoin](survival/economy.md), the servers currency!
 
-It can be accessed via the ``/warp servershop`` command.
+It can be accessed via the ``/warp servershop`` command or directly by ``/warp market1``
 
 ## List of sellable items & blocks
 
@@ -78,5 +78,4 @@ It can be accessed via the ``/warp servershop`` command.
 | Diamond           | 24     | 48        |
 | Lapis Lazuli      | 64     | 12        |
 | Redstone          | 64     | 6         |
-
 
