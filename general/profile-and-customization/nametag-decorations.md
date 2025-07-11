@@ -1,4 +1,4 @@
-# Nametag Decorations
+# Nametag Decorations 
 
 Nametag decorations is another customization option available to all VIPs. Displayed next to the players name, these offer another fun way to personalize your profile!
 
