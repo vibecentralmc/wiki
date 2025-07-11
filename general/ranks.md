@@ -48,6 +48,7 @@ Vibe features six VIP tier ranks with an increasing amount of non pay to win exc
 * [Parkour course](broken-reference) limit **8 > 12**
 * [Parkour course](broken-reference) size limit **60x60 > 75x75**
 * Access to all [join messages](profile-and-customization/join-messages.md)
+* Access to all nametag decorations
 * Extra[ community tasks](../survival/community-tasks.md) slot for 2 concurrent listings
 * Access to VIP [Discord](discord.md) channels
 * Sparking diamond next to your name in our [Discord](discord.md)
