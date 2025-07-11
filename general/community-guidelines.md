@@ -1,7 +1,9 @@
 # Community guidelines
 
 {% hint style="success" %}
-We've laid out a comprehensive set of guidelines to keep our community a safe, respectful, and fun-filled space for everyone. By being a part of Vibe Central, whether it's on our Minecraft server, in our Discord, or any other connected platforms, you're agreeing to abide by these rules/guidelines and help uphold them.
+We've laid out a comprehensive set of guidelines to keep our community a safe, respectful, and fun-filled space for everyone. By being a part of Vibe Central, whether it's on our Minecraft server, in our Discord, or any other connected platforms, you're agreeing to abide by these rules/guidelines and help uphold them.\
+\
+By being a part of vibe, you also confirm that you are at least 13 years of age or older. While our rules outline largely PG-13 conduct, this community is not fully family friendly or suitable for younger folk.
 
 \
 Keep in mind, these guidelines are universally applicable within Vibe Central. They cover all forms of interaction and expression, including but not limited to public and private in-game chats, Discord discussions, text on signs, books, renamed in-game entities, and any other content you contribute to our shared space.\
@@ -33,7 +35,7 @@ This summary is meant to provide a swift overview of our rules. Though, we highl
 * Griefing, stealing, or otherwise modifying anyone's builds or land, even unclaimed, is not allowed unless you have explicit permission from the creator.
 * Community or personal waypoints can only be set on or nearby another's private land with the landowner's explicit permission. Setting community waypoints (warps) for personal purposes is not allowed.
 * Builds made by inactive owners may have their ownership transferred off to a requesting player with permission from the original owner or after a prolonged period of inactivity.
-* Very low effort builds may be demolished by staff without prior warning.&#x20;
+* Very low effort builds may be demolished by staff without prior warning.
 * Claims in shared spaces should be made mindfully. Claims may be resized by admins to be more reasonable, or removed all-together.
 * Do not create claims on land you do not intend to occupy and build in/nearby.
 * Be honest and transparent in all trades, scamming is prohibited.
@@ -53,12 +55,11 @@ This summary is meant to provide a swift overview of our rules. Though, we highl
 * Circumventing punishments or restrictions is prohibited.
 * Playing or joining on alt accounts is not allowed without explicit staff permission.
 * Always provide accurate and honest information when reporting to staff.
-* If you observe any potential rule violations, report them to staff.\
-
+* If you observe any potential rule violations, report them to staff.\\
 
 ## Full Rules
 
-_Last updated 3/25/25_
+_Last updated 7/11/25_
 
 ***
 
@@ -129,11 +130,11 @@ _Last updated 3/25/25_
       1. **If you're in our Discord we'll contact (and ping) you requesting permission to transfer your build. You can deny the transfer request and we will respect your decision. However, if we don't hear back in 3 days, we will proceed with the transfer.**
          1. **For members, the inactivity period required for a non-shop build to become eligible for transferring is 1 month minimum.**
          2. **For VIP players of any tier, the inactivity period for a non-shop build to become eligible for transferring is 2 months minimum.**
-         3. **For Benefactors or retired staff, all builds are non-transferrable despite inactivity.**&#x20;
+         3. **For Benefactors or retired staff, all builds are non-transferrable despite inactivity.**
          4. **Staff reserve the right to deny transfers for special cases as they see fit.**
          5. **Once a build is transferred, ownership of the land is also transferred.**
          6. **The inactivity period needed for shops to be transferred are different than other builds. See the Community Market Standards below for details.**
-   3. **Very low effort builds may be demolished by staff without prior warning.**&#x20;
+   3. **Very low effort builds may be demolished by staff without prior warning.**
    4. **Claims in shared spaces should be made mindfully. Claims may be resized by admins to be more reasonable, or removed all-together.**
    5. **Do not create claims on land you do not intend to occupy and build in/nearby.**
    6. **If you are on another player’s property, you must respect their space and abide by their requests to leave or refrain from certain actions within their space.**
@@ -144,7 +145,7 @@ _Last updated 3/25/25_
       1. Any land outside of shared spaces, such as towns or the market, and without a community waypoint (warp) set by the landowner, is considered private land.
       2. Setting a community or personal waypoint at or nearby somebody's private land without permission is considered intent to steal or grief and is treated as such.
       3. Land within towns, markets, or other shared areas is not considered private.
-         1. In this case, personal waypoints (sethomes) can be set closeby (but not directly at/in builds) without needing direct permission. For example, setting a personal waypoint (sethome) by your favorite market shop. However, community waypoints (warps) still cannot be set anywhere on another's non-private land without permission.&#x20;
+         1. In this case, personal waypoints (sethomes) can be set closeby (but not directly at/in builds) without needing direct permission. For example, setting a personal waypoint (sethome) by your favorite market shop. However, community waypoints (warps) still cannot be set anywhere on another's non-private land without permission.
       4. Saving or exposing the world coordinates or location of private land as a by any means, (ex. a client side waypoints mod) substitute for setting a waypoint is not allowed and is treated the same as setting an unauthorized personal/community waypoint.
       5. Entering or returning to somebody's private land at a later time (ex. after being teleported there) by any means is not allowed without their explicit permission.
    3. **Staff reserves the right to review or remove any waypoints as they see fit to uphold these rules. This may be done without prior warning or vcn refund (if its a warp).**
@@ -184,9 +185,8 @@ _Last updated 3/25/25_
 8. **Idling (AFKing)**
    1. **AFKing farming in moderation is okay, but should never require any form of auto clicking or auto movement.**
    2. **Cumulatively AFK farming longer than 12 hours within a 24 hour period is not allowed.**
-      1. Extended AFK periods past 12 hours are only allowed if not for the purpose of farming. &#x20;
-   3. **Note that the server restarts daily at 4:50 AM EST, but you will be auto-reconnected once the restart finishes.**\
-
+      1. Extended AFK periods past 12 hours are only allowed if not for the purpose of farming.
+   3. **Note that the server restarts daily at 4:50 AM EST, but you will be auto-reconnected once the restart finishes.**\\
 
 ***
 
@@ -208,7 +208,7 @@ _Last updated 3/25/25_
 4. **Allowed game modifications**
    1. Optimization mods like Sodium, Optifine, etc.
    2. Cosmetic or utility mods that don't offer any unfair advantages.
-      1. Full bright mods, and inventory sorting or Mouse Wheelie mods are an exception to this rule and are permitted.&#x20;
+      1. Full bright mods, and inventory sorting or Mouse Wheelie mods are an exception to this rule and are permitted.
    3. Custom HUDs that display fps, coordinates, biome, world time, clicks per second, armor, key clicks, or similar text/icon metrics.
    4. World maps and minimaps (cave finders are not permitted).
    5. Litematica for building assistance by previewing schematics (auto-building functions are not permitted).
