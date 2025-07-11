@@ -55,7 +55,7 @@ This summary is meant to provide a swift overview of our rules. Though, we highl
 * Circumventing punishments or restrictions is prohibited.
 * Playing or joining on alt accounts is not allowed without explicit staff permission.
 * Always provide accurate and honest information when reporting to staff.
-* If you observe any potential rule violations, report them to staff.\\
+* If you observe any potential rule violations, report them to staff.
 
 ## Full Rules
 
@@ -186,7 +186,7 @@ _Last updated 7/11/25_
    1. **AFKing farming in moderation is okay, but should never require any form of auto clicking or auto movement.**
    2. **Cumulatively AFK farming longer than 12 hours within a 24 hour period is not allowed.**
       1. Extended AFK periods past 12 hours are only allowed if not for the purpose of farming.
-   3. **Note that the server restarts daily at 4:50 AM EST, but you will be auto-reconnected once the restart finishes.**\\
+   3. **Note that the server restarts daily at 4:55 AM EST, but you will be auto-reconnected once the restart finishes.**
 
 ***
 
