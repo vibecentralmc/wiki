@@ -2,7 +2,7 @@
 
 Voting for vibe on PlanetMinecraft every 24 hours is an easy way for players to support the server and get rewards in the process!
 
-[**Vote here!**](https://app.gitbook.com/o/QrL2I2H43pkkT2rSsatX/s/h2I0nM0aUb15CQzQMTQS/)
+[**Vote here!**](https://www.planetminecraft.com/server/vibe-central/vote/)
 
 ### Rewards
 
