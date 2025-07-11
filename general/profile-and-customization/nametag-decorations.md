@@ -1,13 +1,13 @@
-# Nametag Decorations 
+# Nametag Decorations
 
-Nametag decorations is another customization option available to all VIPs. Displayed next to the players name, these offer another fun way to personalize your profile!
+Nametag decorations are another customization option available to all VIPs. Displayed next to your display name everywhere, including your nametag and in chat/server messages, these offer another fun way to personalize your profile!
 
 There are over **50** decorations to choose from, with more added occasionally. The decoration is displayed next to the player's name in chat, tab, and on their nametag.
 
-*image of menu and nametag here*
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Custom Colors
 
-Additionally, all VIPs Tier 3 or above are able to choose a color for their nametag. This replaces the default color, and the chosen color is applied in all places the decoration normally appears. With **12** colors to choose from, each player can find a nametag decoration just right for them.
+Additionally, all VIPs Tier 3 or above are able to customize the color of their nametag decoration beyond the default yellow color. With 12 colors to choose from, each player can find a nametag decoration just right for them.
 
-*image of color menu here*
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>

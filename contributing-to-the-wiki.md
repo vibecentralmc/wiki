@@ -14,7 +14,7 @@ First, head over to the GitHub website and [create an account or login](https://
 
 Once you're logged in, you can head over to the Wiki repository at [https://github.com/vibecentralmc/wiki](https://github.com/vibecentralmc/wiki). This official repository page shows all the Wiki's most up-to-date page files and assets that are displayed nicely here on the GitBook frontend.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Step 2 - Create a fork of the repository
 
@@ -26,7 +26,7 @@ Your created fork of the wiki will live at _https://github.com/**`yourname`**/wi
 
 Even for multiple contributions over time, you'll always use the same fork. GitHub provides options (as outlined below) to sync your fork with the latest updates from the main repository as needed.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can ensure you're on your fork by looking at the top - note how it says "forked from vibecentralmc/wiki".
 
