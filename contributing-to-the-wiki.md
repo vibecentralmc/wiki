@@ -63,6 +63,8 @@ You shouldn't worry or bog yourself down about the complex formattings and just 
 
 **Now all that's left to do is find what you want to edit or add!**
 
+### Editing an existing wiki page
+
 You can find Table of Contents and quickly navigate to any existing wiki page by opening the `SUMMARY.md` file which is at the bottom of the repository page in the files section (highlighted in red):
 
 <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
@@ -80,6 +82,10 @@ Now you can freely edit the page's markdown! Swap between "edit" and "preview" a
 After you've made edits, hit the green "commit changes" button in the top right and explain your changes. This will commit your edits to **your fork only** of the repository.
 
 You can continue editing files like this and creating commits in your repository until you're ready to submit the changes to be merged into the live wiki.
+
+### Creating a brand new wiki page or section
+
+To create a new wiki page or section, navigate to the section where you'd like it to be, (ex. in the "survival" folder/section) and use the "Add file" button at the top right. Remember to name pages with the ".md" file extension!
 
 ## Step 4 - Submit your contributions to be merged into the live Wiki
 
