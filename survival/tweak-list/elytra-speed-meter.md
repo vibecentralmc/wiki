@@ -1,4 +1,5 @@
-# Elytra Speed Meter
-A meter that measures your block per second will show up whenever you are flying with a elytra.
+# Elytra speed meter
 
-![(artist rendition)](../../.gitbook/assets/elytra_meter.png)
+While flying with an Elytra, your current speed measured in meters (blocks) per second is displayed above your hotbar. It updates every 0.25s/5 ticks
+
+![](../../.gitbook/assets/elytra_meter.png)
