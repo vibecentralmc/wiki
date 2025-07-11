@@ -16,7 +16,7 @@
 * **`/msg <name> <message>`** Privately message somebody who is online
 * **`/r <message>`** Quickly reply to your last pm conversation
 * **`/mail send <name> <message>`** Private message somebody who is offline
-* **`/nickname`** Update your [display name](profile-and-customization/nicknames.md) on the server
+* **`/nickname` `/nick`** Update your [display name](profile-and-customization/nicknames.md) on the server
 * **`/realname <nickname>`** See the username behind a nickname. Also quickly viewable in the [tablist](misc./tablist.md)
 * **`/afk [optional reason]`** Announce to the server that you've gone AFK
 * **`/seen <name>`** Shows how long its been since someone was online. Or, if they're actively online, how long they've been playing this session
@@ -28,22 +28,24 @@
 * **`/cglb`** See the [chat games](rich-chat/chat-games.md) leaderboard & your stats
 * **`/rules`** Shows our [community guidelines](community-guidelines.md) link
 * **`/pmute <username>`** Temporarily silence messages from another player. Their messages will still appear in chat, but will be censored. To see the message content, hover over it with your mouse.
-* **`/firstjoin [username]`** See the exact first join date, time, and season of yourself or another online player
+* **`/firstjoin [username]`** See the exact first join date, time, and season of yourself or another online player down to the millisecond
 * **`/profanity`** Toggle your chat profanity censoring off and on
 
 ## Fun & cosmetic commands
 
-* **`/sit`**[ Sit down ](../survival/tweak-list/sitting-laying-and-crawling.md)on the block where you're standing. _You can also right-click on stairs, slabs & carpets to sit without running the command_
+* **`/sit`**[ Sit down ](../survival/tweak-list/sitting-laying-and-crawling.md)on the block where you're standing. _You can also right-click on stairs, slabs & carpets to sit without running the command_]
+* **`/sit toggle`** Toggle whether you can right click to sit on stairs, slabs & carpets
+* **`/sit playertoggle`** Toggle whether you can right click to sit or be ridden by other players
 * **`/lay`**[ Lay facing up ](../survival/tweak-list/sitting-laying-and-crawling.md)where you're standing
 * **`/layflat`**[ Lay facing down](../survival/tweak-list/sitting-laying-and-crawling.md) on the block you're standing on. _While in this stance, you can also use your movement keys to crawl_
 * **`/smileys`** Open the [smileys](rich-chat/smileys.md) menu
 * **`/hat`** Put the [item you're holding on your head](../survival/tweak-list/unlocked-head-slot.md)
 * **`/vibecheck`** Get your vibes checked!
+* **`/frog`** Become the true frog champ!
 * **`/hug <player>`** Send a virtual hug
 * **`/hugtoggle`** Toggle whether you can receive hugs from others
 * **`/bonk <player>`** Bonk (alert) somebody with a noise. Please bonk responsibly!
 * **`/bonktoggle`** Toggle whether you can be bonked by others
-* **`/frog`** Become the true frog champ!
 
 ## [Survival](../survival/smp-survival-s8/) commands
 
@@ -67,6 +69,7 @@
 ### Teleporting commands
 
 * **`/tpa <name>`** **`/tpahere <name>`** Request to teleport to a player, or request that they teleport to you
+* **`/tpacancel`** Cancel sent teleport request
 * **`/tptoggle`** Toggle whether or not you can receive teleport requests
 * **`/warps`** Open the [community made waypoints](../survival/tweak-list/community-waypoints.md) menu
 * **`/warp <name>`** **`/warp resource`** _for the_ [_resource world_](../survival/resource-world.md) **`/warp market`** _for a random of the_ [_market_](../survival/market.md) _warps._ Teleport to a [community waypoint ](../survival/tweak-list/community-waypoints.md)without using the menu
@@ -101,7 +104,7 @@
 
 ### [VIP](ranks.md) exclusive
 
-These commands require certain [VIP tier](ranks.md#vip-tiers-1-6) to use
+These commands require certain [VIP tiers](ranks.md#vip-tiers-1-6) to use
 
 * **`/fly`** Toggle infinite utility fly in survival (same as xp fly, minus the xp cost)
 * **`/enderchest`** **`/ec`** Instantly open your Enderchest
