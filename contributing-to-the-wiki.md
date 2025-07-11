@@ -14,7 +14,7 @@ First, head over to the GitHub website and [create an account or login](https://
 
 Once you're logged in, you can head over to the Wiki repository at [https://github.com/vibecentralmc/wiki](https://github.com/vibecentralmc/wiki). This official repository page shows all the Wiki's most up-to-date page files and assets that are displayed nicely here on the GitBook frontend.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Step 2 - Create a fork of the repository
 
@@ -30,7 +30,7 @@ If you enjoy extra organization, you can leave your base fork free of edits and 
 
 But, if you don't mind always building off the same working copy, or prefer a simpler experience, it's totally fine to not worry about branches and leave everything as is!
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can ensure you're on your fork by looking at the top - note how it says "forked from vibecentralmc/wiki".
 
@@ -73,17 +73,17 @@ But for most purposes, you should be able to get the gist of it by just looking 
 
 You can find Table of Contents and quickly navigate to any existing wiki page by opening the `SUMMARY.md` file which is at the bottom of the repository page in the files section (highlighted in red):
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Once you open the page you'd like to edit, you'll see its preview opened. Hit the edit button in the top right to make it editable (highlighted in red).
 
-<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
 Now you can freely edit the page's markdown! Swap between "edit" and "preview" at the top left to see the rendered view of the page.
 
-<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 After you've made edits, hit the green "commit changes" button in the top right and explain your changes. This will commit your edits to **your fork only** of the repository.
 
@@ -127,9 +127,9 @@ If you create a new page, it has to be added to the `SUMMARY.md` file!
 
 When you're ready to submit your changes to the official wiki live at [https://wiki.vibecentral.xyz](https://wiki.vibecentral.xyz/), head back to your fork's main page at _https://github.com/**`yourname`**/wiki_ and click the "Contribute" button, then "Open Pull Request"&#x20;
 
-<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
 On the pull request page, just add a title and write a description of your changes, then hit "Create pull request". None of the options at the top need to be adjusted :)&#x20;
 
@@ -157,8 +157,8 @@ As you make edits, you'll see your changes appear automatically in GitHub Deskto
 
 To sync changes from the official repository to your local copied repository, you can use the "Pull origin" button
 
-<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
 ## Have any questions or need any help with anything?
 
-Just reach out! Using tickets on our [Discord](discord.md) are the best way to get into contact with server staff. Your contributions are greatly valued <3
+Just reach out! Using tickets on our [Discord](general/discord.md) are the best way to get into contact with server staff. Your contributions are greatly valued <3

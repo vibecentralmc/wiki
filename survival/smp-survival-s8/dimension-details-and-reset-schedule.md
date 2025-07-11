@@ -1,6 +1,12 @@
 # Dimension Details & Reset Schedule
 
-_The exact time the reset occurs on the date varies, but typically is around 6pm EST. If you would like to be pinged for world resets, you can get the_ _**Events Ping**_ _role in the #roles channel on our_ [_**Discord**_](../../general/discord.md)_!_
+
+
+{% hint style="info" %}
+_The exact time the reset occurs on the date varies, but typically is around 6pm EST. If you would like to be pinged for world resets, you can get the_ _**Events Ping**_ _role in the #roles channel on our_ [_**Discord**_](../../general/discord.md)_!_\
+\
+_These reset times are also displayed in our #resets channel on Discord._
+{% endhint %}
 
 ### The Overworld
 

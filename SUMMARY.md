@@ -19,7 +19,7 @@
   * [Chat games](general/rich-chat/chat-games.md)
   * [Smileys](general/rich-chat/smileys.md)
 * [Discord](general/discord.md)
-* [Contributing to the Wiki](general/contributing-to-the-wiki.md)
+* [Contributing to the Wiki](contributing-to-the-wiki.md)
 * [Misc.](general/misc./README.md)
   * [Skye](general/misc./skye.md)
   * [Voting](general/misc./voting.md)
