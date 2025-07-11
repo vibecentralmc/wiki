@@ -6,7 +6,6 @@ Use **`/warp resource`** to return to your last location in the resource world (
 
 * Resets every few months
 * World dimensions are **10k x 10k** blocks from spawn
-* Always noon with no day/night cycle
 * Consistent with the main world, this world generated with Terralith + Geophilic, and there’s no mob griefing or fire spread
 * RTPing costs a discounted price of **15** vibecoin
 * [Resource sethomes/waypoints](tweak-list/personal-waypoints.md) allow you to save waypoints in the world
