@@ -178,45 +178,25 @@ Quest points are obtained by doing quests, and contribute to your ranking in the
 
 <summary>Mining</summary>
 
-## Quick Trip
+## Copper Collect
 
-Go on a quick trip into a cave!\
-Regular ores only, deepslate is not accepted\
+*TIP: Sell to /warp servershop for vc*\
+*TIP: Use the mining /booster*\
 \
 **Time Limit**\
-20 minutes\
+1 hour\
 \
 **Objectives**\
-\- Mine 250 stone\
-\- Mine 64 coal ore\
-\- Mine 64 iron ore\
+\- Mine 500 Copper Ore\
 \
 **Rewards**\
-\- 65 vibecoin\
-\- 1 quest point\
+\- 115 vibecoin\
+\- 4 quest point\
 \- 115 vibe exp
-
-## Deep into hell
-
-Head into the nether and mine some of its greatest treasures!\
-Recommended to mine at Y-13 using a blast mining method!\
-\
-**Time Limit**\
-2 hours\
-\
-**Objectives**\
-\- Mine 192 nether gold ore\
-\- Mine 192 nether quartz ore\
-\- Mine 32 ancient debris\
-\
-**Rewards**\
-\- 425 vibecoin\
-\- 6 quest points\
-\- 500 vibe exp
 
 ## Diamond Depths
 
-Venture deep into the world and mine the valuable gems\
+*Venture deep into the world and mine the valuable gems*\
 \
 **Time Limit**\
 1 hour 15 minutes\
@@ -231,24 +211,69 @@ Venture deep into the world and mine the valuable gems\
 \
 **Rewards**\
 \- 215 vibecoin\
-\- 4 quest points\
+\- 6 quest points\
 \- 245 vibe exp
 
-## Gold Rush
+## Grayrock Gala
 
-Gather nether gold ore quick and earn lots\
-Elytra with rockets recommended!\
-\
-**Time Limit**\
-15 minutes\
+*Andesite caves biome reccomended!*\
+*TIP: Sell the andesite to /warp servershop for vc*\
+*TIP: Use the mining /booster*\
 \
 **Objectives**\
-\- Mine 215 nether gold ore\
+\- Mine 2000 andesite\
 \
 **Rewards**\
-\- 185 vibecoin\
+\- 125 vibecoin\
 \- 4 quest points\
 \- 230 vibe exp
+
+## Geode Hunting
+
+*Find and mine a medium to large sized geode*\
+\
+**Objectives**\
+\- Mine 280 amethyst blocks\
+\- Mine 6 fully grown amethyst clusters\
+\
+**Rewards**\
+\- 115 vibecoin\
+\- 4 quest point\
+\- 115 vibe exp
+
+## Quick Trip
+
+*Regular ores only, deepslate is not accepted!*\
+\
+**Time Limit**\
+45 minutes\
+\
+**Objectives**\
+\- Mine 250 stone\
+\- Mine 64 coal ore & 64 iron ore\
+\
+**Rewards**\
+\- 115 vibecoin\
+\- 2 quest point\
+\- 115 vibe exp
+
+## Deep into hell
+
+*Head into the nether and mine some of its greatest treasures!*\
+*Recommended to mine at Y 13 using a blast mining method!*\
+\
+**Time Limit**\
+2 hours\
+\
+**Objectives**\
+\- Mine 192 nether gold ore\
+\- Mine 192 nether quartz ore\
+\- Mine 32 ancient debris\
+\
+**Rewards**\
+\- 315 vibecoin\
+\- 6 quest points\
+\- 345 vibe exp
 
 </details>
 
