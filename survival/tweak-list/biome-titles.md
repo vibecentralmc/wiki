@@ -6,4 +6,4 @@ After a specific biome title is shown, it will be put on a cooldown, but if you 
 
 You can toggle biome titles on or off any time using the **`/tbt`** (toggle biome title) command.
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>

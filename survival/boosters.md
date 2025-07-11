@@ -6,7 +6,7 @@ All boosters are available in both a base tier and an upgraded tier, which offer
 
 Boosters can be viewed and purchased through the Booster menu using the `/boost` command
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt="" width="346"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt="" width="346"><figcaption></figcaption></figure>
 
 ### Acquiring Boost Points
 

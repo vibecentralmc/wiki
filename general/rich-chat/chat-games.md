@@ -10,7 +10,7 @@ Each win of a chat game excluding coin flip, will win one of the following:
 * Vibe exp 15, 25, 35, 50, lucky 200
 * Vibecoin 5, 10, 15, 35, lucky 100
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 ## Current games
 

@@ -14,6 +14,7 @@
   * [Nicknames](general/profile-and-customization/nicknames.md)
   * [Glows](general/profile-and-customization/glows.md)
   * [Vibe Particle Pack](general/profile-and-customization/vibe-particle-pack.md)
+  * [Nametag Decorations](general/profile-and-customization/nametag-decorations.md)
 * [Rich chat](general/rich-chat/README.md)
   * [Chat games](general/rich-chat/chat-games.md)
   * [Smileys](general/rich-chat/smileys.md)

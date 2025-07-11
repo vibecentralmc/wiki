@@ -14,7 +14,7 @@ First, head over to the GitHub website and [create an account or login](https://
 
 Once you're logged in, you can head over to the Wiki repository at [https://github.com/vibecentralmc/wiki](https://github.com/vibecentralmc/wiki). This official repository page shows all the Wiki's most up-to-date page files and assets that are displayed nicely here on the GitBook frontend.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Step 2 - Create a fork of the repository
 
@@ -26,7 +26,7 @@ Your created fork of the wiki will live at _https://github.com/**`yourname`**/wi
 
 Even for multiple contributions over time, you'll always use the same fork. GitHub provides options (as outlined below) to sync your fork with the latest updates from the main repository as needed.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can ensure you're on your fork by looking at the top - note how it says "forked from vibecentralmc/wiki".
 
@@ -55,10 +55,12 @@ A large majority of the markdown that will be helpful to know can be learned at:
 
 But for most purposes, you should be able to get the gist of it by just looking at existing pages on GitHub for reference and comparing their raw markdown and their rendered previews.
 
-{% hint style="info" %}
-GitBook also uses special formatting and tokens to represent things like hint boxes (the box this text is in), that GitHub does not support rendering in previews.
+### **Important info to know when making edits**
 
-You shouldn't worry or bog yourself down about the complex formattings and just focus on the content and accuracy of your contributions. Any special formattings can be added by staff later on - the content itself is what matters the most!
+{% hint style="success" %}
+* Don't worry or bog yourself down about the complex formattings. Just focus on the content and accuracy of your contributions. **Any complex formattings can be added and fixed by staff later on - the raw content itself is what matters the most!**
+* **Avoid adding your own images directly**, and opt for writing placeholders. ex. "\*image of menu here\*". This is so all screenshots across the entire wiki can be visually consistent and from the same game profile.
+* GitBook uses special formatting and tokens to represent things like hint boxes (the box this text is in), that GitHub does not support rendering in previews. You can ignore these special tokens in the GitHub editor.
 {% endhint %}
 
 **Now all that's left to do is find what you want to edit or add!**
@@ -73,11 +75,11 @@ You can find Table of Contents and quickly navigate to any existing wiki page by
 
 Once you open the page you'd like to edit, you'll see its preview opened. Hit the edit button in the top right to make it editable (highlighted in red).
 
-<figure><img src=".gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
 Now you can freely edit the page's markdown! Swap between "edit" and "preview" at the top left to see the rendered view of the page.
 
-<figure><img src=".gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 After you've made edits, hit the green "commit changes" button in the top right and explain your changes. This will commit your edits to **your fork only** of the repository.
 
@@ -87,15 +89,45 @@ You can continue editing files like this and creating commits in your repository
 
 To create a new wiki page or section, navigate to the section where you'd like it to be, (ex. in the "survival" folder/section) and use the "Add file" button at the top right. Remember to name pages with the ".md" file extension!
 
+{% hint style="success" %}
+Copy and paste the new wiki page template below to get a solid base to work from for adding new pages.
+
+All pages should follow this basic starting format, including the page title, description, and section headings with subheadings with respective empty lines.
+{% endhint %}
+
+```markup
+# Page Title
+
+A short description explaining what the feature is that this page is about
+
+## Section Heading
+
+Section content
+
+### Section subheading
+
+Subheading content
+
+## Another Section Heading
+
+More paragraph content, oh look a list!
+* Bullet point item 1
+* Bullet point item 2
+```
+
+{% hint style="warning" %}
+If you create a new page, it has to be added to the `SUMMARY.md` file!
+{% endhint %}
+
 ## Step 4 - Submit your contributions to be merged into the live Wiki
 
 When you're ready to submit your changes to the official wiki live at [https://wiki.vibecentral.xyz](https://wiki.vibecentral.xyz/), head back to your fork's main page at _https://github.com/**`yourname`**/wiki_ and click the "Contribute" button, then "Open Pull Request"&#x20;
 
-<figure><img src=".gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
 On the pull request page, just add a title and write a description of your changes, then hit "Create pull request". None of the options at the top need to be adjusted :)&#x20;
 
@@ -107,6 +139,8 @@ And that's it! Thank you for taking interest in contributing to the wiki, seriou
 
 {% hint style="success" %}
 We recommend hitting the "Watch" button in your PR to ensure you receive email notifications for any activity in it.
+
+It's also recommended to Create a Ticket on our Discord to allow for easier communication regarding your PR. If it's your first PR, you can also request your Wiki Contributor badge in Discord once your PR is accepted!
 {% endhint %}
 
 ## Have any questions or need any help with anything?

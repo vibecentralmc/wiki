@@ -2,7 +2,7 @@
 
 The SMP menu, formally the help menu, aims to provide an overview of a large amount of SMP features and server information for quick access, intended to be especially helpful for new members.
 
-<figure><img src="../.gitbook/assets/image (37).png" alt="" width="520"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (43).png" alt="" width="520"><figcaption></figcaption></figure>
 
 _From left to right_
 
