@@ -26,6 +26,10 @@ Your created fork of the wiki will live at _https://github.com/**`yourname`**/wi
 
 Even for multiple contributions over time, you'll always use the same fork. GitHub provides options (as outlined below) to sync your fork with the latest updates from the main repository as needed.
 
+If you enjoy extra organization, you can leave your base fork free of edits and create a new branch to work in instead. Branches are essentially forks of your fork, and allow you to have separate working copies of the wiki for each of your pull requests. You can create and swap branches by using the dropdown in the top left, by default titled "main".
+
+But, if you don't mind always building off the same working copy, or prefer a simpler experience, it's totally fine to not worry about branches and leave everything as is!
+
 <figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can ensure you're on your fork by looking at the top - note how it says "forked from vibecentralmc/wiki".
@@ -127,8 +131,6 @@ When you're ready to submit your changes to the official wiki live at [https://w
 
 <figure><img src=".gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
-
 On the pull request page, just add a title and write a description of your changes, then hit "Create pull request". None of the options at the top need to be adjusted :)&#x20;
 
 When you create a pull request/PR, you're submitting your changes from your personal working copy / fork of the wiki to be merged or "pulled" into the official, main version.
@@ -142,6 +144,20 @@ We recommend hitting the "Watch" button in your PR to ensure you receive email n
 
 It's also recommended to Create a Ticket on our Discord to allow for easier communication regarding your PR. If it's your first PR, you can also request your Wiki Contributor badge in Discord once your PR is accepted!
 {% endhint %}
+
+## Using a text editor on your PC instead of GitHub's website
+
+If you prefer to use a text editor on your pc, such as Notepad++ or another preferred editor to edit the wiki files, you can easily do so by cloning your fork locally using the [GitHub Desktop](https://github.com/apps/desktop) app or of course git commands if you're an experienced user.
+
+Using GitHub Desktop, click Add Repository, and then Clone Repository. Select the type to be URL, and then supply your fork's repository URL or "yourname/wiki"
+
+This will locally download the repository to your pc. Then, you can navigate to the files locally (by default, GitHub Desktop stores repositories in `Documents/GitHub`
+
+As you make edits, you'll see your changes appear automatically in GitHub Desktop ready to be committed. When you're done editing, push those commits to your GitHub fork via the app and continue with the Pull Request process normally.
+
+To sync changes from the official repository to your local copied repository, you can use the "Pull origin" button
+
+<figure><img src=".gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
 ## Have any questions or need any help with anything?
 
