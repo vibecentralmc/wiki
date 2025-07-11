@@ -145,6 +145,20 @@ We recommend hitting the "Watch" button in your PR to ensure you receive email n
 It's also recommended to Create a Ticket on our Discord to allow for easier communication regarding your PR. If it's your first PR, you can also request your Wiki Contributor badge in Discord once your PR is accepted!
 {% endhint %}
 
+## Using a text editor on your PC instead of GitHub's website
+
+If you prefer to use a text editor on your pc, such as Notepad++ or another preferred editor to edit the wiki files, you can easily do so by cloning your fork locally using the [GitHub Desktop](https://github.com/apps/desktop) app or of course git commands if you're an experienced user.
+
+Using GitHub Desktop, click Add Repository, and then Clone Repository. Select the type to be URL, and then supply your fork's repository URL or "yourname/wiki"
+
+This will locally download the repository to your pc. Then, you can navigate to the files locally (by default, GitHub Desktop stores repositories in `Documents/GitHub`
+
+As you make edits, you'll see your changes appear automatically in GitHub Desktop ready to be committed. When you're done editing, push those commits to your GitHub fork via the app and continue with the Pull Request process normally.
+
+To sync changes from the official repository to your local copied repository, you can use the "Pull origin" button
+
+<figure><img src=".gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+
 ## Have any questions or need any help with anything?
 
 Just reach out! Using tickets on our [Discord](general/discord.md) are the best way to get into contact with server staff. Your contributions are greatly valued <3
