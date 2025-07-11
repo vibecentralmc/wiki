@@ -2,7 +2,7 @@
 
 All mob heads have a chance to drop when killed, supported up to 1.21 mobs (excluding new wolf variants from 1.20.6). Looting bonus applies using **`drop chance + (looting level / 100)`**. Below shows all the obtainable heads and their base drop chances.
 
-![Obtainable heads as of 1.20.1](<../../.gitbook/assets/image (15).png>)
+![Obtainable heads as of 1.20.1](<../../.gitbook/assets/image (21).png>)
 
 | Mob              | Variants and drop chance                                                                                                                                                                                                                                                                                                                                |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

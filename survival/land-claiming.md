@@ -33,7 +33,7 @@ _The highlighted claim(s) will appear with gold blocks and glowstone on the corn
 
 Permission management is done through the trust gui, opened after running the trust command.
 
-![](<../.gitbook/assets/image (36).png>)
+![](<../.gitbook/assets/image (42).png>)
 
 ## All commands
 

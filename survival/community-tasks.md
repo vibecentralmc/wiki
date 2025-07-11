@@ -10,4 +10,4 @@ If a player accepts a task but does not complete it within 24 hours, the task wi
 
 While your task is listed, you can manage the task via the menu and update the payment, description, icon, or other attributes. You may also mark the task as completed or delete it here. If you decide to delete your task, your initial deposit will be refunded to your balance.&#x20;
 
-![](<../.gitbook/assets/image (32).png>)
+![](<../.gitbook/assets/image (38).png>)

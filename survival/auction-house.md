@@ -24,4 +24,4 @@ As a courtesy to chat & buyers, we ask that you bundle similar or large quantiti
 
 </details>
 
-<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
