@@ -10,7 +10,7 @@ Boosters can be viewed and purchased through the Booster menu using the `/boost`
 
 ### Acquiring Boost Points
 
-**Ⓑ** Boost points can be purchased in the boosters menu for 85 vibecoin and 8 XP levels each.  Boost points are non-tradeable, and unspent boost points will be lost at the end of the [smp season](smp-survival-s8/season-information.md).
+**Ⓑ** Boost points can be purchased in the boosters menu for 115 [vibecoin ](economy.md)and 8 XP levels each. Boost points are non-tradeable, and unspent boost points are lost at the end of the [smp season](smp-survival-s8/season-information.md).
 
 {% hint style="success" %}
 **TIP**\
@@ -23,8 +23,8 @@ You can get up to **1 free boost point** every day by [**voting**](../general/mi
 
 Increases [utility fly](tweak-list/utility-flight.md) speed
 
-* Tier 1: Speed increase to .70 for 8 hours at 2 Ⓑ points
-* Tier 2: Speed increase 1 (creative fly speed) for 24 hours at 5 Ⓑ points
+* Tier 1: Speed increase by 110% for 8 hours at 2 Ⓑ points
+* Tier 2: Speed increase by 200% (creative fly speed) for 24 hours at 5 Ⓑ points
 
 ### **Movement Booster**
 

@@ -8,6 +8,10 @@ When claiming land in Vibetown, players should be mindful of building far enough
 Teleport to vibetown using th&#x65;**`/warp vibetown`** command
 {% endhint %}
 
+{% hint style="warning" %}
+Season 8 is yet to have a vibetown established
+{% endhint %}
+
 The main vibetown spawn house has beds, community chests, and a community supplied enchantment table and [enchantment upgrade table](tweak-list/enchantment-upgrade-tables.md)!
 
 <figure><img src="../.gitbook/assets/2024-06-06_20.28.34.png" alt=""><figcaption><p>The vibetown center house</p></figcaption></figure>

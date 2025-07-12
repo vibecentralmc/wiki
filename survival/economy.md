@@ -10,7 +10,7 @@ The best way to make vibecoin is by selling tapping all sources; the [auction ho
 
 ### Vibecoin loss on death
 
-When you die you will lose **35%** of your current balance. High [VIP tiers ](broken-reference)can lower the loss down to **20%**. Currently, if you have no vibecoin you will not lose anything and keep inventory remains active
+When you die you will lose **35%** of your current balance. High [VIP tiers ](../general/ranks.md#vip-tiers-1-6)can lower the loss down to **20%**. Currently, if you have no vibecoin you will not lose anything and keep inventory remains active
 
 ### Commands
 

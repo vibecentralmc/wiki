@@ -17,3 +17,7 @@ To RTP, run **`/rtp`** twice, first to open the confirmation dialogue, and again
 
 * Bounds: **10K** blocks from resource world spawn (full size of the world)
 * Costs: **15** vibecoin
+
+### Nether, End, etc.
+
+Unavailable

@@ -4,7 +4,7 @@ The plot world is a communal build space where everybody can get dedicated plots
 
 Use **`/creative`** to travel to the plot world!
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Plotworld as of Jan 2023</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-07-12 022105.png" alt="" width="563"><figcaption><p>Top down map view of the creative plot world as July 2025</p></figcaption></figure>
 
 ### Plot manage menu
 

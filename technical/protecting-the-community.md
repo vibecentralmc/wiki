@@ -3,20 +3,16 @@
 The server has numerous systems in place to prevent bad actors & disruptive behavior to ensure everybody has a safe and enjoyable experience. This page outlines the precautions we take to protect players :)\
 
 
-**Traffic filtration**\
-All server bound traffic is proxied and examined before being passed to the backend or dropped. This allows us to manage traffic flow to the backend and significantly mitigate malicious traffic before it can impact the server. Using Cloudflare Magic Transit, our network is guarded by over 1+ Tbps of L3/L4 DDoS protection.\
-
-
 **Movement analysis**\
-We use a machine learning anticheat equip with a full replication of player's possible movements and the ability to take into account how players interact in their unique environment, preventing virtually any illegitimate action while maintaining extremely low false positive rates.
+We utilize a sophisticated machine learning anticheat that runs 1:1 simulations of legitimate movements on all players. By comparing the simulation to the input from your client, the game can catch and prevent cheating with extremely high accuracy.
 
 \
 **Block data obfuscation based anti x-ray**\
-This system sends a mixture of air and fake ore block data in replacement of all solid blocks underground. As players mine, the fake ore data is replaced by the real block data within a radius of the player. With decent latency, this system is invisible to legitimate players, however high latency connections may see the fake ores for a moment before the the real block data arrives and updates on the client.\
+X-Ray is one of the biggest cheats utilized in public smps, and is extremely easy to use with just a resource pack. We combat this by tampering with the block data sent to players clients from the server in real time. While underground, the server tells your client that all solid blocks that should be out of your vision are a mixture of air and ore blocks. As players mine, the fake world data is replaced by the real block data if it should be legitimately visible to the player. The result eliminates the effectiveness of x-ray drastically because there's no way to tell which ores are real or fake until you are directly in front of them or mine them. With decent latency, this system is invisible to legitimate players, however high latency connections may see the fake ores for a moment before the the real block data arrives and updates on the client.\
 
 
 **Mining pattern examination anti x-ray**\
-While block data obfuscation is typically enough to prevent most cheaters, in some circumstances the obfuscation can be bypassed by sophisticated means. To combat this, we use intelligent algorithms to examine mining patterns and punish players if they're found to be behaving illegitimately.
+While block data obfuscation is nearly always enough to prevent cheaters, reverse engineering seeds is something that is possible under rare circumstances which can render the obfuscation useless. To combat this, we utilize systems trained on historical legitimate behavior from the server that examine mining patterns and alert staff of any suspicious behavior for investigation. In vibe's history, there has been no known instances of seeds being reverse engineered. Paper servers also take extra measures to protect seed integrity by default, by using a variety of different seeds for different terrain features & structures.
 
 \
 **Exploit prevention**\
@@ -28,7 +24,8 @@ Notable exploits we've patched include but are not limited to:
 * TNT duplicators
 * Piston duplication
 * Invulnerable end crystals
-* GUI/packet based item duplication\
+* GUI/packet based item duplication
+* Lava pool debris\
 
 
 **Packet analysis**\
@@ -46,7 +43,7 @@ We have various filters spanning chat, signs, books, and anvils to prevent misco
 \
 \
 **Bot prevention**\
-Analysis of behavior & patterns allows the server to preemptively identify and mitigate bot attacks. In the unlikely event our layer 7 filtration fails and worst comes to worst, the server is capable of locking down and only allowing previously identified players to connect to ensure uninterrupted access for legitimate players.
+Analysis of auth, join, and chat behavior protects the server with preemptive identification and mitigation of bot attacks. In the unlikely event our layer 7 filtration fails and worst comes to worst, the server is capable of locking down and only allowing previously identified players to connect, ensuring uninterrupted access for legitimate players.
 
 \
 **Real-time staff alerts**\
@@ -64,10 +61,10 @@ Player's redstone is rate limited to prevent users building lag machines. By kee
 
 \
 **Backups**\
-As a last resort or if data becomes permanently corrupt, damaged, or otherwise lost we can selectively restore data from the applicable backup. The entire server filesystem is incrementally backed up every 12h, allowing full access of all recent or old server data.
+As a last resort or if data becomes permanently corrupt, damaged, or otherwise lost we can selectively restore data from the applicable backup. The entire server filesystem is incrementally backed up regularly, allowing full access of all recent or old server data.
 
 Additionally, smaller selective hot player data is backed up and stored on the server on session start and end, world change, and death. The server will hold up to 100 backups in each action category per player before it begins rotating them, making the maximum backups held per player 400. Each backup stores a snapshot of the players location, inventory, enderchest, balance, experience, and other metrics.\
 \
 \
 **Account linking**\
-To access our Discord and view any channels, users must first verify their Discord account through the mc server via a simple automated process to ensure only server members can access the Discord. Not only does this cultivate a more exclusive, close-knit community space because everybody is able to recognize people by the same usernames, but this also provides the server the ability to automatically synchronize display name/nickname changes, ranks, mutes & bans, and more across the MC server and Discord server. &#x20;
+To access our Discord and view any channels, users must first verify their Discord account through the mc server via a simple automated process to ensure only server members can access the Discord. Not only does this cultivate a more close knit community space because everybody is able to recognize people by the same usernames, but it also provides us the ability to automatically synchronize display name/nickname changes, ranks, mutes & bans, and more across the MC server and Discord server. &#x20;
