@@ -21,6 +21,7 @@
 * [Discord](general/discord.md)
 * [Contributing to the Wiki](contributing-to-the-wiki.md)
 * [Misc.](general/misc./README.md)
+  * [Nametags](general/misc./nametags.md)
   * [Skye](general/misc./skye.md)
   * [Voting](general/misc./voting.md)
   * [Hub](general/misc./hub.md)

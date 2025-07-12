@@ -4,7 +4,7 @@ As you play, you'll be able to level up skills in nine areas: mining, armory, co
 
 You can open the skills menu using **`/skills`**
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
