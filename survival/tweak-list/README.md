@@ -67,4 +67,6 @@
 * [Persistent crop and flora growth](persistent-crop-and-flora-growth.md)
 * [Crops have a 12.5% chance to drop XP when harvested](crops-drop-xp.md)
 * Firework explosions don't deal entity damage
-* Custom formatted and written death messages & advancement messages
+* Custom written death messages
+* Custom advancement formatting with rarities
+* [Elytra speed meter](elytra-speed-meter.md)
