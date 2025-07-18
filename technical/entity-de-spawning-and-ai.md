@@ -189,42 +189,60 @@ Items: 3 minutes (select super common items despawn faster for server performanc
 
 If an item is not listed, it uses the regular 3 min despawn time.
 
-```
-acacia_leaves: 200
-andesite: 300
-arrow: 200
-azalea_leaves: 200
-bamboo: 300
-birch_leaves: 100
-bone: 200
-cactus: 300
-cobblestone: 200
-dark_oak_leaves: 200
-diorite: 300
-dirt: 200
-granite: 300
-grass: 300
-gravel: 200
-gunpowder: 200
-jungle_leaves: 200
-kelp: 200
-mangrove_leaves: 200
-melon_slice: 800
-netherrack: 100
-oak_leaves: 200
-pumpkin: 800
-red_sand: 300
-rotten_flesh: 200
-sand: 300
-scaffolding: 600
-spider_eye: 200
-spruce_leaves: 300
-stick: 100
-string: 200
-sugar_cane: 300
-twisting_vines: 300
-weeping_vines: 300
-```
+#### **5 seconds**
+
+* Stick
+
+***
+
+#### **10 seconds**
+
+* Acacia Leaves
+* Arrow
+* Azalea Leaves
+* Birch Leaves
+* Bone
+* Cobblestone
+* Dark Oak Leaves
+* Dirt
+* Gravel
+* Gunpowder
+* Jungle Leaves
+* Kelp
+* Mangrove Leaves
+* Oak Leaves
+* Rotten Flesh
+* Spider Eye
+* Spruce Leaves
+* String
+
+***
+
+#### **15 seconds**
+
+* Andesite
+* Bamboo
+* Cactus
+* Diorite
+* Granite
+* Red Sand
+* Sand
+* Sugar Cane
+* Twisting Vines
+* Weeping Vines
+
+***
+
+#### **30 seconds**
+
+* Scaffolding
+
+***
+
+#### **40 seconds**
+
+* Melon Slice
+* Pumpkin
 
 </details>
 
