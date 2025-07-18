@@ -146,7 +146,9 @@ Vibe features six VIP tier ranks with an increasing amount of non pay to win exc
 
 ## Benefactor
 
-Benefactors are folk who have generously donated $100 or more to vibe. The role itself shares same abilities as VIP Tier 6, with the exception of a special prefix. There is a special benefactor hall at the [hub](misc./hub.md) that showcases the benefactors.
+Benefactors are folk who have generously donated $100 or more to vibe. The role itself shares the same abilities as VIP Tier 6, with the exception of a special prefix and the ability to `/hug all`. There is a special benefactor hall at the [hub](misc./hub.md) that showcases the benefactors.\
+\
+Benefactors are allowed to request special accommodations within reason, such as custom name decorations, join messages, etc. While we do our best to honor requests, they are ultimately subject to staff discretion.
 
 <div align="left"><figure><img src="../.gitbook/assets/benefactor (1).png" alt=""><figcaption></figcaption></figure></div>
 
@@ -162,12 +164,12 @@ Interested in joining our team? See the [staff application info page](misc./staf
 
 ## Administrator
 
-Admins play a crucial role in the server management, handling tasks like banning rule breakers, rolling back block damage from griefs or robberies, assisting in the rollout of new features or changes to existing server functions by providing feedback and recommendations, maintaining order and direction among lower level staff, as well as managing daily operations to ensure a smoothly functioning server environment.
+Admins play an important role in server management and daily operations, handling things like final discretion on Mod cases, issuing bans, restoring data from backups & rolling back damage from griefs, assisting in the rollout of new server features/changes, and maintaining direction among Mods to ensure a smooth server environment.
 
 <div align="left"><figure><img src="../.gitbook/assets/admin.png" alt=""><figcaption></figcaption></figure></div>
 
 ## Owner
 
-The highest level of management on the server, involving things like development, management of the servers backend architecture, leading ideation and design for new features, financial oversight, and managing other key logistical elements that maintain server operations and determine its direction and structure.
+The highest level of management on the server, involving things like development and design for server features, management of the servers backend architecture, financial oversight, and other key logistical elements for the server.
 
 <div align="left"><figure><img src="../.gitbook/assets/owner (2).png" alt=""><figcaption></figcaption></figure></div>
