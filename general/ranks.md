@@ -47,8 +47,8 @@ Vibe features six VIP tier ranks with an increasing amount of non pay to win exc
 * Access to VIP [Discord](discord.md) channels
 * Sparking diamond next to your name in our [Discord](discord.md)
 * Early access to new features
-* **`/firework`** _Make a show!_\
-  \&#xNAN;**`/trash`** _Open a disposal gui_\
+* **`/firework`** _Make a show!_
+* **`/trash`** _Open a disposal gui_\
   \
   [Command descriptions](commands.md#vip-exclusive)
 
@@ -64,8 +64,8 @@ Vibe features six VIP tier ranks with an increasing amount of non pay to win exc
 * [Parkour course](broken-reference/) limit **12 > 14**
 * [Parkour course](broken-reference/) size limit **75x75 > 85x85**
 * [Creative plot](../creative-plots/creative-plots.md) limit **6 > 8**
-* **`/craft`** _Open & virtual crafting gui_\
-  \&#xNAN;**`/clearinventory`**\
+* **`/craft`** _Open & virtual crafting gui_
+* **`/clearinventory`**\
   \
   [Command descriptions](commands.md#vip-exclusive)
 
@@ -79,9 +79,9 @@ Vibe features six VIP tier ranks with an increasing amount of non pay to win exc
 * [Personal waypoint](../survival/tweak-list/personal-waypoints.md) limit **10 > 14**
 * [Community waypoint](../survival/tweak-list/community-waypoints.md) limit **12 > 14**
 * [Parkour course](broken-reference/) limit **14 > 16**
-* [Parkour course](broken-reference/) size limit **85x85 > 125x125**
+* [Parkour course](broken-reference/) size limit **85x85 > 95x95**
 * **Creative plot limit 8 > 10**
-* **+.05** survival[ utility fly](../survival/tweak-list/utility-flight.md) speed
+* **+15%** faster survival [utility fly](../survival/tweak-list/utility-flight.md) speed
 * Custom colors for [nametag decorations](profile-and-customization/nametag-decorations.md)
 
 - **`/fly`** Free [utility fly](../survival/tweak-list/utility-flight.md) with no xp cost
@@ -100,9 +100,9 @@ Vibe features six VIP tier ranks with an increasing amount of non pay to win exc
 * [Personal waypoint](../survival/tweak-list/personal-waypoints.md) limit **14 > 19**
 * [Community waypoint](../survival/tweak-list/community-waypoints.md) limit **14 > 16**
 * [Parkour course](broken-reference/) limit **16 > 18**
-* [Parkour course](broken-reference/) size limit **125x125 > 150x150**
+* [Parkour course](broken-reference/) size limit 95**x95 > 115x115**
 * [Creative plot ](../creative-plots/creative-plots.md)limit **10 > 13**
-* **+.10** survival [utility fly](../survival/tweak-list/utility-flight.md) speed
+* **+30%** faster survival [utility fly](../survival/tweak-list/utility-flight.md) speed
 * **5%** less [vibecoin respawn fee](../survival/economy.md)
 
 #### Vip Tier 5
@@ -115,9 +115,9 @@ Vibe features six VIP tier ranks with an increasing amount of non pay to win exc
 * [Personal waypoint](../survival/tweak-list/personal-waypoints.md) limit **19 > 25**
 * [Community waypoint](../survival/tweak-list/community-waypoints.md) limit **16 > 18**
 * [Parkour course](broken-reference/) limit **18 > 20**
-* [Parkour course](broken-reference/) size limit **150x150 > 175x175**
+* [Parkour course](broken-reference/) size limit **115x115 > 125x125**
 * [Creative plot](../creative-plots/creative-plots.md) limit **13 > 16**
-* **+.15** survival [utility fly](../survival/tweak-list/utility-flight.md) speed
+* **+45%** faster survival [utility fly](../survival/tweak-list/utility-flight.md) speed
 * **10%** less [vibecoin respawn fee](../survival/economy.md)
 * **`/enderchest`** _Open your enderchest anywhere_
 * **`/pp`** _Manage your_ [_Particle Packs_](general/profile-and-customization/vibe-particle-pack.md)\
@@ -134,9 +134,9 @@ Vibe features six VIP tier ranks with an increasing amount of non pay to win exc
 * [Personal waypoint](../survival/tweak-list/personal-waypoints.md) limit **25 > 32**
 * [Community waypoint](../survival/tweak-list/community-waypoints.md) limit **18 > 20**
 * [Parkour course](broken-reference/) limit **20 > 30**
-* [Parkour course](broken-reference/) size limit **175x175 > 200x200**
+* [Parkour course](broken-reference/) size limit **125x125 > 150x150**
 * [Creative plot](../creative-plots/creative-plots.md) limit **16 > 20**
-* **+.20** survival [utility fly](../survival/tweak-list/utility-flight.md) speed
+* **+60%** faster survival [utility fly](../survival/tweak-list/utility-flight.md) speed
 * **15%** less [vibecoin respawn fee](../survival/economy.md)
 * **`/blocks`** _Turn compressible items into blocks_\
   \
@@ -170,4 +170,4 @@ Admins play a crucial role in the server management, handling tasks like banning
 
 The highest level of management on the server, involving things like development, management of the servers backend architecture, leading ideation and design for new features, financial oversight, and managing other key logistical elements that maintain server operations and determine its direction and structure.
 
-<div align="left"><figure><img src="../.gitbook/assets/owner (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/owner (2).png" alt=""><figcaption></figcaption></figure></div>
