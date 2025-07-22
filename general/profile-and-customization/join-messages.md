@@ -50,9 +50,9 @@ To help build a sense of global connection and make juggling timezones easier, t
 
 We respect your privacy, while there is currently no built in toggle system for join country, members can have the message hidden per request - no questions asked, just contact staff!
 
-## Account Age
+## Membership Length
 
-When logging in, your Membership age will be displayed to give others a sense of how long you've been around the community. The message shows how many days it's been since you first joined vibe, and the associated Season you joined in.
+When logging in, the amount of days since you first joined vibe as well as the associated Season is displayed to give others a sense of how long you've been around the community.
 
 {% hint style="info" %}
 You can view the exact join time, date, and Season of you or another online player on demand using the `/firstjoin [username]` command
