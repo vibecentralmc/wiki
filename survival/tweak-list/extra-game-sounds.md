@@ -5,7 +5,7 @@ The server features a bunch of additional sounds using existing MC sounds with a
 List of sounds:
 
 ### Game Mechanics (Click to names to play audio)
-* [Crouching](../../.gitbook/assets/crouch.mp4)  <audio id="../../.gitbook/assets/crouch.mp4" src="crouch.mp4"></audio><button onclick="playAudio('crouch')" type="button">play</button>
+* [Crouching](https://github.com/user-attachments/assets/1a84a3ab-5d94-4218-b4cc-410a124bce53)
 * [Crafting](https://github.com/user-attachments/assets/394ef36e-f3fa-47e7-b973-6a0e51192929)
 * [Sleeping](https://github.com/user-attachments/assets/b7669156-cafa-4491-8c93-0b5bb0778472)
 * [Teleport](https://github.com/user-attachments/assets/74e65100-f3bf-44b9-8f7c-359faccb2765)
