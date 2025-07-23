@@ -5,7 +5,7 @@ The server features a bunch of additional sounds using existing MC sounds with a
 List of sounds:
 
 ### Game Mechanics
-* Crouching
+* Crouching <figure><snd src=".gitbook/assets/crouch.mp3" alt=""><figcaption></figcaption></figure>
 * Crafting
 * Sleeping
 * Teleport
