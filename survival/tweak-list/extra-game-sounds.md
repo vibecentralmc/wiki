@@ -16,12 +16,12 @@ List of sounds: (Click action names to preview sounds)
 * [Player disconnection](https://github.com/user-attachments/assets/f68693c5-7bb6-4155-a556-c51201b237b9)
 ### Chat
 * [Command input](https://github.com/user-attachments/assets/3e6181f6-6ae0-49e4-8a0a-4ae226016a81)
-* [Receiving private message]
-* [Applauding a message]
+* [Receiving private message](https://github.com/user-attachments/assets/6da7531d-bd87-4cd0-afac-56af58b6e2a3)
+* [Applauding a message](https://github.com/user-attachments/assets/f675f7e0-8cee-4c4d-aedf-82612b1624e5)
 ### GUI
-* [Open GUI]
-* [Close GUI]
-* [Moving items in your inventory]
-* [Changing your selected item or scrolling your hotbar]
+* [Open GUI](https://github.com/user-attachments/assets/a5c1f979-5da9-470d-8959-e02e15e76093)
+* [Close GUI](https://github.com/user-attachments/assets/c9eab22c-6c38-4bf9-b01c-0b7e3056b63a)
+* [Moving items in your inventory](https://github.com/user-attachments/assets/cb6655bd-15e4-4531-9d9d-32e35b448697)
+* [Changing your selected item or scrolling your hotbar]()
 * [Opening Your Profile (Click your head in profile customization [/profile])]
 * [Sort Container]
