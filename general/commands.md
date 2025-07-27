@@ -116,7 +116,6 @@ These commands require certain [VIP tiers](ranks.md#vip-tiers-1-6) to use
 * **`/firework`** Create an instant firework show around you
 * **`/glows`** **`/glow`** Opens the glow selector menu
 * **`/pp`** Open the [particle pack](profile-and-customization/vibe-particle-pack.md) menu
-* **`/glows`** Select your glow color
 * **`/tags`** Select your nametag decoration
 
 ## Creative plot commands
