@@ -12,7 +12,7 @@
 * [Utility flight](utility-flight.md)
 * Crops and trees grow in unloaded chunks at a slightly reduced speed
 * Keep-inventory when dying using [vibecoin](../economy.md)
-* No attack cooldown (1.8 pvp + sweeping)
+* Pvp is 1.9/combat update (doing more damage requires attack meter to fill)
 * Loot chests in structures regenerate 12 hours after looted for other players (1 chest per player)
 * [Extra game sounds](extra-game-sounds.md)
 * [Friendly Creepers](friendly-creepers.md), except Charged Creepers
