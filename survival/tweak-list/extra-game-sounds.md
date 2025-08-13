@@ -27,6 +27,8 @@ List of sounds:
 * Opening Your Profile (Click your head in /profile)
 * Sort Container
 
+## Sounds
+
 
 ### Game Mechanics (Click to the "▶︎" button to play audio)
 * Crouching
