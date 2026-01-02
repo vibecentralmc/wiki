@@ -18,6 +18,7 @@
 * [Chat](general/rich-chat/README.md)
   * [Chat games](general/rich-chat/chat-games.md)
   * [Smileys](general/rich-chat/smileys.md)
+  * [Hugs, Bonks, Applauds, Waves](general/rich-chat/hugs-bonks-applauds-waves.md)
   * [Profanity Censoring](general/rich-chat/profanity-censoring.md)
   * [Player Muting](general/rich-chat/player-muting.md)
 * [Discord](general/discord.md)
