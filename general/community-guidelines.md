@@ -3,8 +3,7 @@
 {% hint style="success" %}
 We've laid out a comprehensive set of guidelines to keep our community a safe, respectful, and fun-filled space for everyone. By being a part of Vibe Central, whether it's on our Minecraft server, in our Discord, or any other connected platforms, you're agreeing to abide by these rules/guidelines and help uphold them.\
 \
-By being a part of vibe, you also confirm that you are at least 13 years of age or older. While our rules outline largely PG-13 conduct, this community is not fully family friendly or suitable for younger folk.
-
+By being a part of vibe, you also confirm that you are at least 13 years of age or older. While our rules outline largely PG-13 conduct, this community is not fully family friendly or suitable for younger folk.\
 \
 Keep in mind, these guidelines are universally applicable within Vibe Central. They cover all forms of interaction and expression, including but not limited to public and private in-game chats, Discord discussions, text on signs, books, renamed in-game entities, and any other content you contribute to our shared space.\
 \
@@ -13,24 +12,25 @@ If you think somebody is breaking a rule, please [**let us know** ](discord.md)t
 
 ## At a glance
 
-This summary is meant to provide a swift overview of our rules. Though, we highly encourage you to read the complete set of rules below this summary for a comprehensive understanding.
+This summary is meant to provide a swift overview of our rules. Though, we encourage you to read the complete set of rules below this summary for a comprehensive understanding.
 
-### **Conduct & Communication**
+### 💬 **Communication**
 
 * Always approach others with respect and consideration.
 * Harassment, discrimination, and hate speech or symbols are strictly prohibited.
-* Keep all communication PG-13.
+* Keep communication PG-13. Exceptions for minimal, light profanity.\
+  \> _Default-enabled censoring for light profanities can be disabled with /profanity._
 * No sexual, dark or potentially triggering references or topics.
-* Keep global chat in English for moderation and understanding by others.
+* Keep public chat in English.
 * Do not flood or spam chat.
-* Do not evade any chat filters.
+* Do not try to evade any chat filters, they are there for a reason!
 * Light swearing is permitted on a minimal basis. The use of strong profanities, slurs, or language that could be offensive or disrespectful is not allowed.
 * Do not reveal personal or identifying information about yourself or others.
 * Advertising related to vibe gameplay is permitted; other unrelated advertisements are not.
 * No political discussions or controversial topics.
 * Nicknames should be reflective of your identity and not be changed frequently or used to impersonate others.
 
-### **Gameplay**
+### **Gameplay** ⛏️
 
 * Griefing, stealing, or otherwise modifying anyone's builds or land, even unclaimed, is not allowed unless you have explicit permission from the creator.
 * Community or personal waypoints can only be set on or nearby another's private land with the landowner's explicit permission. Setting community waypoints (warps) for personal purposes is not allowed.
@@ -46,7 +46,7 @@ This summary is meant to provide a swift overview of our rules. Though, we highl
 * Be mindful in the market. Keep shops by spawn platforms small and get permission from staff to build very big shops. Do not build multiple shops next to each other, spread them throughout market. Get permission from staff before making any additional shops beyond 5 shops.
 * Auction house listings should be priced fairly and have value. Items of similar type should be bundled into a single auction instead of individually to prevent spam. Bundled auctions can be created using /ah sell -b.
 
-### **Server Etiquette & Fair Play**
+### **Server Etiquette & Fair Play** 💎
 
 * Do not intentionally impair the server's performance or players' gameplay.
 * Exploitation of features, cheating of any kind, or any modifications that give you an unfair advantage over those playing on vanilla is not allowed.
@@ -59,7 +59,7 @@ This summary is meant to provide a swift overview of our rules. Though, we highl
 
 ## Full Rules
 
-_Last updated 7/11/25_
+_Last updated 1/2/26_
 
 ***
 
@@ -84,14 +84,15 @@ _Last updated 7/11/25_
    3. **It's important to protect yourself online and keep your your personal information secure. Sharing a lot of information about yourself, or sensitive details about yourself within our community and the internet in general is strongly discouraged. Stay safe!**
 3. **Content and Communication**
    1. **As a general guide, all content and communication should be kept PG-13.**
-      1. As an exception to this rule, light profanity is permitted on a minimal basis; however, the usage of strong profanities, slurs, or language that could be offensive or disrespectful is strictly prohibited.
+      1. As an exception to this rule, light profanity is permitted on a minimal basis; however, the usage of strong profanities, slurs, or language that could be offensive or disrespectful is strictly prohibited.\
+         &#xNAN;_&#x44;efault-enabled censoring for light profanities can be disabled with /profanity._
    2. **A significant portion of our community is under the age of 18. Please ensure your communication remains respectful and appropriate. Unless you know otherwise, assume that you're interacting with a younger audience.**
    3. **Topics or content that is inciteful, contentious, sexual or suggestive, likely offensive, dark, or potentially triggering or distressing, such as discussion of real-violence, personal traumas, etc. should not be publicly discussed.**
       1. Our aim is to maintain a respectful and inclusive environment for everyone and offer a place people can get away from the stress of the real world. References or discussions involving politics, religion, social issues, health and medicine, environmental concerns, economic policy, legal and criminal justice matters, current or past geopolitical conflicts, or other real-world disputes or controversies is not permitted.
    4. **As an English based server, public chat should be kept in English for effective moderation and understanding by all members.**
       1. Private messaging or other means may be used to communicate in other languages.
-   5. **Excessive use of capital letters, repetition of the same word or letter, spamming, or any other disruptive chat behavior is not permitted.**
-   6. **We have implemented several filters in our in-game chat and Discord server to prevent content that infringes on the rules. Any attempts to bypass these filters, whether by adding extra characters or using other methods, are not permitted.**
+   5. **Excessive use of capital letters, repetition of the same word or letter, spamming, or any other disruptive/flooding chat behavior is not permitted.**
+   6. **We have implemented several filters in our in-game chat and Discord server to prevent content that infringes on the rules. Any attempts to evade these filters, whether by adding extra characters or using other methods, are not permitted.**
       1. Despite our best efforts to employ highly accurate and effective filters in place both in-game and on our Discord server to catch rule-breaking content, it’s important to remember that no filter is infallible, and that the ultimate responsibility lies with the individual authoring the content to ensure it aligns with our rules.
       2. Staff members have the final say on interpreting the rules applicability to content, even if content passes through filters.
    7. **Always provide accurate and truthful information when interacting with others. Lying, spreading false information, or intentionally misleading others is not permitted.**
