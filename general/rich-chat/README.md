@@ -49,4 +49,4 @@ Private messages are only visible to the reciever, sender and the server logs, y
 
 ### Commands
 
-Certain commands such as `/claimlist` will send messages that are only visible to you. These kind of messages help to keep the chat clean and they are majorly targeted at the one who ran the command
+Certain commands such as `/claimlist` will send messages that are only visible to you. These kind of messages help to keep the chat clean and they are majorly targeted at the one who ran the command.
