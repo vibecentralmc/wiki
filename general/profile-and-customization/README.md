@@ -1,4 +1,4 @@
-# Profile and customization
+# Profile customization
 This GUI let's you customize how your name and you appear in the server
 
 
