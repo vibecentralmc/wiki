@@ -2,7 +2,7 @@
 
 We have tons of custom-made quests in various categories you can do for fun or a challenge. If you ever don't know what to do, quests are a great way to keep occupied!
 
-Each quest can be completely once every 7 days.
+Each quest can be complete once every 7 days.
 
 ### Commands
 
