@@ -1,6 +1,6 @@
 # Nicknames
 
-Nicknames allow you to change your display name on the server. They appear anywhere your username would appear while you're online. Nicknames must be between 3-14 characters and can be changed at max once every 7 days.
+Nicknames allow you to change your display name on the server. They appear anywhere your username would appear while you're online. Nicknames must be between 3-14 characters and can be changed at any time.
 
 Your nickname must be a real nickname you associate with, containing no strong language or references to sensitive or offensive topics, and abides by the [server rules](../community-guidelines.md).
 
