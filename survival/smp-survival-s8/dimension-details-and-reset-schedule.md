@@ -18,15 +18,15 @@ Generated fully on **1.21.5**\
 
 ### Resource World
 
-Next reset **Aug 13**\
-Last reset **N/A**\
+Next reset **Feb 27**\
+Last reset **Dec 26**\
 Dimensions: **20k x 20k** blocks (10k out all directions from spawn)\
 Generated fully on **1.21.5**
 
 ### The End
 
-Next reset **Aug 10**\
-Last reset **July 10**\
+Next reset **Feb 27**\
+Last reset **Dec 26**\
 Dimensions: **60k x 60k** blocks (30k out all directions from portal center)\
 Generated fully on **1.21.5**
 
