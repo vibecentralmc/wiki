@@ -11,7 +11,7 @@ This GUI let's you customize how your name and you appear in the server
 * Edit your [Particle Packs](vibe-particle-packs.md)
 * Change/Disable your [Glow](glows.md) color
 
-<img src="../../.gitbook/assets/profile_customization.png">
+<img src="../../.gitbook/assets/profile customization.png">
 
 # Your Server Profile
 Your server profile can be opened via clicking on your head in **`/profile`**. It shows various statistics and options including in a centralized place for easy management.
