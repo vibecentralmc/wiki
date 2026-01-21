@@ -1,5 +1,5 @@
 # Profile customization
-This GUI let's you customize how your name and you appear in the server
+This GUI lets you customize how your name and you appear in the server
 
 
 ### **Included options & details**
