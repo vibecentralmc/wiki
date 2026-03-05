@@ -10,6 +10,7 @@ Use **`/warp resource`** to return to your last location in the resource world (
 * RTPing costs a discounted price of **15** vibecoin
 * [Resource sethomes/waypoints](tweak-list/personal-waypoints.md) allow you to save waypoints in the world
 * Your location in the resource world persists when you change worlds, so you can return back to the resource world and be in the same place you left off
+* Daylight cycle is disabled
 * Nether & end is shared with the main world ones
 * Claiming, setting warps and regular sethomes is disabled
 * 50% reduced hostile mob spawns compared to the main world
