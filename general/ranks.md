@@ -147,7 +147,7 @@ Vibe features six VIP tier ranks with an increasing amount of non pay to win exc
 
 ## Benefactor
 
-Benefactors are folk who have generously donated $100 or more to vibe. The role itself shares the same abilities as VIP Tier 6, with the exception of a special prefix and the ability to `/hug all`. There is a special benefactor hall at the [hub](misc./hub.md) that showcases the benefactors.\
+Benefactors are folk who have generously donated $100 or more to vibe. The role itself shares the same abilities as VIP Tier 6, with the exception of a special prefix and the ability to `/hug all` and skip teleportation warm up timers. There is a special benefactor hall at the [hub](misc./hub.md) that showcases the benefactors.\
 \
 Benefactors are allowed to request special accommodations within reason, such as custom name decorations, join messages, etc. While we do our best to honor requests, they are ultimately subject to staff discretion.
 
