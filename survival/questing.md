@@ -309,6 +309,39 @@ _Must be completed in a desert!_\
 \- 3 quest points\
 \- 115 vibe exp
 
+### Flower Picking: Swamp
+
+**Time Limit**\
+25 minutes\
+\
+**Objectives**\
+\-Collect 128 blue orchids\
+\-Collect 32 lily pads\
+\-Collect 16 sea pickles\
+\
+**Rewards**\
+\- 65 vibecoin\
+\- 2 quest points\
+\- 115 vibe exp
+
+### Flower Picking: Blooming Valley
+
+**Time Limit**\
+45 minutes\
+\
+**Objectives**\
+\-Collect 64 alliums\
+\-Collect 64 dandelions\
+\-Collect 35 azure bluets\
+\-Collect 64 cornflowers\
+\-Collect 35 lily of the valleys\
+\-Collect 64 tulips\
+\
+**Rewards**\
+\- 85 vibecoin\
+\- 3 quest points\
+\- 115 vibe exp
+
 ### Flower Picking: Oak Forest
 
 Stroll about an oak forest and collect some pretty flowers. Maybe gift them to a friend?\
