@@ -452,6 +452,21 @@ How are these guys so fast?\
 \- 1 quest point\
 \- 115 vibe exp
 
+### Sunken Souls
+
+Errgh...grhrhhehh...blub\
+\
+**Time Limit**\
+25 Minutes\
+\
+**Objectives**\
+\-Kill 35 drowned\
+\
+**Rewards**\
+\- 75 vibecoin\
+\- 3 quest points\
+\- 230 vibe exp
+
 ### Evoker Eviction
 
 **Objectives**\
@@ -461,6 +476,19 @@ How are these guys so fast?\
 \- 75 vibecoin\
 \- 3 quest point\
 \- 230 vibe exp
+
+### Swirly Trials
+
+**Time Limit**\
+30 Minutes\
+\
+**Objectives**\
+\-Kill 15 breezes\
+\
+**Rewards**\
+\- 75 vibecoin\
+\- 3 quest points\
+\- 115 vibe exp
 
 ### Wither's End
 
