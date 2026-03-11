@@ -609,6 +609,22 @@ Rewards\
 \- 2 quest points\
 \- 115 vibe exp
 
+### Ol' Fashioned Fishin'
+
+Anyone can fish with a rod.\
+But grabbin' fish barehanded?\
+Now that's real angler talent.\
+\
+Objectives\
+\-Catch 8 Cod by Hand\
+\-Catch 16 Salmon by Hand\
+\-Catch 24 Squid by Hand\
+\
+Rewards\
+\- 75 vibecoin\
+\- 3 quest points\
+\- 115 vibe exp
+
 ### 0.8% chance
 
 Reel in the rarest fishing loot- a nametag!\
