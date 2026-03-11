@@ -82,7 +82,7 @@ _This quest is sponsored by wingwom™_\
 **Rewards**\
 \- 85 vibecoin\
 \- 2 quest points\
-\- 230 vibe exp
+\- 115 vibe exp
 
 ### Nether Wart Farming
 
@@ -358,7 +358,7 @@ Must be completed in an oak forest!\
 \- Collect 3 dandelions\
 \
 **Rewards**\
-\- 100 vibecoin\
+\- 75 vibecoin\
 \- 3 quest points\
 \- 115 vibe exp
 
@@ -368,7 +368,7 @@ Must be completed in an oak forest!\
 \- Shear 50 different sheep\
 \
 **Rewards**\
-\- 125 vibecoin\
+\- 115 vibecoin\
 \- 2 quest points\
 \- 115 vibe exp
 
@@ -591,7 +591,7 @@ Must be completed in the end!\
 **Rewards**\
 \- 75 vibecoin\
 \- 3 quest points\
-\- 230 vibe exp
+\- 115 vibe exp
 
 ### Fisherman's delight
 
