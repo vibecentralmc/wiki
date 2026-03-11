@@ -899,6 +899,17 @@ Enter the end dimension and take out the Dragon!\
 \- 115 vibe exp\
 \- 32x xp orb bottles
 
+### Grander Granular Grandeur
+
+**Objectives**\
+\- Mine 1,000 red sand blocks \
+\
+**Rewards**\
+\- 125 vibecoin\
+\- 4 quest points\
+\- 230 vibe exp\
+\- 64x xp orb bottles
+
 ### Dark Oak Dream
 
 **Objectives**\
