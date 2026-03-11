@@ -556,11 +556,11 @@ They shimmer oddly and make no ripples\
 You probably shouldn't eat them\
 Must be completed in the end!\
 \
-Objectives\
+**Objectives**\
 \- Catch 10 cod in the End\
 \- Catch 6 salmon in the End\
 \
-Rewards\
+**Rewards**\
 \- 75 vibecoin\
 \- 3 quest points\
 \- 230 vibe exp
@@ -570,23 +570,23 @@ Rewards\
 A lovely haul from the sea\
 Tip: Use luck of the sea & lure for faster completion!\
 \
-Objectives\
+**Objectives**\
 \- Catch 30 cod\
 \- Catch 15 salmon\
 \- Catch 6 pufferfish\
 \- Catch 1 tropical fish\
 \
-Rewards\
+**Rewards**\
 \- 135 vibecoin\
 \- 4 quest points\
 \- 230 vibe exp
 
 ### Rodception!
 
-Objectives\
+**Objectives**\
 \- Reel in another Fishing Rod\
 \
-Rewards\
+**Rewards**\
 \- 115 Vibecoin\
 \- 4 quest points\
 \- 230 vibe exp
@@ -596,10 +596,10 @@ Rewards\
 ;o;\
 Tip: Use luck of the sea & lure for faster completion!\
 \
-Objectives\
+**Objectives**\
 \- Reel in 1 tropical fish (AKA Nemo)\
 \
-Rewards\
+**Rewards**\
 \- 45 vibecoin\
 \- 2 quest points\
 \- 115 vibe exp
@@ -610,12 +610,12 @@ Cool air, quiet sea, calm mind.\
 Night is the fisher's friend.\
 /resnight is reccomended!\
 \
-Objectives\
+**Objectives**\
 \- Catch 16 cod at night\
 \- Catch 8 salmon at night\
 \- Catch 3 pufferfish at night\
 \
-Rewards\
+**Rewards**\
 \- 95 vibecoin\
 \- 4 quest points\
 \- 230 vibe exp
@@ -624,20 +624,20 @@ Rewards\
 
 How is all this junk getting in the ocean?!\
 \
-Objectives\
+**Objectives**\
 \- Reel in 15 junk items\
 \
-Rewards\
+**Rewards**\
 \- 135 vibecoin\
 \- 4 quest points\
 \- 230 vibe exp
 
 ### Enchanted Catch
 
-Objectives\
+**Objectives**\
 \- Reel in an Enchanted Book\
 \
-Rewards\
+**Rewards**\
 \- 45 vibecoin\
 \- 2 quest points\
 \- 115 vibe exp
@@ -648,12 +648,12 @@ Anyone can fish with a rod.\
 But grabbin' fish barehanded?\
 Now that's real angler talent.\
 \
-Objectives\
+**Objectives**\
 \-Catch 8 Cod by Hand\
 \-Catch 16 Salmon by Hand\
 \-Catch 24 Squid by Hand\
 \
-Rewards\
+**Rewards**\
 \- 75 vibecoin\
 \- 3 quest points\
 \- 115 vibe exp
@@ -663,10 +663,10 @@ Rewards\
 Reel in the rarest fishing loot- a nametag!\
 Tip: Use luck of the sea & lure for faster completion!\
 \
-Objectives\
+**Objectives**\
 \- Reel in 1 nametag\
 \
-Rewards\
+**Rewards**\
 \- 135 vibecoin\
 \- 4 quest points\
 \- 230 vibe exp
