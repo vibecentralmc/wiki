@@ -705,6 +705,16 @@ Tip: Use luck of the sea & lure for faster completion!\
 
 <summary>Challenges &#x26; Misc.</summary>
 
+### Serious Business
+
+**Objectives**\
+\-Trade with Villagers 60 times\
+\
+**Rewards**\
+\- 60 vibecoin\
+\- 2 quest points\
+\- 115 vibe exp
+
 ### Birds eye
 
 Grab some rockets and shoot for the skies!\
@@ -778,6 +788,21 @@ No? Okay, sorry.\
 \- 3 quest points\
 \- 115 vibe exp
 
+### How far can this go?
+
+**Objectives**\
+\-Travel 500m in a boat\
+\-Travel 800m on a horse\
+\-Travel 300m in a minecart\
+\-Travel 150m on a pig\
+\-Travel 100m on a happy ghast\
+\-Travel 250m on a strider\
+\
+**Rewards**\
+\- 155 vibecoin\
+\- 4 quest points\
+\- 230 vibe exp
+
 ### Extreme Jumping Jacks
 
 **Objectives**\
@@ -798,6 +823,16 @@ Take a ride and enjoy the journey!\
 \
 **Rewards**\
 \- 125 vibecoin\
+\- 4 quest points\
+\- 230 vibe exp
+
+### Horsing Around
+
+**Objectives**\
+\-Ride 10,000m on horseback\
+\
+**Rewards**\
+\- 115 vibecoin\
 \- 4 quest points\
 \- 230 vibe exp
 
