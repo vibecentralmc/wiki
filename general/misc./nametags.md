@@ -4,7 +4,7 @@ Vibe features customized nametags for players that features Server Rank, Ping, C
 
 ### Breakdown
 
-<figure><img src="../../.gitbook/nametag_breakdown.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/nametag_breakdown.png" alt=""><figcaption></figcaption></figure>
 
 * [Ranks](../ranks.md) will be shown in the top left of nametags
 * [Nicknames](..//profile-and-customization/nicknames.md) are shown in the top-middle part of nametags
