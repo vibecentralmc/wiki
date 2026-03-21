@@ -147,11 +147,11 @@ Vibe features six VIP tier ranks with an increasing amount of non pay to win exc
 
 ## Benefactor
 
-<div align="left"><figure><img src="../.gitbook/assets/benefactor (1).png" alt=""><figcaption></figcaption></figure></div>
-
 Benefactors are folk who have generously donated $100 or more to vibe. There is a special benefactor hall at the [hub](misc./hub.md) that showcases the benefactors.\
 \
 Benefactors are allowed to request special accommodations within reason, such as custom name decorations, join messages, etc. While we do our best to honor requests, they are ultimately subject to staff discretion.
+
+<div align="left"><figure><img src="../.gitbook/assets/benefactor (1).png" alt=""><figcaption></figcaption></figure></div>
 
 **Unlocks perks:**
 * All previous tiers' perks (excluding claim blocks)
