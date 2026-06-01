@@ -8,6 +8,10 @@ _The exact time the reset occurs on the date varies, but typically is around 6pm
 _These reset times are also displayed in our #resets channel on Discord._
 {% endhint %}
 
+{% hint style="info" %]
+_Dates updated at June 1st, 5:17:21 PM_
+{% endhint %}
+
 ### The Overworld
 
 Season 8 started on June 13, 2025 and is expected to continue at least a year.\
@@ -18,15 +22,15 @@ Generated fully on **1.21.5**\
 
 ### Resource World
 
-Next reset **Feb 27**\
-Last reset **Dec 26**\
+Next reset **N/A**\
+Last reset **Mar 4**\
 Dimensions: **20k x 20k** blocks (10k out all directions from spawn)\
 Generated fully on **1.21.5**
 
 ### The End
 
-Next reset **Feb 27**\
-Last reset **Dec 26**\
+Next reset **N/A**\
+Last reset **Mar 4**\
 Dimensions: **60k x 60k** blocks (30k out all directions from portal center)\
 Generated fully on **1.21.5**
 
