@@ -2,7 +2,7 @@
 
 Remote Chat is a feature that allows people to join the in-game server chat from the discord server. Use `/remotechat start` and `/remotechat end` commands to start and end a remote chat session.
 
-<figure><img src="../.gitbook/assets/rmt_chat.png"></figure>
+<figure><img src="../../.gitbook/assets/rmt_cht.png"></figure>
 
 The following is currently forwarded from mc to discord chat sessions:
 * (first) Joins/Disconnects
@@ -17,3 +17,9 @@ The following is currently NOT forwarded from mc to discord chat sessions:
 * GIFs, Stickers and other attachments
 * Emojis
 * Swears and other profanity regardless if the user has toggled [`/profanity`](general/rich-chat/profanity-censoring.md) off/on in-game
+
+
+{% hint style="warning" %}
+Please obey Vibes and Discords Community Guidelines while using Remote Chat!
+{% end-hint%}
+
