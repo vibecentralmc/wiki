@@ -1,6 +1,6 @@
 # Voting
 
-Voting for vibe on PlanetMinecraft every 24 hours is an easy way for players to support the server and get rewards in the process!
+Voting for Vibe on PlanetMinecraft (PMC) every 24 hours is an easy way for players to support the server and get rewards in the process!
 
 [**Vote here!**](https://www.planetminecraft.com/server/vibe-central/vote/)
 
