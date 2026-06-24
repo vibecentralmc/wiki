@@ -57,7 +57,7 @@ All skills max out at level 50
     * Vigor
     * Defense
 * **Farming**
-  * EXP is gained by harvesting crops and breeding animals
+  * EXP is gained by **harvesting crops** and breeding animals
   * Abilities:
     * Satiation
     * Farmers Fortune
