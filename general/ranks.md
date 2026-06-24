@@ -156,7 +156,7 @@ Benefactors are allowed to request special accommodations within reason, such as
 * All previous tiers' perks (excluding claim blocks)
 * Skipping teleportation warm up time
 * Being able to **`/hug all`** players
-* [Personal waypoint](../survival/tweak-list/personal-waypoints.md) linit **32 > Limitless**
+* [Personal waypoint](../survival/tweak-list/personal-waypoints.md) limit **32 > Limitless**
   
 
 ## Moderator / Helper
