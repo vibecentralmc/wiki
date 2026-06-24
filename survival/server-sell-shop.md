@@ -49,7 +49,6 @@ It can be accessed via the ``/warp servershop`` command or directly by ``/warp m
 | Item                   | Amount | Sellprice |
 | :----------------      | :----: | ------:   |
 | Deepslate Copper Ore   | 10     | 6.5       |
-| Copper Ore             | 10     | 5         |
 | Deepslate Emerald Ore  | 6      | 36        |
 | Emerald Ore            | 6      | 36        |
 | Deepslate Diamond Ore  | 6      | 17.5      |

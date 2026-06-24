@@ -42,8 +42,11 @@ This message also has a [smiley](smileys.md) that we can hover!
 
 ## Private Messages
 
-Example section pending
+Private messages are only visible to the reciever, sender and the server logs, you can send private messages to online people via `/msg` and `/mail send <player username>` if they're offline.
+
+<img src="../../.gitbook/assets/private_message_ex.png">
+<img src="../../.gitbook/assets/mail_ex.png">
 
 ### Commands
 
-Commands section pending
+Certain commands such as `/claimlist` will send messages that are only visible to you. These kind of messages help to keep the chat clean and they are majorly targeted at the one who ran the command.

@@ -24,4 +24,4 @@ As of 5/24, Skye received a major v5 update that leverages a fine tuned large la
 
 As of 3/25, Skye was updated to v5.8, which introduced new experimental features like periodic chat participation and retainment of a small rolling context window including public chat messages, level up, deaths, etc. to provide more contextual responses and engage across LLM sessions from users.
 
-You can choose to permanently opt-out of Skye usage & AI processing using the **/skyoptout** command.
+You can choose to permanently opt-out of Skye usage & AI processing using the **/skyeoptout** command.

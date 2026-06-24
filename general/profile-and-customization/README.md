@@ -1,12 +1,20 @@
-# Profile and customization
+# Profile customization
+This GUI lets you customize how your name and you appear in the server
 
-{% hint style="warning" %}
-Some of the information and content on this page is outdated. Updates are pending!
-{% endhint %}
-
-Your server profile can be opened via **`/profile`**. It shows various statistics and options including in a centralized place for easy management.
 
 ### **Included options & details**
+
+* Change your [Nickname](nicknames.md)
+* Change your [Nametag Decoration](nametag-decorations.md)
+* Change your name color
+* Change your [join message](joim-messages.md)
+* Edit your [Particle Packs](vibe-particle-packs.md)
+* Change/Disable your [Glow](glows.md) color
+
+<img src="../../.gitbook/assets/profile customization.png">
+
+# Your Server Profile
+Your server profile can be opened via clicking on your head in **`/profile`**. It shows various statistics and options including in a centralized place for easy management.
 
 * Edit your [nickname](nicknames.md)
 * Select your [particle effects](vibe-particle-pack.md)
@@ -22,4 +30,4 @@ Your server profile can be opened via **`/profile`**. It shows various statistic
 * Your [VIP](broken-reference) status
 * A help button to report issues to the staff team
 
-<figure><img src="../../.gitbook/assets/Profile_New.png" alt=""><figcaption></figcaption></figure>
+<img src="../../.gitbook/assets/Profile_New.png">
