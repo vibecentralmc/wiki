@@ -82,7 +82,7 @@ _This quest is sponsored by wingwom™_\
 **Rewards**\
 \- 85 vibecoin\
 \- 2 quest points\
-\- 230 vibe exp
+\- 115 vibe exp
 
 ### Nether Wart Farming
 
@@ -309,6 +309,39 @@ _Must be completed in a desert!_\
 \- 3 quest points\
 \- 115 vibe exp
 
+### Flower Picking: Swamp
+
+**Time Limit**\
+25 minutes\
+\
+**Objectives**\
+\-Collect 128 blue orchids\
+\-Collect 32 lily pads\
+\-Collect 16 sea pickles\
+\
+**Rewards**\
+\- 65 vibecoin\
+\- 2 quest points\
+\- 115 vibe exp
+
+### Flower Picking: Blooming Valley
+
+**Time Limit**\
+45 minutes\
+\
+**Objectives**\
+\-Collect 64 alliums\
+\-Collect 64 dandelions\
+\-Collect 35 azure bluets\
+\-Collect 64 cornflowers\
+\-Collect 35 lily of the valleys\
+\-Collect 64 tulips\
+\
+**Rewards**\
+\- 85 vibecoin\
+\- 3 quest points\
+\- 115 vibe exp
+
 ### Flower Picking: Oak Forest
 
 Stroll about an oak forest and collect some pretty flowers. Maybe gift them to a friend?\
@@ -325,7 +358,7 @@ Must be completed in an oak forest!\
 \- Collect 3 dandelions\
 \
 **Rewards**\
-\- 100 vibecoin\
+\- 75 vibecoin\
 \- 3 quest points\
 \- 115 vibe exp
 
@@ -335,7 +368,7 @@ Must be completed in an oak forest!\
 \- Shear 50 different sheep\
 \
 **Rewards**\
-\- 125 vibecoin\
+\- 115 vibecoin\
 \- 2 quest points\
 \- 115 vibe exp
 
@@ -419,6 +452,21 @@ How are these guys so fast?\
 \- 1 quest point\
 \- 115 vibe exp
 
+### Sunken Souls
+
+Errgh...grhrhhehh...blub\
+\
+**Time Limit**\
+25 Minutes\
+\
+**Objectives**\
+\-Kill 35 drowned\
+\
+**Rewards**\
+\- 75 vibecoin\
+\- 3 quest points\
+\- 230 vibe exp
+
 ### Evoker Eviction
 
 **Objectives**\
@@ -428,6 +476,19 @@ How are these guys so fast?\
 \- 75 vibecoin\
 \- 3 quest point\
 \- 230 vibe exp
+
+### Swirly Trials
+
+**Time Limit**\
+30 Minutes\
+\
+**Objectives**\
+\-Kill 15 breezes\
+\
+**Rewards**\
+\- 75 vibecoin\
+\- 3 quest points\
+\- 115 vibe exp
 
 ### Wither's End
 
@@ -523,37 +584,37 @@ They shimmer oddly and make no ripples\
 You probably shouldn't eat them\
 Must be completed in the end!\
 \
-Objectives\
+**Objectives**\
 \- Catch 10 cod in the End\
 \- Catch 6 salmon in the End\
 \
-Rewards\
+**Rewards**\
 \- 75 vibecoin\
 \- 3 quest points\
-\- 230 vibe exp
+\- 115 vibe exp
 
 ### Fisherman's delight
 
 A lovely haul from the sea\
 Tip: Use luck of the sea & lure for faster completion!\
 \
-Objectives\
+**Objectives**\
 \- Catch 30 cod\
 \- Catch 15 salmon\
 \- Catch 6 pufferfish\
 \- Catch 1 tropical fish\
 \
-Rewards\
+**Rewards**\
 \- 135 vibecoin\
 \- 4 quest points\
 \- 230 vibe exp
 
 ### Rodception!
 
-Objectives\
+**Objectives**\
 \- Reel in another Fishing Rod\
 \
-Rewards\
+**Rewards**\
 \- 115 Vibecoin\
 \- 4 quest points\
 \- 230 vibe exp
@@ -563,10 +624,10 @@ Rewards\
 ;o;\
 Tip: Use luck of the sea & lure for faster completion!\
 \
-Objectives\
+**Objectives**\
 \- Reel in 1 tropical fish (AKA Nemo)\
 \
-Rewards\
+**Rewards**\
 \- 45 vibecoin\
 \- 2 quest points\
 \- 115 vibe exp
@@ -577,12 +638,12 @@ Cool air, quiet sea, calm mind.\
 Night is the fisher's friend.\
 /resnight is reccomended!\
 \
-Objectives\
+**Objectives**\
 \- Catch 16 cod at night\
 \- Catch 8 salmon at night\
 \- Catch 3 pufferfish at night\
 \
-Rewards\
+**Rewards**\
 \- 95 vibecoin\
 \- 4 quest points\
 \- 230 vibe exp
@@ -591,22 +652,38 @@ Rewards\
 
 How is all this junk getting in the ocean?!\
 \
-Objectives\
+**Objectives**\
 \- Reel in 15 junk items\
 \
-Rewards\
+**Rewards**\
 \- 135 vibecoin\
 \- 4 quest points\
 \- 230 vibe exp
 
 ### Enchanted Catch
 
-Objectives\
+**Objectives**\
 \- Reel in an Enchanted Book\
 \
-Rewards\
+**Rewards**\
 \- 45 vibecoin\
 \- 2 quest points\
+\- 115 vibe exp
+
+### Ol' Fashioned Fishin'
+
+Anyone can fish with a rod.\
+But grabbin' fish barehanded?\
+Now that's real angler talent.\
+\
+**Objectives**\
+\-Catch 8 Cod by Hand\
+\-Catch 16 Salmon by Hand\
+\-Catch 24 Squid by Hand\
+\
+**Rewards**\
+\- 75 vibecoin\
+\- 3 quest points\
 \- 115 vibe exp
 
 ### 0.8% chance
@@ -614,10 +691,10 @@ Rewards\
 Reel in the rarest fishing loot- a nametag!\
 Tip: Use luck of the sea & lure for faster completion!\
 \
-Objectives\
+**Objectives**\
 \- Reel in 1 nametag\
 \
-Rewards\
+**Rewards**\
 \- 135 vibecoin\
 \- 4 quest points\
 \- 230 vibe exp
@@ -627,6 +704,16 @@ Rewards\
 <details>
 
 <summary>Challenges &#x26; Misc.</summary>
+
+### Serious Business
+
+**Objectives**\
+\-Trade with Villagers 60 times\
+\
+**Rewards**\
+\- 60 vibecoin\
+\- 2 quest points\
+\- 115 vibe exp
 
 ### Birds eye
 
@@ -701,6 +788,21 @@ No? Okay, sorry.\
 \- 3 quest points\
 \- 115 vibe exp
 
+### How far can this go?
+
+**Objectives**\
+\-Travel 500m in a boat\
+\-Travel 800m on a horse\
+\-Travel 300m in a minecart\
+\-Travel 150m on a pig\
+\-Travel 100m on a happy ghast\
+\-Travel 250m on a strider\
+\
+**Rewards**\
+\- 155 vibecoin\
+\- 4 quest points\
+\- 230 vibe exp
+
 ### Extreme Jumping Jacks
 
 **Objectives**\
@@ -721,6 +823,16 @@ Take a ride and enjoy the journey!\
 \
 **Rewards**\
 \- 125 vibecoin\
+\- 4 quest points\
+\- 230 vibe exp
+
+### Horsing Around
+
+**Objectives**\
+\-Ride 10,000m on horseback\
+\
+**Rewards**\
+\- 115 vibecoin\
 \- 4 quest points\
 \- 230 vibe exp
 
@@ -786,6 +898,17 @@ Enter the end dimension and take out the Dragon!\
 \- 3 quest points\
 \- 115 vibe exp\
 \- 32x xp orb bottles
+
+### Grander Granular Grandeur
+
+**Objectives**\
+\- Mine 1,000 red sand blocks \
+\
+**Rewards**\
+\- 125 vibecoin\
+\- 4 quest points\
+\- 230 vibe exp\
+\- 64x xp orb bottles
 
 ### Dark Oak Dream
 
