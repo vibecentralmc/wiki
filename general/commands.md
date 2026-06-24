@@ -118,7 +118,7 @@ These commands require certain [VIP tiers](ranks.md#vip-tiers-1-6) to use
 * **`/glows`** **`/glow`** Opens the glow selector menu
 * **`/pp`** Open the [particle pack](profile-and-customization/vibe-particle-pack.md) menu
 * **`/tags`** Select your nametag decoration
-* **`/scale`** Change your characterz size
+* **`/scale`** Change your character's size
 
 ## Creative plot commands
 
