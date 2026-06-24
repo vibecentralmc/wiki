@@ -11,13 +11,16 @@ Players earn party game points called Stars by placing 1st (+3), 2nd (+2), or 3r
 There are currently 19 minigames
 
 * TNT Run
+    In TNT Run, players are 
 * Color Dash
 * Memory
 * King of the hill
 * Minecart racing
 * Color Dive
 * Spleef
+  - In Spleef, your goal is to destroy the blocks below other players, droping them onto different layers until eventually falling into a layer of lava. The last player standing at the end of the round wins!
 * Paintball
+  - In Paintball, players are put into an arena with the goal of hitting other players with snowballs. Hitting a player gives you a temporary speed boost. The player with the most hits at the end of the round wins!
 * Avalanche
 * TNT Tag
 * Warden Arena
