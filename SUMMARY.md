@@ -35,7 +35,7 @@
 
 ## 🌴 survival
 
-* [SMP Survival - S8](survival/smp-survival-s8/README.md)
+* [SMP Survival - S9](survival/smp-survival-s8/README.md)
   * [Season information](survival/smp-survival-s8/season-information.md)
   * [Dimension Details & Reset Schedule](survival/smp-survival-s8/dimension-details-and-reset-schedule.md)
 * [Tweak list](survival/tweak-list/README.md)

@@ -9,7 +9,7 @@ Teleport to vibetown using th&#x65;**`/warp vibetown`** command
 {% endhint %}
 
 {% hint style="warning" %}
-Season 8 is yet to have a vibetown established
+Season 9 is yet to have a vibetown established
 {% endhint %}
 
 The main vibetown spawn house has beds, community chests, and a community supplied enchantment table and [enchantment upgrade table](tweak-list/enchantment-upgrade-tables.md)!

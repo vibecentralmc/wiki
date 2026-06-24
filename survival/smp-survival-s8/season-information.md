@@ -11,7 +11,7 @@ The SMP operates on a season based rotation. Based on community retention (rough
 New seasons only affect the smp itself. Players member or vip ranks, server level, and content in creative plots & parkour are never reset in new seasons. **Play time is season based, so it will be reset!**
 
 {% hint style="info" %}
-The smp is currently in its 8th season, which began June 13, 2025
+The smp is currently in its 9th season, which began June 16, 2026
 {% endhint %}
 
 ## **What isn't reset?**
@@ -32,11 +32,9 @@ We always give ample notice before a new season begins. We will make frequent an
   \
   [Fabric installation tutorial](https://www.youtube.com/watch?v=vNz0z1Aht1U)\
   [Litematica download](https://www.curseforge.com/minecraft/mc-mods/litematica)\
-  [Litematica copy and paste tutorial](https://www.youtube.com/watch?v=LTF3XYh7T58\&t=36s)\
-
-* If you're unable to get Litematica working, we are happy to create .schematic files of your work for you. Schematic files are a kind of file that can store MC build data, and are widely supported among lots of Minecraft related mods & software. With these files, you can store and import them to your worlds using various mods and software like AmuletMC, WorldEdit or Litematica.\
-
-* Additionally, if builds are small enough, we may consider allowing you to copy and paste them into the [creative plotworld](broken-reference) using our server side [WorldEdit](../../general/misc./worldedit.md).
+  [Litematica copy and paste tutorial](https://www.youtube.com/watch?v=LTF3XYh7T58\&t=36s)\\
+* If you're unable to get Litematica working, we are happy to create .schematic files of your work for you. Schematic files are a kind of file that can store MC build data, and are widely supported among lots of Minecraft related mods & software. With these files, you can store and import them to your worlds using various mods and software like AmuletMC, WorldEdit or Litematica.\\
+* Additionally, if builds are small enough, we may consider allowing you to copy and paste them into the [creative plotworld](broken-reference/) using our server side [WorldEdit](../../general/misc./worldedit.md).
 
 ## **Can't we just keep the same world?**
 
@@ -60,4 +58,4 @@ Yep! new seasons worlds are freshly generated, opening up an entire unexplored w
 
 ## W**ill there be a season recap?**
 
-Per server tradition, at the end of seasons, we release a special recap page will be available for you to view. The page shows lots of nifty and fun stats from the season, like total hours played by all players, total blocks placed/broken, and more! The page will be announced in our [Discord](../../general/discord.md) server shortly after seasons end.\
+Per server tradition, at the end of seasons, we release a special recap page will be available for you to view. The page shows lots of nifty and fun stats from the season, like total hours played by all players, total blocks placed/broken, and more! The page will be announced in our [Discord](../../general/discord.md) server shortly after seasons end.

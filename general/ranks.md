@@ -83,10 +83,9 @@ Vibe features six VIP tier ranks with an increasing amount of non pay to win exc
 * **Creative plot limit 8 > 10**
 * **+15%** faster survival [utility fly](../survival/tweak-list/utility-flight.md) speed
 * Custom colors for [nametag decorations](profile-and-customization/nametag-decorations.md)
-
-- **`/fly`** Free [utility fly](../survival/tweak-list/utility-flight.md) with no xp cost
-- **`/nv`** Toggle infinite night vision on and off
-- **`/glow`** Select your colored outline color\
+* **`/fly`** Free [utility fly](../survival/tweak-list/utility-flight.md) with no xp cost
+* **`/nv`** Toggle infinite night vision on and off
+* **`/glow`** Select your colored outline color\
   \
   [Command descriptions](commands.md#vip-exclusive)
 
@@ -121,8 +120,7 @@ Vibe features six VIP tier ranks with an increasing amount of non pay to win exc
 * **10%** less [vibecoin respawn fee](../survival/economy.md)
 * **`/enderchest`** _Open your enderchest anywhere_
 * **`/pp`** _Manage your_ [_Particle Packs_](general/profile-and-customization/vibe-particle-pack.md)
-* **`/scale`** Change your character [Scale](survival/tweak-list/scale-menu.md)
-  \
+* **`/scale`** Change your character [Scale](survival/tweak-list/scale-menu.md)\
   [Command descriptions](commands.md#vip-exclusive)
 
 #### Vip Tier 6
@@ -146,6 +144,7 @@ Vibe features six VIP tier ranks with an increasing amount of non pay to win exc
 </details>
 
 ## Benefactor
+
 <div align="left"><figure><img src="../.gitbook/assets/benefactor (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Benefactors are folk who have generously donated $100 or more to vibe. There is a special benefactor hall at the [hub](misc./hub.md) that showcases the benefactors.\
@@ -153,11 +152,11 @@ Benefactors are folk who have generously donated $100 or more to vibe. There is 
 Benefactors are allowed to request special accommodations within reason, such as custom name decorations, join messages, etc. While we do our best to honor requests, they are ultimately subject to staff discretion.
 
 **Unlocks perks:**
+
 * All previous tiers' perks (excluding claim blocks)
 * Skipping teleportation warm up time
 * Being able to **`/hug all`** players
-* [Personal waypoint](../survival/tweak-list/personal-waypoints.md) linit **32 > Limitless**
-  
+* [Personal waypoint](../survival/tweak-list/personal-waypoints.md) limit **32 > Limitless**
 
 ## Moderator / Helper
 

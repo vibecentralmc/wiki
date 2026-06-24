@@ -1,6 +1,6 @@
 # WorldEdit
 
-WorldEdit is a popular building tool developed by sk89q. It allows players the ability to mass edit large quantities of blocks through commands to assist in creative building.&#x20;
+WorldEdit is a popular building tool developed by sk89q. It allows players the ability to mass edit large quantities of blocks through commands to assist in creative building.
 
 We offer a more user friendly version of WorldEdit available in [creative plots](../../creative-plots/creative-plots.md) & the [parkour builder](../../parkour/parkour.md) to help you speed up your building. Advanced WE features like brushes are not available to encourage more unique, carefully composed handmade builds. With the abilities available, we hope to reduce annoying grunt work such as filling big areas with the same block, clearing out large amounts of blocks, and so forth.
 
@@ -17,40 +17,29 @@ Unlike vanilla WorldEdit, operations on vibe are performed asynchronously and th
 ### Commands
 
 * **`//wand`**\
-  Allows you to select two positions to create a cuboid selection. Use //set or another WorldEdit command to modify the space in between the two positions. The cuboid is visualized with purple particles, and other players' cuboids are visualized with orange flame particles.\
-
+  Allows you to select two positions to create a cuboid selection. Use //set or another WorldEdit command to modify the space in between the two positions. The cuboid is visualized with purple particles, and other players' cuboids are visualized with orange flame particles.\\
 * **`//set <block,block,block,etc>`**\
-  Sets your WorldEdit selection to a target block or mix of blocks\
-
+  Sets your WorldEdit selection to a target block or mix of blocks\\
 * **`//replace <target block(s)> <with block(s)>`**\
-  Replaces target blocks within your selection with new blocks\
-
+  Replaces target blocks within your selection with new blocks\\
 * **`//fixwater <radius>`**\
-  **`//fixlava <radius>`**\
-  Turns the body of liquid you're in (within the radius) to source blocks\
-
+  &#xNAN;**`//fixlava <radius>`**\
+  Turns the body of liquid you're in (within the radius) to source blocks\\
 * **`//drain <radius>`**\
-  Drain water/lava in a body of liquid within the specified radius of you. You must be in the target body of liquid\
-
+  Drain water/lava in a body of liquid within the specified radius of you. You must be in the target body of liquid\\
 * **`//gmask <block(s)>`**\
-  Sets a global mask for your WorldEdit operations. When a global mask is active, all other blocks not included in the mask will be ignored\
-
+  Sets a global mask for your WorldEdit operations. When a global mask is active, all other blocks not included in the mask will be ignored\\
 * **`//deselect`**\
-  **`//desel`**\
-  Deselects your current WorldEdit selection\
-
+  &#xNAN;**`//desel`**\
+  Deselects your current WorldEdit selection\\
 * **`//undo`**\
-  Undoes your last WorldEdit operation\
-
+  Undoes your last WorldEdit operation\\
 * **`//copy`**\
-  **`//paste`**\
-  Copy your current selection or paste your chipboard relative to your copy position\
-
+  &#xNAN;**`//paste`**\
+  Copy your current selection or paste your chipboard relative to your copy position\\
 * **`//rotate <deg>`**\
-  Rotate your clipboard\
-
+  Rotate your clipboard\\
 * **`//flip [direction]`**\
-  Flip your clipboard the specified direction, or if no direction is specified, the direction you are currently facing\
-
+  Flip your clipboard the specified direction, or if no direction is specified, the direction you are currently facing\\
 * **`/up <num>`**\
   Teleport up x amount of blocks and place a platform under you

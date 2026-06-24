@@ -30,7 +30,7 @@ If you have any questions, concerns, or would like to see something added, pleas
 
 ### About the server
 
-Established on 1/3/20, vibe central is a close-knit community of folk who love to sit back, enjoy each others company and have a good time. Play comfortably in our no-grief guarantee survival world featuring Terralith + Geophilic world generation adding over 85 new biomes, rpg-like custom skill leveling, economy, exciting quests and challenges, player markets, personal & community waypoints, keep-inventory, mob head drops, /fly for builds, and a ton more awesome stuff! (see the full [tweaks ](survival/tweak-list/)list here)
+Established on 1/3/20, vibe central is a close-knit community of folk who love to sit back, enjoy each others company and have a good time. Play comfortably in our no-grief guarantee survival world featuring custom Terralith world generation adding over 85 new biomes, rpg-like custom skill leveling, economy, exciting quests and challenges, player markets, personal & community waypoints, keep-inventory, mob head drops, /fly for builds, and a ton more awesome stuff! (see the full [tweaks ](survival/tweak-list/)list here)
 
 Packed with exclusive plugins & features made just for vibe, we deliver a familiar yet unique experience you can't get anywhere else. We cater a friendly community of people who love vibing, and are always happy to see new members around!\
 \

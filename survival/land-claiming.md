@@ -22,18 +22,17 @@ _The highlighted claim(s) will appear with gold blocks and glowstone on the corn
 ## Granting / revoking permissions
 
 * **`/trust <name>`**\
-  Opens the trust menu to give someone access to your claim(s). Applies to the claim you're standing in, or if in no claim all your claims. Use "all" for the name if you wish to apply the permission to all members.\
-
+  Opens the trust menu to give someone access to your claim(s). Applies to the claim you're standing in, or if in no claim all your claims. Use "all" for the name if you wish to apply the permission to all members.\\
 * **`/untrust <name>`**\
   Remove someone's access to your claim(s). Applies to the claim you're standing in, or if in no claim all your claims
 
 **There are 3 tiers of permission you can choose to grant others:**
 
-<table><thead><tr><th width="287"> </th><th width="120">Complete access</th><th width="121">Containers &#x26; mobs</th><th width="123">Buttons, levers, etc.</th></tr></thead><tbody><tr><td>Build &#x26; break</td><td>       ✅</td><td>       ❌</td><td>       ❌</td></tr><tr><td>Access &#x26; modify container contents (ex. chests, furnaces)</td><td>       ✅</td><td>      ✅</td><td>       ❌</td></tr><tr><td>Open doors &#x26; gates</td><td>       ✅</td><td>       ❌</td><td>       ❌</td></tr><tr><td>Interact with &#x26; damage passive mobs</td><td>       ✅</td><td>       ✅</td><td>       ❌</td></tr><tr><td>Trigger buttons, levers, pressure plates, etc.</td><td>       ✅</td><td>       ❌</td><td>       ✅</td></tr></tbody></table>
+<table><thead><tr><th width="287"></th><th width="120">Complete access</th><th width="121">Containers &#x26; mobs</th><th width="123">Buttons, levers, etc.</th></tr></thead><tbody><tr><td>Build &#x26; break</td><td>✅</td><td>❌</td><td>❌</td></tr><tr><td>Access &#x26; modify container contents (ex. chests, furnaces)</td><td>✅</td><td>✅</td><td>❌</td></tr><tr><td>Open doors &#x26; gates</td><td>✅</td><td>❌</td><td>❌</td></tr><tr><td>Interact with &#x26; damage passive mobs</td><td>✅</td><td>✅</td><td>❌</td></tr><tr><td>Trigger buttons, levers, pressure plates, etc.</td><td>✅</td><td>❌</td><td>✅</td></tr></tbody></table>
 
 Permission management is done through the trust gui, opened after running the trust command.
 
-![](<../.gitbook/assets/image (42).png>)
+![](<../.gitbook/assets/image (26).png>)
 
 ## All commands
 
@@ -42,35 +41,21 @@ Permission management is done through the trust gui, opened after running the tr
 <summary>Expand</summary>
 
 * **`/kit claim`**\
-  Get a new claim shovel and claim checker \
-  &#xNAN;_&#x43;ooldown: 30 minutes_\
-
-
-- **`/abandonclaim`**\
-  Remove the claim you're currently standing in\
-
-
+  Get a new claim shovel and claim checker\
+  \&#xNAN;_Cooldown: 30 minutes_\\
+* **`/abandonclaim`**\
+  Remove the claim you're currently standing in\\
 * **`/trust <name>`**\
-  Opens the trust menu to give someone access to your claim(s). Applies to the claim you're standing in, or if in no claim all your claims. Use "all" for the name if you wish to apply the permission to all members.\
-
-
-- **`/untrust <name>`**\
-  Remove someone's access to your claim(s). Applies to the claim you're standing in, or if in no claim all your claims\
-
-
+  Opens the trust menu to give someone access to your claim(s). Applies to the claim you're standing in, or if in no claim all your claims. Use "all" for the name if you wish to apply the permission to all members.\\
+* **`/untrust <name>`**\
+  Remove someone's access to your claim(s). Applies to the claim you're standing in, or if in no claim all your claims\\
 * **`/trustlist`**\
-  Shows a list of the people you've granted claim permissions to\
-
-
-- **`/claimlist`**\
-  Shows a list of your claims and their locations\
-
-
+  Shows a list of the people you've granted claim permissions to\\
+* **`/claimlist`**\
+  Shows a list of your claims and their locations\\
 * **`/claimexplosions`**\
-  Enables or disables explosions in the claim you're standing in\
-
-
-- **`/trapped`**\
+  Enables or disables explosions in the claim you're standing in\\
+* **`/trapped`**\
   Teleport out of the land claim you're currently in if you're stuck
 
 </details>
@@ -91,7 +76,7 @@ Right click again on the opposite corner at the other side of your desired claim
 
 ### Step 3
 
-If the claim meets minimum size and claim blocks requirements, it will be created and temporarily outlined in gold & glowstone. You can now use the [land claim commands](land-claiming.md#commands) to add friends to the claim or manage it. &#x20;
+If the claim meets minimum size and claim blocks requirements, it will be created and temporarily outlined in gold & glowstone. You can now use the [land claim commands](land-claiming.md#commands) to add friends to the claim or manage it.
 
 {% hint style="info" %}
 You can **crouch + right-click** while holding a stick to bring up nearby claim boundaries anytime.
